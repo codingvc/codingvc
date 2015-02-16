@@ -19,7 +19,7 @@ author:
   name:           'Leo Polovets'
   url:            https://twitter.com/lpolovets
 
-paginate:         5
+paginate:         10
 
 gems:
   - jekyll-archives
