@@ -1,0 +1,18 @@
+BLOG TODOs
+
+verify that EVERY old blog post link works
+
+ask partners and a few friends waht they think of layout. sean byrnes?
+verify that email subs, comments, etc all work
+figure out how to push new version to S3
+
+improve structure of tags/archives/ways i can help/etc
+
+migrate!!
+
+ cd /home/leo/programming/codingvc; \
+    rm -rf _site; \
+    jekyll build --config _config_s3.yml; \
+    cd _site; \
+    s3cmd del -r --force s3://codingvc; \
+    s3cmd  put --recursive * s3://codingvc
