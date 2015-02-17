@@ -72,9 +72,7 @@ _Investor: "That's very true. I remember hating the review process when I worked
 
 Presenter: "Research indicates that employees spend 3% of their year on performance reviews, which results in $15B of wasted productivity every year."
 
-_Investor: "Wow! I suspected the problem was big, but I didn't realize it was 
-
-that big!"_
+_Investor: "Wow! I suspected the problem was big, but I didn't realize it was that big!"_
 
 Presenter: "My cofounders and I are building software that streamlines the performance review process. Our tool is extremely easy to use and cuts review times by 80%. It also allows employees to submit feedback whenever they want instead of during a magical once-a-year period."
 
@@ -82,9 +80,7 @@ _Investor: "Streamlining reviews and making it possible to submit feedback frequ
 
 Presenter: "Our team is amazing. We've worked at huge tech companies like Facebook and Google, and two of us have built and sold HR startups in the past."
 
-_Investor: "Wow, these guys have built and sold HR companies in the past and they worked at Facebook and Google? This team 
-
-is amazing!"_
+_Investor: "Wow, these guys have built and sold HR companies in the past and they worked at Facebook and Google? This team is amazing!"_
 
 Presenter: "Foobar is killing it! We already have 8 pilot customers, and thirty more -- including Yahoo and Dropbox -- are in the pipeline."
 
