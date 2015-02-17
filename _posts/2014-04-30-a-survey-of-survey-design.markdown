@@ -32,23 +32,23 @@ A few weeks ago, I decided it might be a good idea to survey my fund's portfolio
 ### Question phrasing  
 
 - Options should be exhaustive and mutually exclusive.  
-_Bad_: "Do you think XYZ is good, quite good, or very good?"  
-_Better_: "Do you think XYZ is bad, neutral, or good?"  
+_Bad:_ "Do you think XYZ is good, quite good, or very good?"  
+_Better:_ "Do you think XYZ is bad, neutral, or good?"  
   
 
 - Use simple, unambiguous words and avoid jargon.  
-_Bad_: "How many occupants inhabit your household?"  
-_Better_: "How many people do you live with?"  
+_Bad:_ "How many occupants inhabit your household?"  
+_Better:_ "How many people do you live with?"  
   
 
 - Questions should be neutral, not leading.  
-_Bad_: "Agree/Disagree: XYZ is an incredibly bad product."  
-_Better_: "How would you rate XYZ?"  
+_Bad:_ "Agree/Disagree: XYZ is an incredibly bad product."  
+_Better:_ "How would you rate XYZ?"  
   
 
 - Ask one thing at a time and avoid single or double negations.  
-_Bad_: "Does product XYZ have enough features to replace your existing payroll provider, or do you not have an existing payroll provider?"  
-_Better_: "Question 1 -- Do you have an existing payroll provider? If the answer is 'no', skip the next question. Question 2 -- Does product XYZ have enough features to replace your payroll provider?"
+_Bad:_ "Does product XYZ have enough features to replace your existing payroll provider, or do you not have an existing payroll provider?"  
+_Better:_ "Question 1 -- Do you have an existing payroll provider? If the answer is 'no', skip the next question. Question 2 -- Does product XYZ have enough features to replace your payroll provider?"
 
 ### Categorical multiple choice questions
 
