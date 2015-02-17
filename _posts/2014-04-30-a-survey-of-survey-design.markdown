@@ -32,22 +32,30 @@ A few weeks ago, I decided it might be a good idea to survey my fund's portfolio
 ### Question phrasing  
 
 - Options should be exhaustive and mutually exclusive.  
+<br>
 _Bad:_ "Do you think XYZ is good, quite good, or very good?"  
+<br>
 _Better:_ "Do you think XYZ is bad, neutral, or good?"  
   
 
 - Use simple, unambiguous words and avoid jargon.  
+<br>
 _Bad:_ "How many occupants inhabit your household?"  
+<br>
 _Better:_ "How many people do you live with?"  
   
 
 - Questions should be neutral, not leading.  
+<br>
 _Bad:_ "Agree/Disagree: XYZ is an incredibly bad product."  
+<br>
 _Better:_ "How would you rate XYZ?"  
   
 
 - Ask one thing at a time and avoid single or double negations.  
+<br>
 _Bad:_ "Does product XYZ have enough features to replace your existing payroll provider, or do you not have an existing payroll provider?"  
+<br>
 _Better:_ "Question 1 -- Do you have an existing payroll provider? If the answer is 'no', skip the next question. Question 2 -- Does product XYZ have enough features to replace your payroll provider?"
 
 ### Categorical multiple choice questions
@@ -71,19 +79,15 @@ _Better:_ "Question 1 -- Do you have an existing payroll provider? If the answer
 
 ### Miscellaneous tips
 
-- People are biased toward answers that make them look good, especially if surveys are administered by someone else. Self-administered surveys and anonymous surveys partially compensate for this bias.   
-
+- People are biased toward answers that make them look good, especially if surveys are administered by someone else. Self-administered surveys and anonymous surveys partially compensate for this bias. 
 - Keep surveys to a reasonable length. As responders tire of answering questions, their tendencies to agree, to satisfice, and to skip questions all increase.  
 
 <br>
 ### Further resources
 
 - <a href="https://pprg.stanford.edu/wp-content/uploads/2010-Handbook-of-Survey-Research.pdf" target="_blank">https://pprg.stanford.edu/wp-content/uploads/2010-Handbook-of-Survey-Research.pdf</a>
-- <a href="https://pprg.stanford.edu/wp-content/uploads/2009-03-Leighly-Chapter03.pdf" target="_blank">https://pprg.stanford.edu/wp-content/uploads/2009-03-Leighly-Chapter03.pdf</a>  
-
-- <a href="http://www.stanford.edu/group/ssds/cgi-bin/drupal/files/Guides/Tips_for_survey_design_2011.pdf" target="_blank">http://www.stanford.edu/group/ssds/cgi-bin/drupal/files/Guides/Tips_for_survey_design_2011.pdf</a>  
-
-- <a href="http://www.howto.gov/customer-experience/collecting-feedback/basics-of-survey-and-question-design" target="_blank">http://www.howto.gov/customer-experience/collecting-feedback/basics-of-survey-and-question-design</a>  
-
+- <a href="https://pprg.stanford.edu/wp-content/uploads/2009-03-Leighly-Chapter03.pdf" target="_blank">https://pprg.stanford.edu/wp-content/uploads/2009-03-Leighly-Chapter03.pdf</a>
+- <a href="http://www.stanford.edu/group/ssds/cgi-bin/drupal/files/Guides/Tips_for_survey_design_2011.pdf" target="_blank">http://www.stanford.edu/group/ssds/cgi-bin/drupal/files/Guides/Tips_for_survey_design_2011.pdf</a>
+- <a href="http://www.howto.gov/customer-experience/collecting-feedback/basics-of-survey-and-question-design" target="_blank">http://www.howto.gov/customer-experience/collecting-feedback/basics-of-survey-and-question-design</a>
 - <a href="http://www.360degreefeedback.net/media/ResponseScales.pdf" target="_blank">http://www.360degreefeedback.net/media/ResponseScales.pdf</a>
 - <a href="http://sitemaker.umich.edu/norbert.schwarz/files/99_ap_schwarz_self-reports.pdf" target="_blank">http://sitemaker.umich.edu/norbert.schwarz/files/99_ap_schwarz_self-reports.pdf</a>
