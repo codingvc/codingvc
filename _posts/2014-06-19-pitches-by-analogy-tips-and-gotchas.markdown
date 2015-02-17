@@ -15,8 +15,7 @@ Analogies are not a panacea, however, and I often see them misused. The most com
 - **Misleading analogies.** "We're like Airbnb for cars. We let people sell their used cars online with minimal effort." _Huh? That's very different from how Airbnb operates._
 - **Confusing analogies.** "We're like Pinterest meets LinkedIn meets Reddit." _What does that even mean??_
 - **Obscure analogies.** "We're like SomeObscureWebsite.com, but for home decoration." _What the heck is SomeObscureWebsite?_
-- **Boring analogies. **"We're like coupons.com, but for Thailand." _That doesn't sound very novel or exciting. In this case, it might be better to skip the analogy and do a more traditional elevator pitch. For example, "Thailand has a culture of shopping and bargain hunting, and their mobile penetration is over 95%. We're the first and only mobile coupon app designed for their $12b shopping sector."_  
-
+- **Boring analogies. **"We're like coupons.com, but for Thailand." _That doesn't sound very novel or exciting. In this case, it might be better to skip the analogy and do a more traditional elevator pitch. For example, "Thailand has a culture of shopping and bargain hunting, and their mobile penetration is over 95%. We're the first and only mobile coupon app designed for their $12b shopping sector."_
 - **Analogies that invite tough questions.** "We're Amazon for sporting goods." _Okay, but isn't Amazon the "Amazon for sporting goods"? A different pitch could have invited questions about your business, but instead I'm going to be thinking about Amazon and whether you can out-Amazon them. That's a hard sell._
 
 In response to these common mistakes, here are some tips for pitching by analogy:
