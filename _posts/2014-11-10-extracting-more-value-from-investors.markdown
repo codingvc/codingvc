@@ -22,8 +22,7 @@ Introductions to...
 
 - Potential hires.
 - Specific customers or partners. ("Looking for an intro to a Director of Eng or higher at Foursquare.")
-- Customers in a specific vertical. ("Looking for intros to mobile gaming companies with at least $2m in annual revenues.")  
-
+- Customers in a specific vertical. ("Looking for intros to mobile gaming companies with at least $2m in annual revenues.")
 - Experts that could help your company. ("Looking for info on handling security questions from Fortune 500 companies.")
 
 Comps for...
