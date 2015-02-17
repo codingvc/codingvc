@@ -253,11 +253,8 @@ Think about who your ideal customers are, then figure out what they have in comm
 Use Google's advanced search operators to search LinkedIn for new leads. Google shows more results and allows you to do searches that you wouldn't be able to do directly on LinkedIn. Examples:
 
 - <a href="https://www.google.com/search?q=%22demand+gen+specialists+logo%22+site%3Alinkedin.com" target="_blank">"demand gen specialists logo" site:linkedin.com</a> (people in a group called Demand Gen Specialists)  
-
 - <a href="https://www.google.com/search?q=%22internet+industry%22+%2211-50+employees%22+site%3Alinkedin.com+inurl%3Ahttps%3A%2F%2Fwww.linkedin.com%2Fcompany" target="_blank">"internet industry" "11-50 employees" site:linkedin.com inurl:https://www.linkedin.com/company</a> (small companies in the Internet industry)  
-
 - <a href="https://www.google.com/search?q=%2215..20+employees+on+LinkedIn%22+site%3Alinkedin.com+inurl%3Ahttps%3A%2F%2Fwww.linkedin.com%2Fcompany" target="_blank">"15..20 employees on LinkedIn" site:linkedin.com inurl:https://www.linkedin.com/company</a> (companies with 15-20 employees)  
-
 - <a href="https://www.google.com/search?q=%22people+also+viewed+*+*+marketo%22+site%3Alinkedin.com+inurl%3Alinkedin.com%2Fcompany" target="_blank">"people also viewed * * marketo" site:linkedin.com inurl:linkedin.com/company</a> (companies related to Marketo)  
 
 Q&A  
@@ -397,8 +394,7 @@ Danielle told the story of how Mattermark reached its first million in sales in 
 - When you're selling a brand new product, you need to have very, very high expectations. Because you don't know how high to set your goals, it's easy to settle for sales that seem healthy but are actually suboptimal.
 - Making the first sales hire is scary.
 - The first sales hire needs to be able to run the whole sales process. 
-- Upgrading from a spreadsheet to a CRM for tracking sales is a _huge_ leap forward in effectiveness.  
-
+- Upgrading from a spreadsheet to a CRM for tracking sales is a _huge_ leap forward in effectiveness.
 - Lead velocity is more valuable than lead quality in the early days. If you have a ton of leads, that's a great asset for customer development.
 - Don't just go through questionnaires on your phone calls. You need to understand what your customers are looking for. A good technique is to spend the first 25 minutes of a 30-minute sales call engaging a potential customer, building rapport, and understanding their problems, then spend the last 5 minutes demoing just the product features that they would appreciate. That's a lot more effective than pitching the product in the same, general manner to every prospect.
 - If a potential lead isn't a good fit right now, save your call notes for future reference. The person might be a better fit as your product evolves, and taking good notes will help you close in the future.
