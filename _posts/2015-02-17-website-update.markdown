@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Website Update Test"
+title: "Website Update!"
 date: 2015-02-17 00:45:00
 ---
 
