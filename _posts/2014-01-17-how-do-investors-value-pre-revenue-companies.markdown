@@ -20,7 +20,7 @@ ShopBetter was founded last week and the founders know they want to improve shop
 
 #### Thought experiment #2: Traction and Expected Near-Term Revenues
 
-ShopBetter recently released a service that lets retailers learn more about their customers. ShopBetter's businss proposition is that richer demographic info will help those retailers promote and target their products more effectively.
+ShopBetter recently released a service that lets retailers learn more about their customers. ShopBetter's business proposition is that richer demographic info will help those retailers promote and target their products more effectively.
 
 - If ShopBetter has 3 pilot customers who are nowhere near becoming paying customers, then 10% might be worth a few hundred thousands dollars (mainly because a finished product with potential is still worth something).
 - If there are 50 pilot customers, the plan is to charge each of them $1000 per month, and you believe (through surveying a few pilot customers) that about half of 50 will become paying users, then you might value 10% of ShopBetter at something like $500k or $1m.
