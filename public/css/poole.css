@@ -274,7 +274,7 @@ img {
     padding-right: .5rem;
 }
 
-footer { position: fixed; bottom: 0; background-color: #3f7cb6; width: 100%; }
+footer { position: fixed; bottom: 0; margin-bottom: 0; background-color: #3f7cb6; width: 100%; }
 
 /*
  * Messages
