@@ -45,7 +45,7 @@ The key principle to remember for demo day presentations is that your mission is
 
 ### The Full Pitch
 
-The full pitch is like a behind-the-scenes featurette -- or better yet, a special edition DVD loaded with commentaries and other extras. You want to cover everything there is to cover about your startup and how it works. Prepare a nice deck that stands alone -- because as much as you want to provide in-person narration when people first read your deck, that won't always be possible. Have appendices and supporting materials prepared for common questions about financial projections and customer acquisition. Weave <a href="{{site.url}}demo-day-pitching-part-2-telling-a-story" target="_blank">a good story</a>around your pitch, which will make your presentation more compelling and more memorable.
+The full pitch is like a behind-the-scenes featurette -- or better yet, a special edition DVD loaded with commentaries and other extras. You want to cover everything there is to cover about your startup and how it works. Prepare a nice deck that stands alone -- because as much as you want to provide in-person narration when people first read your deck, that won't always be possible. Have appendices and supporting materials prepared for common questions about financial projections and customer acquisition. Weave <a href="{{site.url}}demo-day-pitching-part-2-telling-a-story" target="_blank">a good story</a> around your pitch, which will make your presentation more compelling and more memorable.
 
 ### Common Mistakes
 
