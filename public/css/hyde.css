@@ -261,4 +261,4 @@ a.sidebar-nav-item:focus {
 .sidebar-nav { margin-bottom: 1rem; }
 #mce-EMAIL { padding-top: 6px !important; }
 .content { padding-top: 3rem; padding-bottom: 3rem; }
-footer { padding: 0.5rem 1.7rem !important; }
+footer { padding: 0.5rem 1.7rem !important;   text-align: center;  }
