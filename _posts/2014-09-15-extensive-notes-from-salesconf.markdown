@@ -44,7 +44,7 @@ Ok, on to the notes! If something doesn't make sense, it's my fault and not the 
 
 ### How to Crush Your Sales Goals by <a href="https://twitter.com/motoceo" target="_blank">Aaron Ross</a>
 
-Speaker background: Aaron spent 2002-2006 at Salesforce, where he built out the outbound prospecting team. He is also the author of <a href="http://www.amazon.com/gp/product/0984380213/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984380213&linkCode=as2&tag=lesbl0f-20&linkId=M3HEXHVTCOM2MYD2" target="_blank">Predictable Revenue</a>. [affiliate link]
+Speaker background: Aaron spent 2002-2006 at Salesforce, where he built out the outbound prospecting team. He is also the author of <a href="http://www.amazon.com/gp/product/0984380213/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984380213&linkCode=as2&tag=lesbl0f-20&linkId=M3HEXHVTCOM2MYD2" target="_blank">Predictable Revenue</a>.
 
 Aaron talked about common sales mistakes and how to fix them.   
 

@@ -44,8 +44,7 @@ Assuming that a startup has two founders, here are some ballpark numbers for _e
 
 - For employees #14 through #35, salaries rise for lower paying jobs :
     - 20th percentile salary range is $78k - $120k
-    - 50th percentile salary range is $90k - $134k  
-
+    - 50th percentile salary range is $90k - $134k
     - 80th percentile salary range is $102k - $150k  
 
 Lower salary ranges tend to be for more junior or more specialized roles (e.g. front-end engineer). Higher salary ranges tend to be for more senior roles, or for full-stack engineers. That is, a Junior Front-End Engineer is more likely to get an offer in the 20th percentile, while a Senior Full-Stack Engineer is more likely to get an offer in the 80th percentile.
@@ -56,10 +55,8 @@ Lower salary ranges tend to be for more junior or more specialized roles (e.g. f
 - Hires #2 through #5: 1% - 2%
 - Hires #6 and #7: 0.5% - 1%
 - Hires #8 through #14: 0.4% - 0.8%
-- Hires #15 through #19: 0.3% - 0.7%  
-
-- Hires #21 through #27: 0.25% - 0.6%  
-
+- Hires #15 through #19: 0.3% - 0.7%
+- Hires #21 through #27: 0.25% - 0.6%
 - Hires #28 through #34: 0.25% - 0.5%
 
 These ranges indicate the _maximum_ equity amounts offered by companies. These amounts are typically reserved for ideal candidates, or candidates who are very senior. If you're just out of college or not a perfect fit for a company, you will probably get a little (or a lot) less. A good way to frame these numbers is to add "up to" before each range. For example, a typical 6th hire will get _up to_ 0.5%-1%.

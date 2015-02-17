@@ -53,8 +53,7 @@ When looking at words in product names, I noticed 3 main themes.
 - **Read** (Beacon Reader, BeeLine Reader, ReadingPack, ...)
 - **Share** (Routeshare, Share As Image, CodeShare.io, SupperShare, ...)
 - **Work** (Workfrom, Workflowy, WorkingOn, ...)
-- **Sketch** (Sketch Deck, Sketch, Sketch Mirror, ...)  
-
+- **Sketch** (Sketch Deck, Sketch, Sketch Mirror, ...)
 - **Video** (Interactive Video, WeVideo, Video Quality Report, ...)
 - **Sound** (SoundBetter, SoundCloud Wall, SoundFlake, ...
 - **News** (Hacker Newsletter, thenews.im, newsle, Vice News, ...) 
@@ -73,8 +72,7 @@ The following are a few of the words most correlated with high vote counts:
 **Theme #1: Common English words**
 
 - **For** ("Google Docs for Video Projects", "A/B Testing for Transactional Email", ...). N=709. The two most common usages were analogies like "Uber for XYZ", and target market/platform specifications like "XYZ for kids" or "XYZ for iOS"
-- **Your** ("Finally an app to put your Facebook events on steroids", "A new way to interact with your phone", ...). N=661. Usually used to explain who/what the product is for.  
-
+- **Your** ("Finally an app to put your Facebook events on steroids", "A new way to interact with your phone", ...). N=661. Usually used to explain who/what the product is for.
 - **Way** ("The easiest way to buy and sell used furniture", "The Easiest Way To Organize An Event", ...). N=107. Typically phrased like "The smartest/simplest/fastest/best/etc. way to XYZ"
 - Other common words like **and**, **the**, **to**, **a**, and **with**.
 
@@ -95,21 +93,14 @@ These are exactly the adjectives I would have expected at the top of the list. :
 - **Product Hunt** (avg. votes = 47.5, n=11)
 - **For Developers** (avg. votes = 40.8, n=9)
 - **Screenshots** (avg. votes = 39.1, n=8) [This was a surprise to me.]
-- **Entrepreneur **(avg. votes = 35.6, n=9)  
-
-- **For Startup(s)** (avg. votes = 35.2, n=8)  
-
+- **Entrepreneur **(avg. votes = 35.6, n=9)
+- **For Startup(s)** (avg. votes = 35.2, n=8)
 - **Tinder** (avg. votes = 32.8, n=9). [Tinder for jobs, content, travel, etc.]
-- **Documents** (avg. votes = 31.7, n=11)  
-
-- **Your App** (avg. votes = 31.7, n=16)  
-
-- **With Your Friend(s)** (avg. votes = 31.2, n=8)  
-
-- **The Easiest** (avg. votes = 31.2, n=21)  
-
-- **In Seconds** (avg. votes = 30.5, n=12)  
-
+- **Documents** (avg. votes = 31.7, n=11)
+- **Your App** (avg. votes = 31.7, n=16)
+- **With Your Friend(s)** (avg. votes = 31.2, n=8)
+- **The Easiest** (avg. votes = 31.2, n=21)
+- **In Seconds** (avg. votes = 30.5, n=12)
 - **Automate** (avg. votes = 28.4, n=20)  
 
 The two big themes here seem to be _simplicity_ ("in seconds", "the easiest", "Tinder") and _products for developers and startups_ ("for developers", "for startups", "entrepreneur", "your app"). The latter is not surprising since there is a lot of overlap between the startup community and the Product Hunt community.
