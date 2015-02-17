@@ -300,8 +300,8 @@ footer { position: fixed; bottom: 0; background-color: #3f7cb6; width: 100%; }
 .container {
   max-width: 50rem;
   padding-left:  1rem;
-  padding-right: 1rem;
-  margin-left:  1rem;
+  padding-right: 1rem; 
+  margin-left: auto;
   margin-right: auto;
 }
 
