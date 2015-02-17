@@ -280,7 +280,7 @@ The process:
 
 Ideas come from problems. _Good_ ideas come from problems of people who have lots of money for solutions.
 
-So, pick a market that has people with money (dentists, engineers, etc.), and ask those people about their problems. You can just call or email them. You can use a very simple script like: "Hey, I saw your website and really liked __. My name is __ and I'm reaching out because I'm doing research on what problems lawyers are facing. Can you tell me about a challenge that you face? I'd love to hear back, even if it's just once sentence." 
+So, pick a market that has people with money (dentists, engineers, etc.), and ask those people about their problems. You can just call or email them. You can use a very simple script like: "Hey, I saw your website and really liked &#95;&#95;&#95;&#95;&#95;&#95;. My name is &#95;&#95;&#95;&#95;&#95;&#95; and I'm reaching out because I'm doing research on what problems lawyers are facing. Can you tell me about a challenge that you face? I'd love to hear back, even if it's just once sentence." 
 
 Email dozens of people a day until you have enough data.
 
