@@ -2,8 +2,6 @@
 layout: post
 title: "The Internet is a Meritocracy"
 date: 2015-02-03 08:00:00
-tags:
-- "Product Philosophy"
 ---
 
 If you own a typical physical store, almost all of your customers live or work within a few miles of your location [1]. Even for big ticket item like cars, 80% of purchases are made at dealerships that are within 30 miles of the buyer's home [2].

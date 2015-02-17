@@ -3,7 +3,6 @@ layout: post
 date: 2014-01-06 19:00:00
 title: "Metrics Are Unit Tests for Your Business"
 tags:
-- "Product Philosophy"
 - "Operating Tips"
 ---
 

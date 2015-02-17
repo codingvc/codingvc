@@ -2,8 +2,6 @@
 layout: post
 date: 2014-04-16 01:55:00
 title: "Killer Features"
-tags:
-- "Product Philosophy"
 ---
 
 Some products have 'killer' features. These features are so frustrating that they kill my desire to use said products. Some examples:

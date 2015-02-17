@@ -3,7 +3,7 @@ layout: post
 date: 2013-12-02 09:00:00
 title: "Minimum Viable Everything"
 tags:
-- "Product Philosophy"
+- "Operating Tips"
 ---
 
 _"The biggest source of waste in a startup is building something that nobody wants." (Eric Ries)_

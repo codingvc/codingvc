@@ -2,8 +2,6 @@
 layout: post
 date: 2014-01-28 05:00:00
 title: "Embrace Laziness"
-tags:
-- "Product Philosophy"
 ---
 
 > "The dictionary is the only place that success comes before work. Work is the key to success, and hard work can help you accomplish anything."  
