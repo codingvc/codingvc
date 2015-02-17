@@ -13,13 +13,13 @@ title:            'Coding VC'
 tagline:          'A blog by Leo Polovets'
 description:      'Startups and startup investing from the perspective of a software engineer turned VC.'
 baseurl:          '/'
-url:              'http://askkepler.com/'
+url:              'http://codingvc.com/'
 
 author:
   name:           'Leo Polovets'
   url:            https://twitter.com/lpolovets
 
-paginate:         10
+paginate:         8
 
 gems:
   - jekyll-archives
