@@ -67,7 +67,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
+  color: #3f7cb6;
   text-decoration: none;
 }
 a strong {
@@ -274,7 +274,7 @@ img {
     padding-right: .5rem;
 }
 
-footer { position: fixed; bottom: 0; background-color: rgba(60,127,220,1.0); width: 100%; }
+footer { position: fixed; bottom: 0; background-color: #3f7cb6; width: 100%; }
 
 /*
  * Messages
@@ -382,7 +382,7 @@ footer { position: fixed; bottom: 0; background-color: rgba(60,127,220,1.0); wid
   color: #999;
 }
 .related-posts li a:hover {
-  color: #268bd2;
+  color: #3f7cb6;
   text-decoration: none;
 }
 .related-posts li a:hover small {
@@ -448,21 +448,21 @@ a.pagination-item:hover {
 
 
 input::-webkit-input-placeholder {
-    color: #268bd2;
+    color: #3f7cb6;
     font-weight: bold;
 }
 input:-moz-placeholder {
     /* FF 4-18 */
-    color: #268bd2;
+    color: #3f7cb6;
     font-weight: bold;
 }
 input::-moz-placeholder {
     /* FF 19+ */
-    color: #268bd2;
+    color: #3f7cb6;
     font-weight: bold;
 }
 input:-ms-input-placeholder {
     /* IE 10+ */
-    color: #268bd2;
+    color: #3f7cb6;
     font-weight: bold;
 }
