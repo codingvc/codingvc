@@ -21,7 +21,7 @@ Analogies are not a panacea, however, and I often see them misused. The most com
 
 In response to these common mistakes, here are some tips for pitching by analogy:
 
-- Make sure your analogy is clear. If you're comparing yourself to a company, that company should be well-known and should evoke a clear idea in people's minds. For example, Uber is a great company to use in analogies because everyone has heard of it and it is synonymous with great service available at the push of a button. On the other hand, saying "we are the Nissan of ___" is a bad idea because Nissan, while well-known, doesn't represent a specific quality to most people.
+- Make sure your analogy is clear. If you're comparing yourself to a company, that company should be well-known and should evoke a clear idea in people's minds. For example, Uber is a great company to use in analogies because everyone has heard of it and it is synonymous with great service available at the push of a button. On the other hand, saying "we are the Nissan of &#95;&#95;&#95;&#95;" is a bad idea because Nissan, while well-known, doesn't represent a specific quality to most people.
 - A good analogy serves two purposes: it's memorable and it's descriptive. Keep both goals in mind as you design your pitch.
 - Test your pitch on 5-10 people. If everyone loves it and gets it, that's a great sign. If people respond with "huh?" or "what do you mean?", then keep iterating.
 - To ensure that your pitch is accurate, ask people to guess what your company does after you tell them your analogy. For a good analogy, like "Airbnb for cars," almost everyone will make the same (correct) guess. For a bad analogy, guesses will either be all over the map, or consistent but wrong.
