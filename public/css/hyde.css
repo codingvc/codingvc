@@ -273,3 +273,12 @@ footer { padding: 0.5rem 1.7rem !important;   text-align: center;  }
 .post-title {margin-bottom: .75rem}
 
 footer { background-color: #e7e7e8; border-top: 1px solid #d0d0d0; }
+
+#mce-EMAIL {
+    width: 200px;
+}
+@media screen and (max-width: 700px) {
+    #mce-EMAIL {
+        width: 150px;
+    }
+}
