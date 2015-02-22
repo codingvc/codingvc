@@ -260,5 +260,16 @@ a.sidebar-nav-item:focus {
 .sidebar { padding-left: 1rem; padding-bottom: 1rem; }
 .sidebar-nav { margin-bottom: 1rem; }
 #mce-EMAIL { padding-top: 6px !important; }
-.content { padding-top: 3rem; padding-bottom: 3rem; }
+.content { padding-top: 1.5rem; padding-bottom: 1.5rem; }
 footer { padding: 0.5rem 1.7rem !important;   text-align: center;  }
+
+.post { font-family: 'Merriweather',Georgia,Cambria,'Times New Roman',Times,serif; }
+.post .post-title, .post .post-date { font-family: 'Lato','Lucida Grande','Lucida Sans Unicode','Lucida Sans',Geneva,Verdana,sans-serif; }
+
+.posts .post { border-bottom: 1px solid #d0d0d0; padding-bottom: 2rem; margin-bottom: 2rem; }
+.posts .post .post-date { margin-top: 0; margin-bottom: 0; color: #d0d0d0; }
+.posts .post p:last-child { margin-bottom: 0; }
+.post-date {margin-bottom: .25rem}
+.post-title {margin-bottom: .75rem}
+
+footer { background-color: #e7e7e8; border-top: 1px solid #d0d0d0; }
