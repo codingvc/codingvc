@@ -5,7 +5,7 @@ date: 2015-02-27 2:45:00
 ---
 Data is incredibly valuable. It helps create superior products, it forms a barrier to entry, and it can be directly monetized. This post is the first in a 3-part series about building companies that leverage the value of data.  
 
-The Series:  
+### Planned 3-Part Series
 **Part 1**: An explanation of why data is becoming increasingly valuable + a catalog of ways in which data creates competitive advantages. [this post]  
 **Part 2**: How to accumulate data + pitfalls to be aware of. [coming next week]  
 **Part 3**: A catalog of business models where data plays a key role. [coming in two weeks]
