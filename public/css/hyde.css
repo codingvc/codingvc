@@ -101,6 +101,7 @@ a.sidebar-nav-item:focus {
 }
 
 .sidebar p {
+    padding-top: 0;
     margin-bottom: 0.5rem;
 }
 
