@@ -86,7 +86,8 @@ font-weight: normal;
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
+    margin-top: 0.75rem;
 }
 .sidebar-nav-item {
   /*display: block;*/
@@ -102,7 +103,9 @@ a.sidebar-nav-item:focus {
 
 .sidebar p {
     padding-top: 0;
-    margin-bottom: 0.5rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-top: 0;
 }
 
 /* Sticky sidebar
@@ -259,7 +262,7 @@ a.sidebar-nav-item:focus {
 
 #mc_embed_signup { margin: 0 !important; }
 .sidebar { padding-left: 1rem; padding-bottom: 1rem; }
-.sidebar-nav { margin-bottom: 1rem; }
+/*.sidebar-nav { margin-bottom: 1rem; }*/
 #mce-EMAIL { padding-top: 6px !important; }
 .content { padding-top: 1.5rem; padding-bottom: 1.5rem; }
 footer { padding: 0.5rem 1.7rem !important;   text-align: center;  }
