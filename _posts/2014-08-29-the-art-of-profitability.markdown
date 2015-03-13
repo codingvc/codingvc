@@ -5,6 +5,7 @@ title: "The Art of Profitability"
 tags:
 - "Notes"
 - "Book Notes"
+- "Business Models"
 ---
 
 I've read Adrian Slywotzky's <a href="http://www.amazon.com/gp/product/0446692271/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0446692271&linkCode=as2&tag=lesbl0f-20&linkId=BYYMYPTBBVGHJJIK" target="_blank">The Art of Profitability</a> three times now, and each time I learn something new. According to its Amazon page, the book "offers 23 business lessons via the tale of a manager's quest to learn the "art of profitability" from David Zhao, a wise master." Each lesson starts with basic principles and uses the Socratic method to build up to a profitable business model. I think current founders, aspiring founders, investors, and employees would find this book valuable and practical. Here are some notes on the profit models that are most relevant to software companies -- although the notes are no substitute for reading the book!

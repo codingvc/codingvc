@@ -2,13 +2,16 @@
 layout: post
 title: "The Value of Data, Part 1: Using Data as a Competitive Advantage"
 date: 2015-02-27 2:45:00
+tags:
+- "Value of Data"
+- "Business Models"
 ---
 Data is incredibly valuable. It helps create superior products, it forms a barrier to entry, and it can be directly monetized. This post is the first in a 3-part series about building companies that leverage the value of data.  
 
-### Planned 3-Part Series
+### 3-Part Series
 **Part 1**: An explanation of why data is becoming increasingly valuable + a catalog of ways in which data creates competitive advantages. [this post]  
 <a href="{{site.url}}the-value-of-data-part-2-building-valuable-datasets" target="_blank">**Part 2**</a>: How to accumulate data + pitfalls to be aware of.  
-**Part 3**: A catalog of business models where data plays a key role. [coming in two weeks]
+<a href="{{site.url}}the-value-of-data-part-3-data-business-models" target="_blank">**Part 3**</a>: A catalog of business models where data plays a key role.
 
 In this post, I'm going to talk about how the increasing commoditization of software and hardware makes data more valuable, and how data can be used to create competitive <a href="http://www.investopedia.com/terms/e/economicmoat.asp" target="_blank">moats</a>.
 

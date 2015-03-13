@@ -2,13 +2,16 @@
 layout: post
 title: "The Value of Data, Part 2: Building Valuable Datasets"
 date: 2015-03-05 2:45:00
+tags:
+- "Value of Data"
+- "Business Models"
 ---
 Data is incredibly valuable. It helps create superior products, it forms a barrier to entry, and it can be directly monetized. This post is the second in a 3-part series about making data a core part of a startup's business plan.
 
-### Planned 3-Part Series
+### 3-Part Series
 <a href="{{site.url}}the-value-of-data-part-1-using-data-as-a-competitive-advantage" target="_blank">**Part 1**</a>: An explanation of why data is becoming increasingly valuable + a catalog of ways in which data creates competitive advantages.  
 **Part 2**: How to accumulate data + pitfalls to be aware of. [this post]  
-**Part 3**: A catalog of business models where data is the foundation. [coming next week]
+<a href="{{site.url}}the-value-of-data-part-3-data-business-models" target="_blank">**Part 3**</a>:  A catalog of business models where data plays a key role.
 
 In this post, I'm going to talk about tips and strategies for building valuable datasets.
 
