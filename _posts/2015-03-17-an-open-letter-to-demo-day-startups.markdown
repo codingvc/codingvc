@@ -2,6 +2,8 @@
 layout: post
 title: "An Open Letter to Demo Day Startups"
 date: 2015-03-17 13:00:00
+tags:
+- "Demo Day"
 ---
 
 Dear Incredibly Fortunate and Accomplished Startup Founder,
