@@ -2,6 +2,7 @@
 layout: post
 date: 2014-09-15 06:31:00
 title: "Extensive Notes from SalesConf"
+amazon: true
 tags:
 - "Notes"
 - "Talk Notes"

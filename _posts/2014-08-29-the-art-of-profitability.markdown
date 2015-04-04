@@ -2,6 +2,7 @@
 layout: post
 date: 2014-08-29 12:59:00
 title: "The Art of Profitability"
+amazon: true
 tags:
 - "Notes"
 - "Book Notes"

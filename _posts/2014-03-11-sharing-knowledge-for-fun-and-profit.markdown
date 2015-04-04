@@ -2,6 +2,7 @@
 layout: post
 date: 2014-03-11 08:38:00
 title: "Sharing Knowledge for Fun and Profit"
+amazon: true
 tags:
 - "Learning"
 ---

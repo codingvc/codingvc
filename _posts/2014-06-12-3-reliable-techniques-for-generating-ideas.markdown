@@ -2,6 +2,7 @@
 layout: post
 title: "3 Reliable Techniques for Generating Ideas"
 date: 2014-06-12 11:10:00
+amazon: true
 ---
 
 Many people want to be more creative, especially in the context of generating business ideas. It's popular to believe that creativity is an innate skill, but after reading books like <a href="http://www.amazon.com/gp/product/1580087736/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1580087736&linkCode=as2&tag=lesbl0f-20" target="_blank">Thinkertoys</a> and <a href="http://www.amazon.com/gp/product/1580083110/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1580083110&linkCode=as2&tag=lesbl0f-20" target="_blank">Cracking Creativity</a>, I'm convinced that's not true. Here are three simple techniques that make it surprisingly easy to come up with new ideas.
