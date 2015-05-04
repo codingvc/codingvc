@@ -27,4 +27,6 @@ If you're not afraid of hearing people's answers, then reflect on whether you're
 Economic bubbles pop, and operating bubbles pop just as painfully. You run out out of money or struggle to find product market fit or become increasingly frustrated with not being able to grow your team and your company. The best solutions to avoid operating in a bubble in the first place are approaching everything with a Beginner's Mind, being empathetic, asking lots of questions, and listening carefully to feedback. While you have no control over the economy, you can control your ability to put yourself in other people's shoes.  
 
 <br>
-** Sometimes you're intentionally using your pitch to qualify people, and that's okay. For example, if you're pitching a startup in the oil & gas sector and only want to talk to investors familiar with that space, then it might be fine to fill your pitch with O&G terminology and jargon since that would help you filter out the investors you don't want to talk to.
+** Sometimes you're intentionally using your pitch to qualify people, and that's okay. For example, if you're pitching a startup in the oil & gas sector and only want to talk to investors familiar with that space, then it might be fine to fill your pitch with O&G terminology and jargon since that would help you filter out the investors you don't want to talk to.  
+<br>
+Thank you to <a href="http://seanonstartups.co/" target="_blank">Sean Byrnes</a> for giving me feedback on this post.
