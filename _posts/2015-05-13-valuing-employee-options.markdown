@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Valuing Employee Options"
-date: 2015-05-13 12:10:00
+date: 2015-05-13 12:10:10
 ---
 
 Yesterday, I read an interesting exchange between tech folks about how to value employee options. All of it was sparked by this tweet:  
