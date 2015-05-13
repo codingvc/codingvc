@@ -4,7 +4,7 @@ title: "Valuing Employee Options"
 date: 2015-05-13 12:10:10
 ---
 
-Yesterday, I read an interesting exchange between tech folks about how to value employee options. All of it was sparked by this tweet:  
+Yesterday, I read an interesting exchange on Twitter about how to value employee options. All of it was sparked by this tweet:  
   
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Just talked to a startup employee who thinks it would be a good idea to write a blog post about funding round terms versus options</p>&mdash; Danielle Morrill (@DanielleMorrill) <a href="https://twitter.com/DanielleMorrill/status/598307633729122304">May 13, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
