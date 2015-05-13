@@ -59,8 +59,8 @@ Stock options are basically a positive-expected-value lottery ticket. The expect
 So why work at a startup?  
 
 - The culture at a good startup is often way better that at a big company: there's less bureaucracy, more fun, more intimate relationships, and a great sense of shared purpose.
-- If you like autonomy, startups are way better than big co's.
-- If you want to find out what you're able to do by being challenged outside of your comfort zone, then startups are great. If you want to be valued for what you can already do well and don't want to leave your comfort zone, then big companies are great.
-- If you want to feel like you have a huge impact on your company and your company's customers, startups are great. If you like security and stability and the change to impact a lot of customers a tiny bit, then big companies are great.
+- If you like autonomy, startups are way better than big companies.
+- If you want to find out what you're able to do by being challenged outside of your comfort zone, then startups are great. If you want to be valued for what you've already proven you can do well and don't want to leave your comfort zone, then big companies are great.
+- If you want to feel like you have a huge impact on your company and your company's customers, startups are great. If you like security and stability and the chance to impact a lot of customers a little bit, then big companies are great.
 
 There's no right or wrong answer here, and I hope this post makes the financial side a little bit less of a mystery.
