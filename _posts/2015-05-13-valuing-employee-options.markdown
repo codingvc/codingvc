@@ -64,3 +64,12 @@ So why work at a startup?
 - If you want to feel like you have a huge impact on your company and your company's customers, startups are great. If you like security and stability and the chance to impact a lot of customers a little bit, then big companies are great.
 
 There's no right or wrong answer here, and I hope this post makes the financial side a little bit less of a mystery.
+
+
+**Addendum** (huge h/t to <a href="http://andrewchen.co/" target="_blank">Andrew Chen</a> for these <a href="http://quibb.com/links/valuing-employee-options?comment_id=23036" target="_blank">suggestions</a>.)
+
+1. In acquihires, the acquisition is usually structured so that common stock is worth very little or nothing, but employees who are joining the acquiring company get good (or great) retention packages.
+
+2. Typical dilution is 20-25% during seed, Series A, and Series B rounds, and then drops to 10% or less for larger growth rounds. So 3% just before the seed round might be worth 2.4% after the seed round, 1.8% after a Series A, 1.4% after a Series B, and 1.2% after Series C and D. This might sound like a lot of dilution -- and it is! -- but 3% of a seed stage company valued at $3m is much less money than 1.2% of a Series D company valued at $500m.
+
+3. It's rare to stay at a company for more than 2-3 years, but options typically have to be exercised and converted into stock within a few months of leaving a job. This can be cost prohibitive, especially if a company is doing extremely well. This creates a dynamic where you're either stuck at a company until they exit, or you can try to sell your equity on secondary markets like SharesPost or EquityZen. Some more progressive companies, like Pinterest, give employees more opportunities to exercise and sell options before an exit. Early exercising when you first join a company can address this problem, but has its own pros and cons. (I want to reiterate: I'm definitely not a financial advisor and I'm not recommending any specific course of action.)
