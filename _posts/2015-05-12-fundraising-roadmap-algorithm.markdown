@@ -2,6 +2,10 @@
 layout: post
 title: "Fundraising Roadmap Algorithm"
 date: 2015-05-12 13:34:00
+tags:
+- "Valuation"
+- "Fundraising"
+- "Runway"
 ---
 
 As a software engineer, I try to approach problems algorithmically. That is, given some kind of input, what kind of procedure can I reliably run to generate the desired output. For example, given a bunch of numbers (input), what's the best process (algorithm) to quickly and efficiently arrange those numbers in increasing order (desired output)?
