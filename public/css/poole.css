@@ -466,3 +466,11 @@ input:-ms-input-placeholder {
     color: #3f7cb6;
     font-weight: bold;
 }
+
+.sharecount {
+    display: inline-block;
+    width: 42px;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 1px solid gray;
+}
