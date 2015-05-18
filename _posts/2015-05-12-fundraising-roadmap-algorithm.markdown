@@ -24,7 +24,7 @@ Here are two common scenarios:
 <br>
 *Scenario #1:*  
 **Founder**: "We want to raise $1m at a $5m pre-money valuation today to hire 3 more engineers and get to $25k MRR in 15 months." The unspoken addendum: our plan is conservative and we're very likely to succeed, but not in a big way.  
-**Investor reaction**: "Hmm, a $20k ARR would probably probably increase your valuation to $7m. I'd rather invest at a $7m valuation when you're at $25k MRR than at a $5m valuation when you're at $0k MRR."  
+**Investor reaction**: "Hmm, a $25k ARR would probably probably increase your valuation to $7m. I'd rather invest at a $7m valuation when you're at $25k MRR than at a $5m valuation when you're at $0k MRR."  
 <br>
 *Scenario #2:*  
 **Founder**: "We want to raise $1m at a $5m pre-money valuation today to hire 3 more engineers and get to a $100k MRR in 15 months." The unspoken addendum: our plan is ambitious, and we're not too likely to succeed, but if we do, it'll be a decent success (e.g. grow from a $5m pre to a $15m pre).  
