@@ -34,7 +34,7 @@ If you raised a seed round at $12m thanks to graduating from an accelerator, it'
 
 The point is: high seed valuations aren't just bad for VCs, they're also dangerous for founders <a href="#note1">[1]</a>. Be careful.
 
-(Note: SaaS startups often have 60-80% margins. If your company does something else and has half the margins, then you'd need approximately twice the run rate for the same valuation as a SaaS company. This is not a rule, just a heuristic.)
+(Note: SaaS startups often have 60-80% margins. If your company does something else and has half the margins, then you'd need approximately twice the run rate for the same valuation as a SaaS company. This isn't a rule, just a heuristic.)
  
 ### Mistake #3: Raising too little money at too high of a valuation
 Even worse than pushing for a high valuation is pushing for a high valuation and only raising a little bit of money. Perhaps you were only planning to raise $800k, and your valuation got pushed up to $12m. So you decide to raise $800k at a $12m pre. Only 6.25% dilution -- awesome, right? Wrong. Now not only would you have to get into Series A territory to raise more money, but you also have very little capital to do that. If you're going to raise at $12m, at least take $2m-$3m from investors so that you have a long time to make substantial progress. <a href="#note2">[2]</a>
