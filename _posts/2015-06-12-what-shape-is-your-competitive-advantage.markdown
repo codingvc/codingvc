@@ -53,6 +53,6 @@ Another approach is to try avoiding a specific competitive advantage (e.g. the a
 There are many other approaches companies can take to battle bigger players and suppress smaller players. If you have interesting ideas or war stories, please post them in the comments section! And if you're building a company, I believe it's worth thinking about the areas of your market where it's easier to get advantages of scale, and areas where you could block new entrants in the future because you have sufficient scale and they do not.  
 <br>
 <br>
-Further reading: Chris Dixon's excellent post, "<a href="http://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network/" target="_blank">Come of the tool, stay for the network</a>"
+Further reading: Chris Dixon's excellent post, "<a href="http://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network/" target="_blank">Come for the tool, stay for the network</a>"
 
 *Thanks to <a href="https://twitter.com/VivekxK" target="_blank">Vivek Karuturi</a>, <a href="https://twitter.com/ciszek" target="_blank">Thomas Ciszek</a>, and <a href="https://twitter.com/lipmanb" target="_blank">Brandon Lipman</a> for feedback on this post.*
