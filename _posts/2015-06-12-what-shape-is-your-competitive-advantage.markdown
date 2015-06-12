@@ -50,8 +50,9 @@ How can this dilemma be resolved? One approach is to try to ride a decelerating 
 
 Another approach is to try avoiding a specific competitive advantage (e.g. the advantage of manufacturing costs) by introducing orthogonal features. For example, maybe you know you can't compete on the cost of manufacturing cell phones with someone like LG Electronics, so you focus on software UX or hardware design or customer service or privacy features or something else -- things that customers would not mind paying more for.
 
-There are many other approaches companies can take to battle bigger players and suppress smaller players. If you have interesting ideas or war stories, please post them in the comments section! And if you're building a company, I believe it's worth thinking about the areas of your market where it's easier to get advantages of scale, and areas where you could block new entrants in the future because you have sufficient scale and they do not.
-
+There are many other approaches companies can take to battle bigger players and suppress smaller players. If you have interesting ideas or war stories, please post them in the comments section! And if you're building a company, I believe it's worth thinking about the areas of your market where it's easier to get advantages of scale, and areas where you could block new entrants in the future because you have sufficient scale and they do not.  
+<br>
+<br>
 Further reading: Chris Dixon's excellent post, "<a href="http://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network/" target="_blank">Come of the tool, stay for the network</a>"
 
 *Thanks to <a href="https://twitter.com/VivekxK" target="_blank">Vivek Karuturi</a>, <a href="https://twitter.com/ciszek" target="_blank">Thomas Ciszek</a>, and <a href="https://twitter.com/lipmanb" target="_blank">Brandon Lipman</a> for feedback on this post.*
