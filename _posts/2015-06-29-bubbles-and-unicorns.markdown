@@ -45,177 +45,273 @@ td.valuation {text-align: right}
 </style>
 
 <table>
-<tr>
-<th>Year</th>
-<th>Company</th>
-<th>Valuation**</th>
-</tr>
-<tr>
-<tr>
-    <td rowspan="2">1997</td>
-    <td>Priceline</td>
-    <td class="valuation">$59b</td>
-</tr>
-    <td>Netflix</td>
-    <td class="valuation">$40b</td>
-</td>
-</tr>
-<tr>
-    <td rowspan="2">1998</td>
-    <td>Google</td>
-    <td class="valuation">$370b</td>
-</tr>
-<tr>
-    <td>VMWare</td>
-    <td class="valuation">$37b</td>
-</tr>
-<tr>
-    <td rowspan="2">1999</td>
-    <td>Salesforce</td>
-    <td class="valuation">$47b</td>
-</tr>
-<tr>
-    <td>Jawbone</td>
-    <td class="valuation">$3.3b</td>
-</tr>
-<tr>
-    <td rowspan="2">2000</td>
-    <td>TripAdvisor</td>
-    <td class="valuation">$13b</td>
-</tr>
-<tr>
-    <td>Pandora</td>
-    <td class="valuation">$3.4b</td>
-</tr>
-<tr>
-    <td rowspan="3">2001</td>
-    <td>Guidewire</td>
-    <td class="valuation">$3.9b</td>
-</tr>
-<tr>
-    <td>SuccessFactors</td>
-    <td class="valuation">$3.4b</td>
-</tr>
-<tr>
-    <td>Bloom Energy</td>
-    <td class="valuation">$3b</td>
-</tr>
-<tr>
-    <td rowspan="3">2002</td>
-    <td>LinkedIn</td>
-    <td class="valuation">$27b</td>
-</tr>
-<tr>
-    <td>SpaceX</td>
-    <td class="valuation">$12b</td>
-</tr>
-<tr>
-    <td>GoPro</td>
-    <td class="valuation">$7b</td>
-</tr>
-<tr>
-    <td rowspan="3">2003</td>
-    <td>Tesla</td>
-    <td class="valuation">$34b</td>
-</tr>
-<tr>
-    <td>Splunk</td>
-    <td class="valuation">$9b</td>
-</tr>
-<tr>
-    <td>Tableau</td>
-    <td class="valuation">$8b</td>
-</tr>
-<tr>
-    <td rowspan="2">2004</td>
-    <td>Facebook</td>
-    <td class="valuation">$247b</td>
-</tr>
-<tr>
-    <td>Palantir</td>
-    <td class="valuation">$20b</td>
-</tr>
-<tr>
-    <td rowspan="2">2005</td>
-    <td>Workday</td>
-    <td class="valuation">$15b</td>
-</tr>
-<tr>
-    <td>Palo Alto Networks</td>
-    <td class="valuation">$15b</td>
-</tr>
-<tr>
-    <td rowspan="2">2006</td>
-    <td>Twitter</td>
-    <td class="valuation">$23b</td>
-</tr>
-<tr>
-    <td>Lending Club</td>
-    <td class="valuation">$5.7b</td>
-</tr>
-<tr>
-    <td rowspan="2">2007</td>
-    <td>Dropbox</td>
-    <td class="valuation">$10b</td>
-</tr>
-<tr>
-    <td>Fitbit</td>
-    <td class="valuation">$7b</td>
-</tr>
-<tr>
-    <td rowspan="2">2008</td>
-    <td>Airbnb</td>
-    <td class="valuation">$25b</td>
-</tr>
-<tr>
-    <td>Cloudera</td>
-    <td class="valuation">$4.1b</td>
-</tr>
-<tr>
-    <td rowspan="3">2009</td>
-    <td>Uber</td>
-    <td class="valuation">$41b</td>
-</tr>
-<tr>
-    <td>WhatsApp</td>
-    <td class="valuation">$19b</td>
-</tr>
-<tr>
-    <td>Square</td>
-    <td class="valuation">$6b</td>
-</tr>
-<tr>
-    <td rowspan="3">2010</td>
-    <td>Pinterest</td>
-    <td class="valuation">$11b</td>
-</tr>
-<tr>
-    <td>WeWork</td>
-    <td class="valuation">$10b</td>
-</tr>
-<tr>
-    <td>Nest</td>
-    <td class="valuation">$3.2b</td>
-</tr>
-<tr>
-    <td rowspan="2">2011</td>
-    <td>Wish</td>
-    <td class="valuation">$3b</td>
-</tr>
-<tr>
-    <td>SoFi</td>
-    <td class="valuation">$1.3b</td>
-</tr>
-<tr>
-    <td rowspan="1">2012</td>
-    <td>Instacart</td>
-    <td class="valuation">$2b</td>
-</tr>
-<tr>
-    <td rowspan="1">2013</td>
-    <td>Zenefits</td>
-    <td class="valuation">$4.5b</td>
-</tr>
+    <tr>
+        <th>Year</th>
+
+        <th>Company</th>
+
+        <th>Valuation**</th>
+    </tr>
+
+    <tr>
+        <td></td>
+    </tr>
+
+    <tr>
+        <td rowspan="2">1997</td>
+
+        <td>Priceline</td>
+
+        <td class="valuation">$59b</td>
+    </tr>
+
+    <tr>
+        <td>Netflix</td>
+
+        <td class="valuation">$40b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="2">1998</td>
+
+        <td>Google</td>
+
+        <td class="valuation">$370b</td>
+    </tr>
+
+    <tr>
+        <td>VMWare</td>
+
+        <td class="valuation">$37b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="2">1999</td>
+
+        <td>Salesforce</td>
+
+        <td class="valuation">$47b</td>
+    </tr>
+
+    <tr>
+        <td>Jawbone</td>
+
+        <td class="valuation">$3.3b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="2">2000</td>
+
+        <td>TripAdvisor</td>
+
+        <td class="valuation">$13b</td>
+    </tr>
+
+    <tr>
+        <td>Pandora</td>
+
+        <td class="valuation">$3.4b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="3">2001</td>
+
+        <td>Guidewire</td>
+
+        <td class="valuation">$3.9b</td>
+    </tr>
+
+    <tr>
+        <td>SuccessFactors</td>
+
+        <td class="valuation">$3.4b</td>
+    </tr>
+
+    <tr>
+        <td>Bloom Energy</td>
+
+        <td class="valuation">$3b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="3">2002</td>
+
+        <td>LinkedIn</td>
+
+        <td class="valuation">$27b</td>
+    </tr>
+
+    <tr>
+        <td>SpaceX</td>
+
+        <td class="valuation">$12b</td>
+    </tr>
+
+    <tr>
+        <td>GoPro</td>
+
+        <td class="valuation">$7b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="3">2003</td>
+
+        <td>Tesla</td>
+
+        <td class="valuation">$34b</td>
+    </tr>
+
+    <tr>
+        <td>Splunk</td>
+
+        <td class="valuation">$9b</td>
+    </tr>
+
+    <tr>
+        <td>Tableau</td>
+
+        <td class="valuation">$8b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="2">2004</td>
+
+        <td>Facebook</td>
+
+        <td class="valuation">$247b</td>
+    </tr>
+
+    <tr>
+        <td>Palantir</td>
+
+        <td class="valuation">$20b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="2">2005</td>
+
+        <td>Workday</td>
+
+        <td class="valuation">$15b</td>
+    </tr>
+
+    <tr>
+        <td>Palo Alto Networks</td>
+
+        <td class="valuation">$15b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="2">2006</td>
+
+        <td>Twitter</td>
+
+        <td class="valuation">$23b</td>
+    </tr>
+
+    <tr>
+        <td>Lending Club</td>
+
+        <td class="valuation">$5.7b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="2">2007</td>
+
+        <td>Dropbox</td>
+
+        <td class="valuation">$10b</td>
+    </tr>
+
+    <tr>
+        <td>Fitbit</td>
+
+        <td class="valuation">$7b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="2">2008</td>
+
+        <td>Airbnb</td>
+
+        <td class="valuation">$25b</td>
+    </tr>
+
+    <tr>
+        <td>Cloudera</td>
+
+        <td class="valuation">$4.1b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="3">2009</td>
+
+        <td>Uber</td>
+
+        <td class="valuation">$41b</td>
+    </tr>
+
+    <tr>
+        <td>WhatsApp</td>
+
+        <td class="valuation">$19b</td>
+    </tr>
+
+    <tr>
+        <td>Square</td>
+
+        <td class="valuation">$6b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="3">2010</td>
+
+        <td>Pinterest</td>
+
+        <td class="valuation">$11b</td>
+    </tr>
+
+    <tr>
+        <td>WeWork</td>
+
+        <td class="valuation">$10b</td>
+    </tr>
+
+    <tr>
+        <td>Nest</td>
+
+        <td class="valuation">$3.2b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="2">2011</td>
+
+        <td>Wish</td>
+
+        <td class="valuation">$3b</td>
+    </tr>
+
+    <tr>
+        <td>SoFi</td>
+
+        <td class="valuation">$1.3b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="1">2012</td>
+
+        <td>Instacart</td>
+
+        <td class="valuation">$2b</td>
+    </tr>
+
+    <tr>
+        <td rowspan="1">2013</td>
+
+        <td>Zenefits</td>
+
+        <td class="valuation">$4.5b</td>
+    </tr>
 </table>
 
 ### Observations and conclusions
