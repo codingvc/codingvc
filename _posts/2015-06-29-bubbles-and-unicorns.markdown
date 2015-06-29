@@ -9,7 +9,7 @@ title: "Bubbles and Unicorns"
 
 Recently, there has been a lot of talk about a possible bubble in startup valuations. The question I want to explore is: "How are VC investment returns affected by bubbles?" That is, if it's a bubble, should VCs (and by extension, startups that need VC funding) close up shop for a few years and wait until market conditions change?
 
-### Claim #1: VC returns are governed by power laws
+### Assertion #1: VC returns are governed by power laws
 
 Most VC funds have somewhere between 15 and 50 portfolio companies. It turns out that almost all of a fund's returns will come from its best 1-3 investments. Here's a chart of outcomes for a typical individual investment:
 
@@ -29,10 +29,10 @@ This distribution results in an expected multiple of 2.65X for the overall fund 
 
 The noteworthy bit is that for a typical portfolio, 5% of the investments will be responsible for more than half of the total returns, and 13% of the investments will be responsible for more than 3/4 of the returns. This is what people mean when they say that VC returns follow the power law: the bulk of the returns are to be found in the outliers, not in the most common outcomes. If a fund invests in Twitter or Nest early on, the fund will be hugely successful; if none of the investments becomes a $1b+ company, then the fund will be mediocre at best. Trying to eke out an extra 1.5X or 6.5X exit is relatively meaningless when a 40x exit could return the entire fund. That's why investors and founders swing for the fences.
 
-### Claim #2: Investing in a power law distribution is only worthwhile if you might find an outlier.
+### Assertion #2: Investing in a power law distribution is only worthwhile if you might find an outlier.
 A typical VC fund makes investments for 3-4 years, then holds onto those investments until every company in the portfolio either goes public, gets acquired, or fails. If outlier companies (i.e. the Twitters and the Nests) predictably occur in some years and not others, then it would be prudent to only invest in the good years. For example, if it turned out that 95% of all $5b+ companies were started during a recession, then making venture capital investments during economic booms would be unwise.
 
-### Claim #3: Great companies are founded every single year
+### Assertion #3: Great companies are founded every single year
 I spent some time trying to dig up the most successful companies founded in each year since 1997 (the year that the Dot-com bubble began according to Wikipedia). The most notable companies that I found are listed below.
 
 (Note: the list is not meant to be exhaustive.)
