@@ -38,23 +38,19 @@ I spent some time trying to dig up the most successful companies founded in each
 (Note: the list is not meant to be exhaustive.)
 
 <style>
-table {border: 1px solid black; border-collapse: collapse;}
-tr, td {border: 1px solid gray;}
-td {padding: 5px;}
-td.valuation {text-align: right}
+table#unicorns {border: 1px solid black; border-collapse: collapse;}
+table#unicorns tr, table#unicorns th, table#unicorns td {border: 1px solid gray;}
+table#unicorns td {padding: 5px;}
+table#unicorns td.valuation {text-align: right}
 </style>
 
-<table>
+<table id="unicorns">
     <tr>
         <th>Year</th>
 
         <th>Company</th>
 
         <th>Valuation**</th>
-    </tr>
-
-    <tr>
-        <td></td>
     </tr>
 
     <tr>
