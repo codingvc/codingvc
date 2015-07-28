@@ -56,7 +56,7 @@ A lot of people have observed that it's hard to get in touch with a VC without a
 ## How do you pick which investors to talk to?
 Look for investors who focus on areas that you're interested in. Want to work on big data infrastructure? Talk to <a href="http://dcvc.com/" target="_blank">Data Collective</a>. Interesting data mining? Try <a href="http://www.iaventures.com/" target="_blank">IA Ventures</a> or <a href="http://www.susaventures.com/" target="_blank">Susa Ventures</a> (my fund). B2C? <a href="http://www.maveron.com/" target="_blank">Maveron</a>. Hardware? <a href="http://root.vc/" target="_blank">Root Ventures</a>. Moonshots? <a href="http://dfj.com/" target="_blank">DFJ</a>. eCommerce? <a href="http://cowboy.vc/" target="_blank">Cowboy Ventures</a>. Democratizing access to technology and information? <a href="http://homebrew.co/" target="_blank">Homebrew</a>. And so on.
 
-(Each focus area above has many more investors you can talk to; these are just examples.)
+(Each focus area above has many more investors you can talk to, and each investor mentioned above invests in multiple areas. These are just examples.)
 
 ## How does the process work?
 I don't know how it works with other investors, but here's how it would work with me:
