@@ -21,7 +21,7 @@ This post is about incentive structures for various job-search assistants (frien
 
 ## Finding Jobs through (External) Recruiters
 
-#### Pros:
+#### Pros: 
 
 * A recruiter will do their best to find you a job because they only get paid if you find a job.
 * A recruiter can recommend multiple companies for you to work at.
