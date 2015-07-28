@@ -5,11 +5,8 @@ title: "Using Investors to Find the Ideal Startup Job"
 ---
 *TL;DR: If you want to work at a startup, email a VC or angel investor and ask them for company recommendations. Because of the well-aligned incentives between investors, founders, and job seekers, investors are a great resource for finding the perfect job.*
 
-If you want to work at a startup, there are many ways to find your next gig, including through AngelList, friends, and external recruiters. I think an overlooked but very effective approach is to get job recs from startup investors. 
-
 ## Caveats
-This post is about incentive structures for various job-search assistants (friends, external recruiters, and investors). In any industry, whether recruiting or investing, there will be bad players who only care about maximizing personal gain, and good players who will do the right thing even if it runs counter to their financial incentives. That said, I do think investors have better aligned incentives for recruiting than other recruiting channels.
-
+This post is about incentive structures for various job-search assistants (friends, external recruiters, and investors). In any industry, whether recruiting or investing, there will be bad players who only care about maximizing personal gain, and good players who will do the right thing even if it runs counter to their financial incentives. That said, I do think investors have better aligned incentives for recruiting than other alternatives.
 
 ## Finding Jobs through Friends
 
