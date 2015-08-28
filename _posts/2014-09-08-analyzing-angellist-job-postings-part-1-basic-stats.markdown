@@ -24,13 +24,11 @@ tags:
 </style>
 Last month, I used AngelList data to analyze <a href="{{site.url}}which-technologies-do-startups-use-an-exploration-of-angellist-data" target="_blank">the technologies that startups use</a>. After getting positive feedback on my analysis, I decided to dig into more AngelList data -- this time looking at job postings.  There is a lot of job posting data available via API, and <a href="https://twitter.com/joshuaxls" target="_blank">Joshua Slayton</a> from AngelList was kind enough to send me some additional data that is not available via API.  
 
-This series will consist of 3 separate blog posts:
+This series will consist of two separate blog posts:
 
 Part 1: Basic stats about popular startup locations, job titles, vesting schedules, etc. [Full disclosure: this is the least interesting/actionable post in the series]
 
 Part 2: <a href="{{site.url}}analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks" target="_blank">Salary and equity benchmarks. By role, company size, etc</a>.
-
-Part 3: Factors that contribute to successful job postings. [ETA October, assuming my data analysis skills are good enough to come up with useful insights]
 
 ### Preliminaries
 

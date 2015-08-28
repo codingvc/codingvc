@@ -154,6 +154,4 @@ The goal of this analysis is to increase transparency, which can help mitigate t
 
 As a parting thought, I'd like to reiterate that these are not rules, they are starting points. There are plenty of reasons to have higher equity grants (e.g. a specific employee can change the entire direction of a company) and plenty of reasons for lower grants (e.g. there are significant non-financial perks, like working with an amazing founder or working on a particularly meaningful project).
 
-In the next and final post in this series, I'm going to look at which aspects of a company and job correspond to getting more job applicants via AngelList. If you'd like to be notified when that post is published, please subscribe to this blog or check back in a week or two.  
-
 <i>Thanks to <a href="http://numeratechoir.com/" target="_blank">Mike Greenfield</a> and <a href="http://ml.posthaven.com/" target="_blank">Cheng-Tao Chu</a> for feedback on earlier drafts of this post.</i>
