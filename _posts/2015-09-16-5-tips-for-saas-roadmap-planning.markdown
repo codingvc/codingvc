@@ -23,7 +23,7 @@ Every month, I hear a handful of pitches where founders anticipate growing from 
 
 &nbsp;&nbsp;30% monthly growth → 23.3x annual growth  
 
-If you have some initial contracts right now and you're at $10k in monthly recurring revenue (MRR), then 12 more months will probably take you to $50k or $100k in MRR. It's _very_ unlikely to take you to $250k MRR, so don't present that as a "conservative growth plan" and don't bake that kind of growth into your budget.
+If you have some initial contracts right now and you're at $10k in monthly recurring revenue (MRR), then 12 more months will probably take you to $50k or $100k in MRR. You're _very_ unlikely to get to $250k MRR, so don't present that as a "conservative growth plan" and don't bake that kind of growth into your budget.
 
 ## Tip #2: Don't promise inflection points without strong evidence
 
