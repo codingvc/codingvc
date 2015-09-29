@@ -83,7 +83,7 @@ Finally, not being at the epicenter of a tech hub doesn't mean your company won'
 <br>
 <br>
 <br>
-If you enjoyed this AngelList-based analysis, you might enjoy the following articles:
+If you enjoyed this AngelList-based analysis, you might like the following articles:
 
 - <a href="http://codingvc.com/which-technologies-do-startups-use-an-exploration-of-angellist-data" target="_blank">Which Technologies Do Startups Use? An Exploration of AngelList Data</a>
 - <a href="http://codingvc.com/analyzing-angellist-job-postings-part-1-basic-stats" target="_blank">Analyzing AngelList Job Postings, Part 1: Basic Stats</a>
