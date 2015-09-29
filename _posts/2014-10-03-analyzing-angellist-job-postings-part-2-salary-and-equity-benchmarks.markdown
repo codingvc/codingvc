@@ -4,6 +4,7 @@ title: "Analyzing AngelList Job Postings, Part 2: Salary and Equity Benchmarks"
 date: 2014-10-03 12:37:00
 tags:
 - "Data Analysis"
+- "AngelList"
 ---
 
 A few weeks ago, I did <a href="{{site.url}}analyzing-angellist-job-postings-part-1-basic-stats" target="_blank">a basic analysis of AngelList job postings</a>. That analysis looked at attributes like job locations, vesting schedules, and commonly requested skills.

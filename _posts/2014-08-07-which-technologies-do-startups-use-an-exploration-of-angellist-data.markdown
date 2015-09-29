@@ -4,6 +4,7 @@ date: 2014-08-07 06:54:00
 title: "Which Technologies Do Startups Use? An Exploration of AngelList Data"
 tags:
 - "Data Analysis"
+- "AngelList"
 ---
 
 There's a lot of hype surrounding new programming languages, databases, and the like. I've always been curious about which technologies are actually in use, and whether great startups use different technologies than not-so-great startups.

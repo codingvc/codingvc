@@ -4,6 +4,7 @@ date: 2014-09-08 17:16:00
 title: "Analyzing AngelList Job Postings, Part 1: Basic Stats"
 tags:
 - "Data Analysis"
+- "AngelList"
 ---
 <style>
   tr, th, td {
