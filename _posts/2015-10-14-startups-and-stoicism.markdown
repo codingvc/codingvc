@@ -5,7 +5,7 @@ title: "Startups and Stoicism"
 amazon: true
 ---
 
-A few years ago, I became interested in the philosophy of stoicism. These days, calling someone _stoic_ means that they appear cold and emotionless. The original meaning of stoicism was more about being calm and tranquil in the face of trials and tribulations. The goal wasn't to eliminate all emotions, but to eliminate negative feelings like jealousy or anger or sadness. Many of of stoicism's principles and practices can be applied to building and investing in startups.
+A few years ago, I became interested in the philosophy of stoicism. These days, calling someone _stoic_ means that they appear cold and emotionless. The original meaning of stoicism was more about being calm and tranquil in the face of trials and tribulations. The goal wasn't to eliminate all emotions, but to eliminate negative feelings like jealousy or anger or sadness. Many of stoicism's principles and practices can be applied to building and investing in startups.
 
 ## Stoicism
 One of the main observations of stoicism is that many sources of unhappiness originate from within ourselves. A friend forgets to invite us to a party, so we become upset. A driver cuts us off, so we become angry. A high school classmate wins the lottery, so we become jealous. These are natural responses, but also unproductive ones. Becoming upset doesn't fix our problems, it only exacerbates them. Stoicism's key insight is that our unhappiness doesn't come from external events like someone winning the lottery or cutting us off, but from our reactions to those events. If we can better control our reactions, we can achieve greater tranquility (and thus greater happiness).
