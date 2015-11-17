@@ -3,6 +3,10 @@ layout: post
 date: 2015-11-17 01:00:00
 title: "Tackle the Hard Stuff First"
 ---
+> "If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first."
+> 
+> \- Mark Twain
+
 A useful software engineering practice is to work on the hardest part of a program first. If you can't complete that piece then you'll never be able to get the full system to work. For example, if a program has 10 components, and component #10 is the most challenging one, then coding up #1 through #9 first means that an engineer might waste a lot of time before figuring out that the entire project is impossible. It's more sensible to start with #10 to understand if the project is viable in the first place. Tackling the easy stuff first is basically procrastination.
 
 The Lean Startup approach is very similar to this engineering practice: instead of building a full-featured product upfront, you talk with prospective customers and build an MVP quickly to see if an idea merits more significant investment. While it's easier and more fun to start writing code, that's often a recipe for disaster.
@@ -33,3 +37,6 @@ Why do people dodge the hard stuff? Often, it's because they're afraid of facing
 If a customer or an investor or a founder asks you a tough question -- or if there's a tough question you've asked yourself -- don't be afraid. Think about it. Really think about it. Answer it to the best of your ability. If you can't come up with a good answer, think about it some more. Get advice from others. Run experiments. Do whatever you have to do to come up with a strong response. If you can't, maybe that *does* mean your product idea is not defensible, or you're not building the right thing, or you need a new CTO, or you don't have what it takes to be a great investor, or the program you're working on is impossible to code up. These things are not pleasant to find out, but neither is wasting years of your life working on something that's hopeless. Why waste time on the easy parts if you know you won't be able to finish the hard parts later on?
 <br><br><br>
 See also: <a href="http://codingvc.com/the-road-to-success-is-paved-with-discomfort/">The Road to Success is Paved with Discomfort</a>
+
+<br>
+_Thanks to _<a href="https://twitter.com/BeninJLM" target="_blank">Ben Wiener</a>_ for sharing the Mark Twain quote with me._
