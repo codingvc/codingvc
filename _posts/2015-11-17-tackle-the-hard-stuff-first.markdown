@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-11-17 05:00:00
+date: 2015-11-17 01:00:00
 title: "Tackle the Hard Stuff First"
 ---
 A useful software engineering practice is to work on the hardest part of a program first. If you can't complete that piece then you'll never be able to get the full system to work. For example, if a program has 10 components, and component #10 is the most challenging one, then coding up #1 through #9 first means that an engineer might waste a lot of time before figuring out that the entire project is impossible. It's more sensible to start with #10 to understand if the project is viable in the first place. Tackling the easy stuff first is basically procrastination.
