@@ -19,7 +19,8 @@ author:
   name:           'Leo Polovets'
   url:            https://twitter.com/lpolovets
 
-paginate:         8
+paginate:         5
+paginate_path:    "/page/:num/"
 
 gems:
   - jekyll-archives
