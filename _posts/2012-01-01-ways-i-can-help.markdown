@@ -37,21 +37,23 @@ I often tell people, "let me know if I can help with anything," but what does th
 - designing data processing pipelines (advice about high-level design rather than specific infrastructure decisions).
 - fraud detection (and related problems).
 - feature design for ML problems. I did a lot of this while working on fraud detection at Google and on deduping at Factual.
-- I don't know ML, but I'm great at algorithms/heuristics/etc. I love thinking about hard/intractable problems and am pretty good at solving them (I used to place well in national and international programming competitions).
+- I don't know ML, but I'm good at algorithms/heuristics/etc. I love thinking about hard/intractable problems and am pretty good at solving them (I used to place well in national and international programming competitions).
 
 **Ways I can help with recruiting...**
 
 - forwarding potential candidates whom I meet if they seem like a good fit (if you tell me what you're looking for).
 - screening/interview process design (I did this a lot at my last job).
 - recruiting strategies and messaging (I did this a lot at my last job).
+- helping close candidates after they receive offers.
+- interviewing your first engineer or two.
 
 **Intros I can provide..**
 
-- my network is so-so (I've lived outside of the bay area for most of the last 5 years), but I'll do my best to connect you with whomever you are looking for.
+- the longer I work as a VC, the stronger my network gets -- especially if you want to talk to other CTOs/CEOs/engineers and learn from their experiences.
 
 **Miscellanea**
 
 - I have a fairly broad view of stuff happening in the tech world and I can provide market research about companies addressing specific problems.
-- I work with ~30 startups and can dig up benchmarks on everything from typical accounting costs to average rent/employee/month in SF.
+- I work with ~40 startups and can dig up benchmarks on everything from typical accounting costs to average rent/employee/month in SF.
 - I spent 2000-2012 as a professional software engineer at Microsoft, LinkedIn, Google, and Factual, plus I still write code on the side, so my advice tends to be rooted in practice rather than theory.
 - I like helping and I'm open to just about anything. If there's something not on this list, please ask. If I don't know how to help, I promise I'll be honest about that and won't try to fake it in order to sound smart =).
