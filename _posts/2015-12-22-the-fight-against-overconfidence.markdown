@@ -46,4 +46,4 @@ What can one do to overcome the dangers of overconfidence and unreceptiveness? H
     > 
     > <a href="https://basecamp.com/books/Getting%20Real.pdf" target="_blank">Getting Real</a>, p. 57
     
-Above all, be humble. The most successful people are rarely the ones who believe they know everything.
+Above all, be humble. The most successful people are rarely the ones who believe they know everything. 
