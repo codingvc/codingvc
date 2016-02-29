@@ -14,6 +14,21 @@ layout: default
         {% assign is_first = false %}
         <a href="/tag/{{t | downcase | replace:" ","-" }}">{{t}}</a>
     {% endfor %}
+    <br><br>
+    <div class="most-recent">
+        Recent posts:<br>
+        <ul>
+            {% assign shown = 0 %}
+            {% for post in site.posts limit:4 %}
+                {% unless post.url == page.url %}
+                    {% assign shown = shown | plus:1 %}
+                    {% unless shown > 3 %}
+                        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                    {% endunless %}
+                {% endunless %}
+            {% endfor %}
+        </ul>
+    </div>
 
 
     {% capture share_url %}{{ site.url }}123!@#{{ page.url | append: 'asdasdasd' | remove_first: '/asdasdasd'}}{% endcapture %}
