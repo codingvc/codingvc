@@ -34,7 +34,7 @@ Every startup has a different bundle of risks, and it's important to address the
 ## The relationship between risks and valuations
 If two best friends just incorporated a company and investors are offering to invest at a $5m valuation, has $5m in value already been created?? LOL. No.
 
-In the early days of a company, valuations are based on what the company _might_ accomplish (potential energy), not what it's _actually_ accomplishing (kinetic energy). How do investors assign a value to the company's potential? <strike>They guess.</strike> They estimate the best possible outcome and then weigh that against a startup's bundle of risks.
+In the early days of a company, valuations are based on what the company _might_ accomplish (potential energy), not what it's _actually_ accomplishing (kinetic energy). How do investors assign a value to the company's potential? <strike>They guess.</strike> They estimate the best possible outcome and then weigh that against the company's bundle of risks.
 
 For example, maybe Americans spend $1b annually on some widget, and a startup has a plan to sell a better version of that widget for 50% of the price. Let's say in the best case scenario, this company will eventually sell $500m of widgets each year with a 40% margin. Applying NASDAQ's 25x price/earnings ratio to an annual profit of $200m ($500m * 40%) yields a market cap of $5b. That's the best case scenario -- a complete monopoly over the widget market.
 
