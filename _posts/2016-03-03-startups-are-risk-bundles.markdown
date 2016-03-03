@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Startup are Risk Bundles"
-date: 2016-03-03 11:35:00
+date: 2016-03-03 05:54:00
 tags:
 - "Valuation"
 ---
