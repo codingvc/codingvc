@@ -98,4 +98,4 @@ People say that "what gets measured gets improved," but super-connectors taught 
 <br>
 <hr>
 <br>
-The more I work with companies, the more I see how easy it is to be blinded by their eventual success. Once a company is huge, people often forget that there was a time when it was dinky or struggling or even on the verge of failure. I hope these stories give a little bit of a sense of how LinkedIn was when it was fifteen people instead of ten thousand. 
+The more I work with companies, the more I see how easy it is to be blinded by their eventual success. Once a company is huge, people often forget that there was a time when it was dinky or struggling or even on the verge of failure. I hope these stories give a little bit of a sense of what LinkedIn was like when it was fifteen people instead of ten thousand. 
