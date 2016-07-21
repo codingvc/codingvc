@@ -2,6 +2,8 @@
 layout: post
 title: "How to Make Better Decisions with Data"
 date: 2016-07-21 03:32:00
+tags:
+- "Value of Data"
 ---
 Companies often use A/B testing to optimize their websites, but they rarely use it for anything else. This is a wasted opportunity. It turns out that if you capture enough data, _any_ repeated, measurable activity can be framed as an A/B test. For example, how does breakfast affect your morning work productivity? If you spend a month or two tracking your productivity along with the breakfast meals that you eat, you'll quickly learn if skipping breakfast turns you into a zombie or if having eggs instead of pancakes will help you get a promotion.
 
