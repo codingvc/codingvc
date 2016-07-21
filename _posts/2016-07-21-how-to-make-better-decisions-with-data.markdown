@@ -36,7 +36,7 @@ Here's a generalized algorithm for using data to improve decision-making:
 2. Make a list of attributes that you think might contribute to doing the activity well (or poorly). No attribute is too crazy or too trivial.
 3. Every time you do the activity, write down the value of each attribute along with how things turned out.
 4. After you have a reasonable number of data points, go back and correlate different attributes with outcomes. Some attributes will turn out to predict success, others will predict failure, and the rest won't have any predictive value.
-5. Incorporate what you learned into how you do the activity and return to step #1 if desired.
+5. Incorporate what you learned into how you do the activity. Go back to step #1, if desired.
 
 For example:
 
