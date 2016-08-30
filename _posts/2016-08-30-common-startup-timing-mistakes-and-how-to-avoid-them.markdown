@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Common Startup Timing Mistakes and How to Avoid Them "
+title: "Common Startup Timing Mistakes and How to Avoid Them"
 date: 2016-08-30 02:48:00
 ---
 > "The right thing at the wrong time is the wrong thing."
