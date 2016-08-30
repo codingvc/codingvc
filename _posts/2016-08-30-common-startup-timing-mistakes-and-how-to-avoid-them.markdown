@@ -46,7 +46,7 @@ In the perfect world, your revenues go up before your fundraise and your costs a
 
 ## Planning Framework
 
-Avoiding most of the mistakes above is surprisingly straightforward. Once you've designed a roadmap that includes key events and milestones, perform the following exercise:
+Avoiding most of the timing mistakes above is surprisingly straightforward. Once you've designed a roadmap that includes key events and milestones, perform the following exercise:
 
 1. For each item on the roadmap, like a new engineering hire or a major marketing initiative, estimate how much implementation time the item will require, when the item will start contributing to costs, and when the item will start contributing to revenues.
 2. When possible, advance items that increase your revenue and postpone items that increase your costs.
