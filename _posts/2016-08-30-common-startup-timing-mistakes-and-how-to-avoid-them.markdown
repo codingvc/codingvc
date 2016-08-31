@@ -55,3 +55,7 @@ Avoiding most of the timing mistakes above is surprisingly straightforward. Once
 5. If you realize you don't have enough funding to get to the goals you want to reach, your options are to a) raise more money, b) change your goals, or c) change your tactics. If you can't make the timing work out, the risk of failure shoots up dramatically.
 
 If you have timing mistakes or tips that you'd like to share, please let me know on <a href="https://twitter.com/lpolovets" target="_blank">Twitter</a> and I will update this post accordingly.
+
+Updates:
+
+* <a href="https://twitter.com/ajhoag" target="_blank">Andrew Hoag</a> mentioned that fundraising can be seasonal, too -- especially outside of Silicon Valley. See: <a href="https://twitter.com/ajhoag/status/771013436004241409" target="_blank">https://twitter.com/ajhoag/status/771013436004241409</a>
