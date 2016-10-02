@@ -39,6 +39,7 @@ The common thread in all of the examples below is not that these behaviors are _
 * **Having a policy of requiring warm intros and not replying to cold emails.** This is a reasonable system for very busy investors, but many investors are not _that_ busy. And some cold emails are pretty damn good.
 * **Co-investing blindly whenever a top VC is investing.** While top VC firms have a lot of hits, they have a lot of misses, too. Trying to co-invest with them on every deal is a mistake.
 * **Trying to be contrarian.** Being contrarian is overrated. A lot of the most successful companies, like Google and Airbnb, looked like crazy investments at first. But other great companies looked very sane and likely to succeed, even in their early days. An investor can accumulate a great portfolio without being contrarian.
+* **Being intolerant of tech outsourcing and only investing in companies with technical cofounders.** Companies like Slack and Github outsourced pieces of their initial products. Other companies, including Airbnb and Whisper, didn't have engineering cofounders. Depending on the product, a startup that uses outsourcing thoughtfully can become successful without having engineers on the founding team. (Hat tip to <a href="https://twitter.com/philmartie" target="_blank">Phil Martie</a> for this Cargo Cult example.)
 
 **Founder Cargo Cult examples:**
 
