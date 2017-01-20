@@ -81,10 +81,10 @@ At inception, a company's CurrentState is close to 0 while its ExecutionAbility 
 ### 3) There's more than one way to increase expected value
 There are four ways to make your company more valuable:
 
-1. Level up your current state: improve product/market fit, improve the product quality, build up your revenues, etc.
-2. Level up your ability to execute: hire great people, design a culture that makes people more productive, offer training, build up automation, etc.
-3. Look for adjacent markets that increase market size: other customers who would buy the same software as your existing customers, other software that your existing customers would buy, etc.
-4. Improve your differentiation. The better you can differentiate yourself the lower your CompetitorFactor drops. For example, the car industry is very competitive and there are many car manufacturers vying for market share. However, Telsa has managed to differentiate itself so much that it has very little direct competition while still having a chance to capture a large chunk of the entire auto market. Companies that reach this level of differentiation have a lot more potential value and can effectively operate like monopolies.
+1. *Level up your current state*: improve product/market fit, improve the product quality, build up your revenues, etc.
+2. *Level up your ability to execute*: hire great people, design a culture that makes people more productive, offer training, build up automation, etc.
+3. *Look for adjacent markets that increase market size*: other customers who would buy the same software as your existing customers, other software that your existing customers would buy, etc.
+4. *Improve your differentiation*: the better you can differentiate yourself the lower your CompetitorFactor drops. For example, the car industry is very competitive and there are many car manufacturers vying for market share. However, Telsa has managed to differentiate itself so much that it has very little direct competition while still having a chance to capture a large chunk of the entire auto market. Companies that reach this level of differentiation have a lot more potential value and can effectively operate like monopolies.
 
 ## Model #3: Achieving success one milestone at a time
 <img src="{{ site.url }}public/img/risk_formula3.png" style="margin-left:2em;">
