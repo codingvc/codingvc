@@ -102,7 +102,7 @@ Under this model, your company's value won't increase when you skip milestones. 
 ## The value of models
 This post presented a few (somewhat arbitrary) mental models for valuing startups. None of these models is ideal**, but each of them has interesting implications for how to maximize the long-term value of a company. While no early stage investor or founder should be explicitly calculating a startup's value using these formulas, the implications are still relevant: you should mostly focus on near term milestones and not things you won't need for several years, you should beef up your company's biggest weaknesses, you should prioritize building a strong team because that has a large impact on everything else in the company, and so on.
 
-There are many unknowns in the early days of building a company, and considering different models of success can be a useful exercise for forcing you to be more explicit about the weights you assign to different objectives and near-term tasks 
+There are many unknowns in the early days of building a company, and considering different models of success can be a useful exercise for forcing you to be more explicit about the weights you assign to different objectives and near-term tasks.
 
 <br><br>
 *Thank you to <a href="https://twitter.com/sbyrnes" target="_blank">Sean Byrnes</a> and <a href="http://twitter.com/thogge" target="_blank">Tyler Hogge</a> for giving me feedback on this post.* 
