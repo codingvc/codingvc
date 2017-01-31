@@ -57,7 +57,7 @@ Of course, the scarcity of good datasets is just part of their value. The remain
 
 In each of these cases, bigger datasets created bigger competitive advantages. At some point, competitors can no longer catch up to you -- even if their products are superior -- because they don't have the data that you have.
 
-This is by no means an exhaustive list of competitive advantages, and if you have suggestions for other ways that data helps make products more defensible, please let me know in the comments section.  
+This is by no means an exhaustive list of competitive advantages, and if you have suggestions for other ways that data helps make products more defensible, please let me know on <a href="https://twitter.com/lpolovets" target="_blank">Twitter</a>.  
 
 Next week, I'll cover effective ways to accumulate data, as well as what to watch out for as you're building up your data assets.  
 <br>

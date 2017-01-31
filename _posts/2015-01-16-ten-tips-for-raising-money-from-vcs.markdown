@@ -39,7 +39,7 @@ You should also research the markets an investor likes and the investments they'
 
 10) **Do whatever you can to get the first term sheet**. The first term sheet will be a forcing function for other investors you're talking to, and you'd be surprised (or maybe not) at how quickly everyone's diligence wraps up when there's an offer with a deadline attached to it. If you have a handful of investors who are interested but no one is pulling the trigger, ask each of them if there's anything you can do to get them over the hump. It might just take an extra diligence call with a fund's technical advisor, or a few more personal references, or a slightly lower valuation. Remember, getting a term sheet puts you in a position of strength, but you are not obligated to accept the offer.
 
-If you have other tips and suggestions that are not on this list, please let me know in the comment section. I'd love to know what tactics and strategies have worked for others.  
+If you have other tips and suggestions that are not on this list, please let me know on <a href="https://twitter.com/lpolovets" target="_blank">Twitter</a>. I'd love to know what tactics and strategies have worked for others.  
 
 <br>
 Note #1: All of these tips apply to seed stage fundraising. Most of them also apply to Series A fundraising, although #6 and #7 make more sense if you replace "angel investor" with "existing investor." That is, you should pitch to existing investors first to rack up some commitments, then ride that wave as you start talking to new investors.  

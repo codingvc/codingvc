@@ -62,6 +62,6 @@ Of all of these business models, the last one is my favorite. It's building a to
 
 ### Conclusion
 
-There are many ways to use data to make money. I'd love for this post to become a definite catalog for data business models, so I plan to add to it over time. If you have suggestions for ways to make money off of data, or specific "game plans," please let me know in the comments (or via <a href="https://twitter.com/lpolovets" target="_blank">Twitter</a>). When making a suggestions, please include your website or Twitter handle or name so that I can give you proper credit.
+There are many ways to use data to make money. I'd love for this post to become a definite catalog for data business models, so I plan to add to it over time. If you have suggestions for ways to make money off of data, or specific "game plans," please let me know on <a href="https://twitter.com/lpolovets" target="_blank">Twitter</a>.
 
 *Thanks to <a href="https://twitter.com/sbyrnes" target="_blank">Sean Byrnes</a>, <a href="https://twitter.com/eva_ho" target="_blank">Eva Ho</a>, <a href="https://twitter.com/nivo0o0" target="_blank">Niv Dror</a>, <a href="https://twitter.com/hauspoor" target="_blank">Elliott Hauser</a>, <a href="https://twitter.com/palavalli" target="_blank">Nagarjun Palavalli</a>, <a href="https://twitter.com/troblous" target="_blank">Yann Person</a>, and <a href="https://twitter.com/jhubert" target="_blank">Jeremy Baker</a> for feedback on this post.*

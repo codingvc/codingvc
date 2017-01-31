@@ -61,6 +61,6 @@ Say thanks. Don't be deferential, but don't be defensive, either. Drilling in an
 ### When should I follow the advice in this post?
 Whenever you want to! These are guidelines, not strict rules.  
 <br><br>
-If you have suggestions for other questions that should be covered in this post, please leave them in the comments and I will update the post accordingly.  
+If you have suggestions for other questions that should be covered in this post, please let me know on <a href="https://twitter.com/lpolovets" target="_blank">Twitter</a> and I will update the post accordingly.  
 <br>
 Thank you to <a href="http://seanonstartups.co/" target="_blank">Sean Byrnes</a> for giving me feedback on this post.

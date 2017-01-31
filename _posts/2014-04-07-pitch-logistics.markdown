@@ -27,4 +27,4 @@ There are many blog posts out there about what to talk about in your pitch, what
 - Delivery method: attachments or links to Dropbox links are ideal. Anything that requires a name/password/PIN is annoying because no one likes to feel monitored.
 - If an investor asks for a deck before the meeting, you should send it to them. If your deck doesn't work without you walking someone through it, you should either revise your deck or create a one-pager that you can send out. It's very hard to prepare a meeting without knowing anything about your business, and forcing a meeting without sharing anything about your company drastically reduces the value of that meeting.
 
-If you prefer other software solutions for teleconferencing and the like, please post them to the comments!
+If you prefer other software solutions for teleconferencing and the like, please let me know on <a href="https://twitter.com/lpolovets" target="_blank">Twitter</a>!

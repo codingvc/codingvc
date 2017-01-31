@@ -77,4 +77,4 @@ In each of these scenarios, the top brass has no idea what's really going on in 
 <u>Solution:</u> There should always be usable communication channels between the people at the bottom and the people at the top of an organization. Annual employee surveys and venues for anonymous feedback make it easier to surface problems before they grow too large to fix.  
 
 <br>
-That's my list. If you know other common mistakes that should be on this list, please post them in the comment section.
+That's my list. If you know other common mistakes that should be on this list, please let me know on <a href="https://twitter.com/lpolovets" target="_blank">Twitter</a>.

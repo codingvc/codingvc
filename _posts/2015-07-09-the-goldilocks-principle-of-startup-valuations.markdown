@@ -38,4 +38,4 @@ If one party _loves_ the valuation, that typically means that the other party is
 On the other hand, a valuation that seems fair to both sides is neither a bargain nor a rip-off, does not result in negative signaling about the company or its investors, and strongly aligns all parties toward the common goal of increasing the company's value. When it comes to raising your seed round, don't be greedy, but don't be a sucker, either.  
 <br>
 <br>
-If you have other thoughts on the downsides of very high or very low seed valuations, please let me know in the comments!
+If you have other thoughts on the downsides of very high or very low seed valuations, please let me know on <a href="https://twitter.com/lpolovets" target="_blank">Twitter</a>!
