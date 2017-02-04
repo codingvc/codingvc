@@ -2,6 +2,8 @@
 layout: post
 title: "How to Use Thought Experiments to De-Risk Your Startup"
 date: 2016-12-15 05:21:00
+tags:
+- "De-risking"
 ---
 > "In preparing for battle, I have always found that plans are useless but planning is indispensable."
 > 

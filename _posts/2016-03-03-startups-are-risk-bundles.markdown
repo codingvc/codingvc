@@ -4,6 +4,7 @@ title: "Startups are Risk Bundles"
 date: 2016-03-03 05:54:00
 tags:
 - "Valuation"
+- "De-risking"
 ---
 Startup founders are sometimes surprised when they spend a year or two executing against their roadmap, make a lot of progress, and still have to struggle to raise more capital. Why wouldn't investors be interested in a company if it's much further along than it was last year? Why are the few investors who are interested only willing to invest at a lower valuation?
 

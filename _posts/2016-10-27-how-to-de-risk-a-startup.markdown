@@ -2,6 +2,8 @@
 layout: post
 title: "How to De-Risk a Startup"
 date: 2016-10-27 01:45:00
+tags:
+- "De-risking"
 ---
 In a previous post, I wrote that <a href="http://codingvc.com/startups-are-risk-bundles/" target="_blank">startups are collections of risks</a>, and that the best way to make progress on a company (and to get higher valuations from investors) is to address the biggest risks as quickly and thoroughly as possible. But how do you actually mitigate different types of risk? How do you convince yourself that you have product/market fit? How do you persuade investors and employees that you can build a lasting company? How do you demonstrate to early adopters that you're good at building products?
 

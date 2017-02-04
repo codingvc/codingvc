@@ -2,6 +2,8 @@
 layout: post
 title: "Three Mathematical Models for Building a More Valuable Company"
 date: 2017-01-20 05:10:00
+tags:
+- "De-risking"
 ---
 > "All models are wrong, but some are useful."
 > 
