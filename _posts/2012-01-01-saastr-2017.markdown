@@ -2,6 +2,20 @@
 permalink: saastr-2017
 layout: post
 date: 2012-01-01 09:00:00
-title: SaaStr 2017
+title: De-Risking Your Startup (SaaStr 2017 Talk)
 ---
-Placeholder. Slides coming soon.
+This page contains info on a talk I gave at the <a href="http://saastrannual.com/" target="_blank">SaaStr</a> conference called "De-Risking Your Startup."
+
+## Slides
+ <iframe src="//www.slideshare.net/slideshow/embed_code/key/C9Xw148vkoryo0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> *<a href="//www.slideshare.net/secret/C9Xw148vkoryo0" title="De-Risking Your Startup -- SaaStr 2017 Talk" target="_blank">De-Risking Your Startup -- SaaStr 2017 Talk</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/lpolovets">Leo Polovets</a>*</strong> </div>
+
+## Further reading
+This talk was based on two posts that I've written about de-risking:
+
+* <a href="https://codingvc.com/startups-are-risk-bundles/" target="_blank">Startups are Risk Bundles</a> -- An explanation of the relationship between risks and startup valuations.
+* <a href="https://codingvc.com/how-to-de-risk-a-startup/" target="_blank">How to De-Risk a Startup</a> -- A list of ways to remove risk from your startup in various categories like product/market fit or recruiting ability.
+
+All of the risk-related posts that I've written can be found <a href="https://codingvc.com/tag/de-risking" target="_blank">here</a>.
+
+## Video
+A video of the talk will be posted once it's available online.
