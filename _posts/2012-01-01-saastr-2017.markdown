@@ -20,7 +20,7 @@ tags:
       border-collape: collapse;
   }
 </style>
-This page contains info on a talk I gave at the <a href="http://saastrannual.com/" target="_blank">SaaStr</a> conference called "De-Risking Your Startup."
+This page contains info on a 15-minute talk I gave at the <a href="http://saastrannual.com/" target="_blank">SaaStr</a> conference called "De-Risking Your Startup."
 
 ## Slides
  <iframe src="//www.slideshare.net/slideshow/embed_code/key/C9Xw148vkoryo0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> *<a href="//www.slideshare.net/secret/C9Xw148vkoryo0" title="De-Risking Your Startup -- SaaStr 2017 Talk" target="_blank">De-Risking Your Startup -- SaaStr 2017 Talk</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/lpolovets">Leo Polovets</a>*</strong> </div>
