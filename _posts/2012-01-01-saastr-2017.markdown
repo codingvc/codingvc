@@ -1,13 +1,70 @@
 ---
 permalink: saastr-2017
 layout: post
-date: 2012-01-01 09:00:00
+date: 2017-02-11 06:47:00
 title: De-Risking Your Startup (SaaStr 2017 Talk)
+tags:
+- "De-risking"
+- "Talks"
 ---
+<style>
+  tr, th, td {
+    text-align:center;
+    border: 1px dotted gray;
+  }
+  td, th {
+      width: 5em;
+  }
+  table {
+      margin-bottom:1em;
+      border-collape: collapse;
+  }
+</style>
 This page contains info on a talk I gave at the <a href="http://saastrannual.com/" target="_blank">SaaStr</a> conference called "De-Risking Your Startup."
 
 ## Slides
  <iframe src="//www.slideshare.net/slideshow/embed_code/key/C9Xw148vkoryo0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> *<a href="//www.slideshare.net/secret/C9Xw148vkoryo0" title="De-Risking Your Startup -- SaaStr 2017 Talk" target="_blank">De-Risking Your Startup -- SaaStr 2017 Talk</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/lpolovets">Leo Polovets</a>*</strong> </div>
+
+## Audio
+Unfortunately, the talk was not videotaped. However, here is an audio recording:
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307213607&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+If you want to follow along in the deck, here are the approximate slide transitions:
+<table>
+<tr><th>Slide</th><th>Start</th><th>End</th></tr>
+<tr><td>1</td><td>00:00</td><td>00:09</td></tr>
+<tr><td>2</td><td>00:09</td><td>00:46</td></tr>
+<tr><td>3</td><td>00:46</td><td>01:06</td></tr>
+<tr><td>4</td><td>01:06</td><td>01:10</td></tr>
+<tr><td>5</td><td>01:10</td><td>01:44</td></tr>
+<tr><td>6</td><td>01:44</td><td>01:59</td></tr>
+<tr><td>7</td><td>01:59</td><td>02:21</td></tr>
+<tr><td>8</td><td>02:21</td><td>03:03</td></tr>
+<tr><td>9</td><td>03:03</td><td>03:15</td></tr>
+<tr><td>10</td><td>03:15</td><td>03:43</td></tr>
+<tr><td>11</td><td>03:43</td><td>04:17</td></tr>
+<tr><td>12</td><td>04:17</td><td>04:40</td></tr>
+<tr><td>13</td><td>04:40</td><td>05:05</td></tr>
+<tr><td>14</td><td>05:05</td><td>05:13</td></tr>
+<tr><td>15</td><td>05:13</td><td>05:33</td></tr>
+<tr><td>16</td><td>05:33</td><td>05:54</td></tr>
+<tr><td>17</td><td>05:54</td><td>05:58</td></tr>
+<tr><td>18</td><td>05:58</td><td>06:09</td></tr>
+<tr><td>19</td><td>06:09</td><td>07:17</td></tr>
+<tr><td>20</td><td>07:17</td><td>07:34</td></tr>
+<tr><td>21</td><td>07:34</td><td>07:41</td></tr>
+<tr><td>22</td><td>07:41</td><td>07:56</td></tr>
+<tr><td>23</td><td>07:56</td><td>09:12</td></tr>
+<tr><td>24</td><td>09:12</td><td>09:35</td></tr>
+<tr><td>25</td><td>09:35</td><td>09:40</td></tr>
+<tr><td>26</td><td>09:40</td><td>09:49</td></tr>
+<tr><td>27</td><td>09:49</td><td>10:03</td></tr>
+<tr><td>28</td><td>10:03</td><td>10:33</td></tr>
+<tr><td>29</td><td>10:33</td><td>11:38</td></tr>
+<tr><td>30</td><td>11:38</td><td>12:23</td></tr>
+<tr><td>31</td><td>12:23</td><td>12:50</td></tr>
+<tr><td>32/Q&A</td><td>12:50</td><td>15:36</td></tr>
+</table>
 
 ## Further reading
 This talk was based on two posts that I've written about de-risking:
@@ -16,6 +73,3 @@ This talk was based on two posts that I've written about de-risking:
 * <a href="https://codingvc.com/how-to-de-risk-a-startup/" target="_blank">How to De-Risk a Startup</a> -- A list of ways to remove risk from your startup in various categories like product/market fit or recruiting ability.
 
 All of the risk-related posts that I've written can be found <a href="https://codingvc.com/tag/de-risking" target="_blank">here</a>.
-
-## Video
-A video of the talk will be posted once it's available online.
