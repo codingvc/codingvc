@@ -2,6 +2,7 @@
 layout: post
 date: 2015-09-29 09:00:00
 title: "The Effect of Location on a Startup's Likelihood of Success"
+summary: "An analysis of how the quality of a startup's founders and investors relates to its location."
 tags:
 - "Data Analysis"
 - "AngelList"

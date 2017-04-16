@@ -2,6 +2,7 @@
 layout: post
 date: 2013-11-25 09:00:00
 title: "Admission > Omission > Deception"
+summary: "A description of the pitfalls of lying or omitting key facts during a pitch."
 ---
 
 Spoiler: this is an observation about life cloaked as an observation about startup pitches.

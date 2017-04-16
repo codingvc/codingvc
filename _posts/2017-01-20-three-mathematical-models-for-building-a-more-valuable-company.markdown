@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Three Mathematical Models for Building a More Valuable Company"
+summary: "This post describes several mathematical models for a startup, and the implications that each of those models has."
 date: 2017-01-20 05:10:00
 tags:
 - "De-risking"

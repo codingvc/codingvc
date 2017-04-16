@@ -2,6 +2,7 @@
 layout: post
 date: 2014-02-03 05:00:00
 title: "Super Bowl Lessons for Startups"
+summary: "Analogies between the 2014 Super Bowl and early-stage startups."
 ---
 
 I reluctantly watched the Super Bowl last night. I'm not a football fan, but the biggest game of the year is usually entertaining, and the commercials are icing on the cake. While watching the game — nay, the _event_ — I noticed many lessons that apply to startups as much as they apply to football and the Super Bowl.  

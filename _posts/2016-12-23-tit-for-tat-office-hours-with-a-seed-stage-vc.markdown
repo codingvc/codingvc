@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tit-For-Tat Office Hours with a Seed-Stage VC"
+summary: "I'm offering VC office hours over three days during the 2016-2017 holiday season. Please read this post for details on how to apply."
 date: 2016-12-23 03:08:00
 ---
 For a while now, I've wanted to try holding office hours. I've been a big beneficiary of Silicon Valley's pay-it-forward culture, and I'd love to play a part in maintaining that culture. Winter holidays are a forced vacation for VCs\*, so this seems as good a time as any to give office hours a try. The experiment that I want to conduct is "tit-for-tat office hours": each person I meet with can ask me whatever they want for 20 minutes, and then I can ask them to teach me something related to their professional experience for 5 minutes. I've never tried this before, but hopefully it'll be useful and fun for everyone involved.

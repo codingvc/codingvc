@@ -2,6 +2,7 @@
 layout: post
 date: 2013-12-09 09:00:00
 title: "Table Stakes"
+summary: "Some thoughts on the minimal sets of features required for products to compete in their markets."
 ---
 
 _Table stakes_ is one of my favorite investing terms. Basically, table stakes are what your product needs to offer in order to be considered a legitimate alternative by your customers. For example, table stakes for an email service in 1998 were that you could send and receive email. That was it. If you want to compete with email clients in 2013, you need to be able to send and receive email, but you also need email labels, great spam detection technology, a mobile version of your product, and so on.

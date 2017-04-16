@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Use Thought Experiments to De-Risk Your Startup"
+summary: "Thought experiments are a great way to quickly and inexpensively test your startup's core assumptions. This post describes sixteen useful thought experiments."
 date: 2016-12-15 05:21:00
 tags:
 - "De-risking"

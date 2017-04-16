@@ -2,6 +2,7 @@
 layout: post
 date: 2014-08-07 06:54:00
 title: "Which Technologies Do Startups Use? An Exploration of AngelList Data"
+summary: "A look at which technologies startups are using, correlated with those startups' AngelList 'quality' scores."
 tags:
 - "Data Analysis"
 - "AngelList"

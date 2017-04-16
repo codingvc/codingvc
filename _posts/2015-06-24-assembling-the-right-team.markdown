@@ -2,6 +2,7 @@
 layout: post
 date: 2015-06-24 18:00:00
 title: "Assembling the Right Team"
+summary: "Tips for assembling a great team at an early-stage startup."
 ---
 
 I meet with a lot of startup founders, and many of them don't have well-balanced teams. For example, a company might have two non-technical cofounders who are outsourcing all of their early engineering work, or two technical cofounders who want to build enterprise SaaS products but have no sales experience and no connections to their target market.

@@ -2,7 +2,7 @@
 layout: post
 date: 2014-06-04 01:56:00
 title: "Analyzing Product Hunt Data"
-summary: "test summary product hunt"
+summary: "An analysis of Product Hunt Data, including commonly upvoted words and phrases."
 tags:
 - "Data Analysis"
 ---

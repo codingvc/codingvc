@@ -2,6 +2,7 @@
 layout: post
 date: 2014-01-28 05:00:00
 title: "Embrace Laziness"
+summary: "Instead of looking for a clever or thorough solution to a tough problem, try being lazy instead."
 ---
 
 > "The dictionary is the only place that success comes before work. Work is the key to success, and hard work can help you accomplish anything."  

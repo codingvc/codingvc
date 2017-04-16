@@ -2,6 +2,7 @@
 layout: post
 date: 2014-01-17 04:00:00
 title: "How Do Investors Value Pre-revenue Companies?"
+summary: "An explanation of the mental heuristics that investors use to assign valuations to pre-venue startups."
 tags:
 - "Valuation"
 ---

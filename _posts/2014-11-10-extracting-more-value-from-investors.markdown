@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Extracting More Value from Investors"
+summary: "Common mistakes when asking investors for help, and a list of areas where you should consider asking for help."
 date: 2014-11-10 02:46:00
 tags:
 - "Investor Updates"

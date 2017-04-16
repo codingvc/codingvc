@@ -2,6 +2,7 @@
 layout: post
 date: 2013-12-16 09:00:00
 title: "Startup Valuations"
+summary: "An informative overview of startup valuations: what they are, how they're decided, and why they're important."
 tags:
 - "Valuation"
 ---

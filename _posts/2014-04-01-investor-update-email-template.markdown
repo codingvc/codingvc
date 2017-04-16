@@ -2,6 +2,7 @@
 layout: post
 date: 2014-04-01 12:57:00
 title: "Investor Update Email Template"
+summary: "A template for the monthly email updates that founders typically send to VCs and angel investors. Several examples included."
 tags:
 - "Investor Updates"
 ---

@@ -2,6 +2,7 @@
 layout: post
 date: 2015-06-12 00:55:00
 title: "What Shape is Your Competitive Advantage?"
+summary: "Some competitive advantages (moats) get stronger over time while others plateau quickly. You should know what kind of moat you're building and what kind of moats you're competing against."
 ---
 
 It's important for companies to have some kind of durable competitive advantage -- otherwise competitors can come in, copy a product, and take away significant market share (and profits).

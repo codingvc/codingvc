@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Startups are Risk Bundles"
+summary: "This post frames a startup as a series of risks that should be mitigated, and offers advice for how to prioritize and address those risks."
 date: 2016-03-03 05:54:00
 tags:
 - "Valuation"

@@ -2,6 +2,7 @@
 layout: post
 date: 2015-07-09 16:45:00
 title: "The Goldilocks Principle of Seed Stage Valuations"
+summary: "Reasons not to raise at too high or too low of a valuation."
 ---
 
 Seed stage startup valuations are a hard thing to get right. I've previously written three articles that cover strategies for figuring out 1) <a href="http://codingvc.com/how-much-runway-should-you-raise/" target="_blank">how much runway you need</a>, 2) <a href="http://codingvc.com/fundraising-roadmap-algorithm/" target="_blank">how to plan your current financing round in the context of your next financing round</a>, and 3) <a href="http://codingvc.com/an-algorithm-for-seed-round-valuations/" target="_blank">how to estimate a reasonable valuation for your level of progress</a>. In this post, I'd like to cover some of the risks of raising at either too high or too low of a valuation.

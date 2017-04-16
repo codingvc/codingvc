@@ -2,6 +2,7 @@
 layout: post
 date: 2014-05-08 00:48:00
 title: "Demo Day Pitching, Part 2: Telling a Story"
+summary: "An illustrative example of the difference between reciting facts in a pitch vs. telling a story."
 tags:
 - "Pitching"
 - "Demo Day"

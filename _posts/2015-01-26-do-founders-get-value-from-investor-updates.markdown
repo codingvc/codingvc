@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Do Founders Get Value from Investor Updates?"
+summary: "It's obvious why investors love getting updates from founders they've invested in. But do founders get value from those updates, too? (TL;DR: absolutely.)"
 date: 2015-01-26 03:18:00
 tags:
 - "Investor Updates"

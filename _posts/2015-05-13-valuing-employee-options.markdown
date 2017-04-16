@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Valuing Employee Options"
+summary: "Tips and advice for thinking about stock options if you're a startup employee."
 date: 2015-05-13 12:10:10
 ---
 

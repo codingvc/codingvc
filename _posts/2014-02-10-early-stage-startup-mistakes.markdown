@@ -2,6 +2,7 @@
 layout: post
 date: 2014-02-10 03:56:00
 title: "Early-stage Startup Mistakes"
+summary: "A list of common startup mistakes, like implementing too much process early on or accumulating lots of pilots w/o any paid customers."
 ---
 
 Over the last fifteen years, I've been involved with a lot of tech companies. I've worked at 6, invested in ~20 (either personally or through my fund), and researched hundreds in-depth. Most of these companies were startups with 1 to 50 employees. After seeing that many companies up close, I've noticed a lot of recurring mistakes.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Value of Data, Part 1: Using Data as a Competitive Advantage"
+summary: "This is the first article in a 3-part series on the value of data. It explains how data can be used to build a durable competitive advantage for your company."
 date: 2015-02-27 2:45:00
 tags:
 - "Value of Data"

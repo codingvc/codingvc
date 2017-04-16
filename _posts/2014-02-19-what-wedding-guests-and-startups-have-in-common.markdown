@@ -2,6 +2,7 @@
 layout: post
 date: 2014-02-19 16:00:00
 title: "What Wedding Guests and Startups Have in Common"
+summary: "An analogy between giving gifts at weddings and building products at startups."
 ---
 
 Your good friends Tom and Susan are getting married next month. They have a wedding registry filled with boring gift ideas like decorative throw pillows and pruning shears. You've known the happy couple for the last six years, so surely you can figure out a much more thoughtful, personal gift for them, right? Wrong.

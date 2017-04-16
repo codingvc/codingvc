@@ -3,6 +3,7 @@ permalink: saastr-2017
 layout: post
 date: 2017-02-11 06:47:00
 title: De-Risking Your Startup (SaaStr 2017 Talk)
+summary: "Slides and audio from Leo Polovets' SaaStr talk on de-risking startups."
 tags:
 - "De-risking"
 - "Talks"

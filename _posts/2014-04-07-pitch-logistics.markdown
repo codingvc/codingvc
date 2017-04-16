@@ -2,6 +2,7 @@
 layout: post
 date: 2014-04-07 15:55:00
 title: "Pitch Logistics"
+summary: "Basic logistical tips for physical pitches, online pitches, and pitch decks."
 tags:
 - "Pitching"
 ---

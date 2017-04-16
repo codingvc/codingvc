@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Value of Data, Part 3: Data Business Models"
+summary: "This is the third article in a 3-part series on the value of data. It describes various data business models and explains how you can translate a data asset into $$$."
 date: 2015-03-12 23:15:00
 tags:
 - "Value of Data"

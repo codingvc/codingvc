@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Internet is a Meritocracy"
+summary: "In the physical world, you can win by being the best local choice. On the internet, you have to be the best at what you do globally."
 date: 2015-02-03 08:00:00
 ---
 

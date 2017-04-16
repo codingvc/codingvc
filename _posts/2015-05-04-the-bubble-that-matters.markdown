@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Bubble that Matters"
+summary: "Whether or not there's a tech bubble is less important than whether or not you're operating in a personal bubble and ignoring important feedback."
 date: 2015-05-04 16:44:00
 ---
 

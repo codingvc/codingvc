@@ -2,6 +2,7 @@
 layout: post
 date: 2013-11-18 09:00:00
 title: "What Do Angel Investors Actually Do? (Part 2)"
+summary: "High-level overview of how startup investors convince startups to take their money, and how investors help after investing."
 tags:
 - "Angel Investing"
 ---

@@ -2,6 +2,7 @@
 layout: post
 date: 2014-04-30 04:32:00
 title: "A Survey of Survey Design"
+summary: "A summary of tips and tricks for designing better surveys."
 tags:
 - "Notes"
 - "Operating Tips"

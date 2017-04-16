@@ -2,6 +2,7 @@
 layout: post
 date: 2014-02-27 04:29:00
 title: "The Challenges of Being a VC"
+summary: "While being a venture capitalist is great privilege in many ways, there are some downsides, too."
 ---
 
 Before I became a VC, I imagined that it would be a cushy job**. I assumed that VCs hang out with super smart founders, give the ones they like gobs of Other People's Money, then sit back and wait for the profits to start rolling in. Pretty soon, they're driving around town in Tesla Model S's (Tesla Roadsters are _so_ 2010), "sharing notes" with fellow investors over expensed meals at Michelin-starred restaurants, and spending summers in Fiji because they need quiet time to "think deeply about the future of technology."

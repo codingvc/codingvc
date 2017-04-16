@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Value of Data, Part 2: Building Valuable Datasets"
+summary: "This is the second article in a 3-part series on the value of data. It explains the attributes that make data valuable, different types of data sources, and how to go about accumulating data."
 date: 2015-03-05 2:45:00
 tags:
 - "Value of Data"

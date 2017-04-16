@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Startup Technical Diligence is a Waste of Time"
+summary: "Before becoming a VC, I was a software engineer. I thought having a tech background would help me diligence startups, but then I learned that technical diligence for startups is a waste of time."
 date: 2016-07-13 04:08:00
 ---
 In late 2012, I made the transition from software engineering to seed stage investing. I started <a href="http://susaventures.com" target="_blank">Susa Ventures </a> with several friends, and I was going to be the person in charge of all technical diligence. Since practicing software engineers are relatively rare in the VC industry, I (naively) assumed that my background would give Susa a big competitive advantage when making investing decisions. For the most part, I was wrong.

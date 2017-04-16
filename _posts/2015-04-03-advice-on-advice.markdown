@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Advice on Advice"
+summary: "Actionable tips for giving and receiving advice."
 date: 2015-04-02 13:00:00
 ---
 > "I always advise people never to give advice."  

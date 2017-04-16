@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fighting Bad Practices with Successes"
+summary: "The best way to fight systemic tech industry issues like lack of diversity, unfair employee equity grants, etc. is to build a company that is wildly successful while doing the right thing."
 date: 2015-01-07 02:48:00
 ---
 

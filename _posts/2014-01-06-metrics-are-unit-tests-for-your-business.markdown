@@ -2,6 +2,7 @@
 layout: post
 date: 2014-01-06 19:00:00
 title: "Metrics Are Unit Tests for Your Business"
+summary: "Unit tests give programmers the confidence to experiment and document what's important. Metrics play the same role for companies."
 tags:
 - "Operating Tips"
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "An Open Letter to Demo Day Startups"
+summary: "Accelerators and demo days are great, but peer pressure from other companies in a batch can lead to bad decisions. This open letter describes mistakes to watch out for."
 date: 2015-03-17 13:00:00
 tags:
 - "Demo Day"

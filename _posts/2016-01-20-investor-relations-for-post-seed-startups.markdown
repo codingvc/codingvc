@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Investor Relations for Post-Seed Startups"
+summary: "Startups that recently raised seed rounds often wonder about how to lay the groundwork with Series A investors. This post offers guidance for building relationships with prospective investors."
 date: 2016-01-21 12:34:00
 ---
 When founders are raising their seed rounds, they try to meet with as many investors as possible -- a sound strategy for raising money. However, after those seed rounds close, most founders are unsure about how to allocate time to new investor relationships. Should they start reaching out to Series A investors even though a Series A is over a year away? Should they accept meeting requests from VCs they've never talked to before? If they do meet with new investors, what should such meetings be about? This post will address some of the most common questions about meeting with investors when you're not fundraising.

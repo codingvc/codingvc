@@ -2,6 +2,7 @@
 layout: post
 date: 2014-03-11 08:38:00
 title: "Sharing Knowledge for Fun and Profit"
+summary: "The case for generously sharing what you know with others."
 amazon: true
 tags:
 - "Learning"

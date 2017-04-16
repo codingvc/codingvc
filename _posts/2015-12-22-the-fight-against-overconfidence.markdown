@@ -2,6 +2,7 @@
 layout: post
 date: 2015-12-22 15:55:00
 title: "The Fight Against Overconfidence"
+summary: "Overconfident people are less receptive to feedback, and ignoring feedback is extremely dangerous. This post describes those dangers and offers tips for avoiding overconfidence."
 ---
 A few weeks ago, I wrote about the <a href="http://codingvc.com/the-100-hour-rule/" target="_blank">100-hour rule</a>:
  

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why This? Why Now? Why You?"
+summary: "This post describes the three core questions that investors ask founders (and that founders should ask themselves)."
 date: 2016-06-08 04:14:00
 ---
 Once your startup has some traction, fundraising becomes more straightforward. Investors still care about your vision and your team, but much of their focus shifts toward analyzing and interpreting your numbers: how fast is revenue growing? How many users are logging in monthly? How about daily? What fraction of users are retained for at least 3 months? 12 months? Strong numbers reduce the perceived riskiness of your company even if other parts of your pitch are weak. After all, if your company is making $2m/year and growing 20% monthly, then you must be on to something, right?

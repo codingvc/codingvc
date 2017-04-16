@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ten Tips for Raising Money from VCs"
+summary: "Tips on building fundraising momentum and not wasting time on a broken fundraising process."
 date: 2015-01-16 00:14:00
 tags:
 - "Fundraising"

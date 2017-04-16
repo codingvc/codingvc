@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Best Of
+summary: "A list of the best blog posts on http://codingvc.com."
 ---
 
 ## Data Analyses

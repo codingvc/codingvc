@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tags
+summary: "A list of all tags on http://codingvc.com."
 ---
 
 <ul class="tags">

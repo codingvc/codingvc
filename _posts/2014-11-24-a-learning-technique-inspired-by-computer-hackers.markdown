@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Learning Technique Inspired by Computer Hackers"
+summary: "Two simple ways to get a lot of educational value from the personal introductions that you make."
 date: 2014-11-24 16:46:00
 tags:
 - "Learning"

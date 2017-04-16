@@ -2,6 +2,7 @@
 layout: post
 date: 2014-05-02 02:45:00
 title: "Demo Day Pitching, Part 1: Common Problems"
+summary: "Explanations and illustrative examples of common demo day pitch problems."
 tags:
 - "Pitching"
 - "Demo Day"

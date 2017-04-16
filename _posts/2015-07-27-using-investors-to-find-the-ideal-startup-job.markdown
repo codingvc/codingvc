@@ -2,6 +2,7 @@
 layout: post
 date: 2015-07-28 12:15:00
 title: "Using Investors to Find the Ideal Startup Job"
+summary: "If you're looking for a job, talk to VCs that invest in the kinds of startups you want to join. VCs can help you find a good fit, & their incentives are often better aligned than those of recruiters."
 ---
 *TL;DR: If you want to work at a startup, email a VC or angel investor and ask them for company recommendations. Because of the well-aligned incentives between investors, founders, and job seekers, investors are a great resource for finding the perfect job.*
 

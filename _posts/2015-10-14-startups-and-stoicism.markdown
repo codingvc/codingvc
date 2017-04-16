@@ -2,6 +2,7 @@
 layout: post
 date: 2015-10-14 18:29:00
 title: "Startups and Stoicism"
+summary: "Stoicism is a philosophy that encourages being calm and tranquil in the face of trials and tribulations. Many of stoicism's principles can be applied to building and investing in startups."
 amazon: true
 ---
 

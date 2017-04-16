@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to De-Risk a Startup"
+summary: "This post enumerates common early-stage startup risks and offers guidance on how to measure the extent to which each risk has been addressed."
 date: 2016-10-27 01:45:00
 tags:
 - "De-risking"

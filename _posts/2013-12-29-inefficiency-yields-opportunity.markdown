@@ -2,6 +2,7 @@
 layout: post
 date: 2013-12-29 18:00:00
 title: "Inefficiency Yields Opportunity"
+summary: "Thinking about the inefficiencies around you can often result in great business ideas."
 ---
 
 The world is filled with inefficiencies, large and small. I just called my credit card company to activate a new credit card and had to sit through a 90-second prerecorded message about the recent <a href="http://www.wired.com/threatlevel/2013/12/target-hack-hits-40-million/" target="_blank">Target data breach</a> and how it might affect me. I had to listen to the entire recording to get to the card activation menu, which was a waste of time because the Target issue has zero impact on me. (Since the new card has never been used, there's no chance that it would've been in Target's compromised database.)  

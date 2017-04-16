@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Avoid Piecemeal Seed Rounds"
+summary: "It's currently trendy to raise seed rounds with a series of convertible notes, but founders overestimate the dilution benefit and underestimate the amount of extra time required for such rounds."
 date: 2016-02-15 18:55:00
 tags:
 - "Fundraising"

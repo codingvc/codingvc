@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fundraising Roadmap Algorithm"
+summary: "A step-by-step recipe for raising your seed round."
 date: 2015-05-12 13:34:00
 tags:
 - "Valuation"

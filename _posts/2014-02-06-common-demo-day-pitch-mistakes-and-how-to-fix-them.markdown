@@ -2,6 +2,7 @@
 layout: post
 date: 2014-02-06 06:45:00
 title: "Common Demo Day Pitch Mistakes and How To Fix Them"
+summary: "A list of common demo day pitch problems and tips for fixing those problems."
 tags:
 - "Pitching"
 - "Demo Day"

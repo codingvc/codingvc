@@ -2,6 +2,7 @@
 layout: post
 date: 2015-09-16 09:00:00
 title: "5 Tips for SaaS Roadmap Planning"
+summary: "Advice for SaaS companies for building near-term financial plans."
 ---
 Most startups have a roadmap for the next year or two, and most investors ask about that roadmap during pitch meetings. The question usually sounds something like this: "If you raise the $1.5m that you're looking for, how much runway would that get you? What would you hope to do that in that time frame?" The answers can reveal unrealistic assumptions about operating costs or about growth trajectories. On rare occasions, they can also reveal a lack of understanding about how startups work.
 

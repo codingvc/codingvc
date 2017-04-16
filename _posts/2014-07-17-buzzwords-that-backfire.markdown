@@ -2,6 +2,7 @@
 layout: post
 date: 2014-07-17 09:36:00
 title: "Buzzwords That Backfire"
+summary: "The dangers of carelessly using buzzwords in your pitch."
 tags:
 - "Pitching"
 ---

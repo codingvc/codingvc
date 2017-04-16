@@ -2,6 +2,7 @@
 layout: post
 date: 2015-08-28 01:05:00
 title: "The Road to Success is Paved with Discomfort"
+summary: "If you want to be successful, you'll have to learn to be okay with stepping outside of your comfort zone."
 ---
 
 _TL;DR: If you're a founder and you want your company to succeed, you have to put what's best for the company ahead of what feels most comfortable for you._

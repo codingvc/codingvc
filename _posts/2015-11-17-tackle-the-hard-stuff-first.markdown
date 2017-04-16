@@ -2,6 +2,7 @@
 layout: post
 date: 2015-11-17 01:00:00
 title: "Tackle the Hard Stuff First"
+summary: "If you can't handle the hardest step of a plan, then executing the rest of the plan while avoiding the hard step will be a giant waste of time. Start with the hard things."
 ---
 > "If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first."
 > 

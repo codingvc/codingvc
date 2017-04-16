@@ -2,6 +2,7 @@
 layout: post
 date: 2014-07-03 02:22:00
 title: "Benefit Providers for Startups"
+summary: "Data-backed service provider recommendations for health and dental insurance, legal work, etc."
 tags:
 - "Operating Tips"
 ---

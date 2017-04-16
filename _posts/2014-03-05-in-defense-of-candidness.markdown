@@ -2,6 +2,7 @@
 layout: post
 date: 2014-03-05 23:52:00
 title: "In Defense of Candidness"
+summary: "Examples of the benefits of being very open and candid with others."
 ---
 
 It's challenging to be candid when you have an unpleasant message to deliver. It's so tempting to lie or to misdirect.  

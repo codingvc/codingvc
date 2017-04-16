@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Make Better Decisions with Data"
+summary: "Several concrete tips for optimizing recruiting, sales, and marketing decisions using data."
 date: 2016-07-21 03:32:00
 tags:
 - "Value of Data"

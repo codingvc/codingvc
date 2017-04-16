@@ -2,6 +2,7 @@
 layout: post
 date: 2014-07-24 16:47:00
 title: "Beneficiary/User/Purchaser Alignment"
+summary: "An examination of what can happen when a product's purchaser, user, and beneficiary are all different people."
 ---
 
 For founders, Product/Market Fit (PMF) is the holy grail**. Achieving PMF means you have developed a product that satisfies a strong market need. As Marc Andreessen once said, "the only thing that matters is getting to product/market fit."  

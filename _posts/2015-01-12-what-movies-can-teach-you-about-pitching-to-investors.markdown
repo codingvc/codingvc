@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What Movies Can Teach You about Pitching to Investors"
+summary: "Movie posters and trailers can teach you a lot about how to pitch a startup."
 date: 2015-01-12 00:12:00
 tags:
 - "Pitching"

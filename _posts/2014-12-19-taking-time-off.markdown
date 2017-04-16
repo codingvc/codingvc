@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Taking Time Off"
+summary: "If you're tired and burnt out and you haven't taken time off in a while, take a break or a vacation instead of reading this post. No one will fault you for it."
 date: 2014-12-19 13:17:00
 ---
 

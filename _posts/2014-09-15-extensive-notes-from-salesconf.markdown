@@ -2,6 +2,7 @@
 layout: post
 date: 2014-09-15 06:31:00
 title: "Extensive Notes from SalesConf"
+summary: "Thorough notes on a full-day sales conference called SalesConf. The day's talks covered topics ranging from building lead lists to growing sales teams."
 amazon: true
 tags:
 - "Notes"

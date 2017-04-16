@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Common Startup Timing Mistakes and How to Avoid Them"
+summary: "A collection of timing-related mistakes that startups make, like hiring aggressively just before fundraising, or overlooking seasonality or sales cycles when creating a fundraising roadmap."
 date: 2016-08-30 02:48:00
 ---
 > "The right thing at the wrong time is the wrong thing."

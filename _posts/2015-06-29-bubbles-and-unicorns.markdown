@@ -2,6 +2,7 @@
 layout: post
 date: 2015-06-29 08:00:00
 title: "Bubbles and Unicorns"
+summary: "For the last 20 years, great startups were founded in all kinds of economic environments. Don't let the current climate keep you from pursuing success."
 ---
 ![Unicorns]({{ site.url }}public/img/unicorns-and-bubbles.png)
 

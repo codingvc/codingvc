@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Website Update!"
+summary: "I just moved from Posthaven to Jekyll. Feedback welcome!"
 date: 2015-02-17 00:45:00
 ---
 

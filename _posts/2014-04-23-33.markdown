@@ -2,6 +2,7 @@
 layout: post
 date: 2014-04-23 03:10:00
 title: "33"
+summary: "A few thoughts on how much technology has changed in the last few decades."
 ---
 
 I turn 33 years old today, and I've been thinking about how much the world has changed during my lifetime. The changes have been especially dramatic in the context of technology, which made incredible progress during each of the last three decades.

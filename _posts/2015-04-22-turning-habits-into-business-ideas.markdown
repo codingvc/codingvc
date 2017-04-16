@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Turning Habits Into Business Ideas"
+summary: "Thinking about the ways in which regular routines and habits are suboptimal can result in promising startup ideas."
 date: 2015-04-22 07:00:00
 ---
 I spent last week moving to a new house. As someone who has moved ten times in the last ten years, I'm (unfortunately) very familiar with the moving experience. One of the things that struck me is how little the moving process -- or maybe just _my_ moving process -- has changed in the last decade. Here's my moving game plan:

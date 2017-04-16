@@ -2,6 +2,7 @@
 layout: post
 date: 2014-06-27 06:28:00
 title: "How Much Runway Should You Raise?"
+summary: "Tips for calculating how much runway you'll need in order to get from your startup's current funding round to its next round."
 tags:
 - "Fundraising"
 - "Runway"

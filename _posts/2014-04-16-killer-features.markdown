@@ -2,6 +2,7 @@
 layout: post
 date: 2014-04-16 01:55:00
 title: "Killer Features"
+summary: "Examples of features that are so bad that they cause users to stop using products."
 ---
 
 Some products have 'killer' features. These features are so frustrating that they kill my desire to use said products. Some examples:

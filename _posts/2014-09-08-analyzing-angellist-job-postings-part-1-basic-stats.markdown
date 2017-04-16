@@ -2,6 +2,7 @@
 layout: post
 date: 2014-09-08 17:16:00
 title: "Analyzing AngelList Job Postings, Part 1: Basic Stats"
+summary: "Basic stats about popular startup locations, job titles, vesting schedules, etc."
 tags:
 - "Data Analysis"
 - "AngelList"

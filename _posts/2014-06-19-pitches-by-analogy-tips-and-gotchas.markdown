@@ -2,6 +2,7 @@
 layout: post
 date: 2014-06-19 03:56:00
 title: "Pitches by Analogy (Tips and Gotchas)"
+summary: "Uber for cats. Airbnb for headphones. WTH does that even mean? This post explains tips and pitfalls when creating startup analogies."
 tags:
 - "Pitching"
 ---

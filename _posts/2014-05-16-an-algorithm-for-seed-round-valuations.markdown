@@ -2,6 +2,7 @@
 layout: post
 date: 2014-05-16 00:55:00
 title: "An Algorithm for Seed Round Valuations"
+summary: "A simple heuristic for estimating how much to raise and the valuation to raise at. Includes sample valuations from 2014."
 tags:
 - "Valuation"
 - "Runway"

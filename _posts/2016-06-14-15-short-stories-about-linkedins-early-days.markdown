@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "15 Short Stories About LinkedIn's Early Days"
+summary: "I was one of the first 15 employees at LinkedIn. I've written down a few memories I have of working at the company between 2003 and 2005."
 date: 2016-06-14 05:24:00
 ---
 I was lucky enough to be one of LinkedIn's earliest employees in 2003. I joined the company when it was just over a dozen people and was the 2nd non-founding engineer hire.

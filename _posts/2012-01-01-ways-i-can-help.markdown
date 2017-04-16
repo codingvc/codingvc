@@ -2,6 +2,7 @@
 permalink: ways-i-can-help
 layout: page
 title: Ways I Can Help
+summary: "A summary of ways that Leo Polovets can (and cannot) help founders of portfolio companies."
 ---
 (This page is intended for current/prospective portfolio companies.) 
 

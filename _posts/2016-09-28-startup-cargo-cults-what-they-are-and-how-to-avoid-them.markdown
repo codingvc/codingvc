@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Startup Cargo Cults: What They Are and How to Avoid Them"
+summary: "Cargo cult thinking means copying things that successful people do w/o questioning whether you're copying the right things. This post contains cargo cult examples and tips for thinking independently."
 date: 2016-09-28 03:52:00
 ---
 

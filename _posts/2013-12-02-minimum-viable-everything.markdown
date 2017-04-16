@@ -2,6 +2,7 @@
 layout: post
 date: 2013-12-02 09:00:00
 title: "Minimum Viable Everything"
+summary: "The 'Minimum Viable Product' approach can be applied to everything from hiring to marketing."
 tags:
 - "Operating Tips"
 ---

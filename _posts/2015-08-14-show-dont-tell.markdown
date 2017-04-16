@@ -2,6 +2,7 @@
 layout: post
 date: 2015-08-14 13:55:00
 title: "Show, Don't Tell"
+summary: "Showing something instead of just claiming it has a huge positive impact on fundraising, hiring, and sales."
 ---
 > "Don't tell me the moon is shining; show me the glint of light on broken glass."  
 > 

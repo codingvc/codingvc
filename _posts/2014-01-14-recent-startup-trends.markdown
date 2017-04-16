@@ -2,6 +2,7 @@
 layout: post
 date: 2014-01-14 06:00:00
 title: "Recent Startup Trends"
+summary: "An analysis of promising startup trends in 2013."
 ---
 
 I spent 2013 as one of four partners at a <a href="http://www.susaventures.com/" target="_blank">seed stage fund</a> with a strong data focus*. During that time, I had the privilege of talking in depth with hundreds of founders about the data-centric companies they were working on. Here are some of the high level trends that I observed among those startups, along with a few suggestions for anyone who is looking for startup ideas:

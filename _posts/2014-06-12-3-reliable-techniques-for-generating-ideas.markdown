@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "3 Reliable Techniques for Generating Ideas"
+summary: "Three concrete tips (w/examples) for coming up with great ideas: mash up existing ideas, change an existing idea, or ask 'why?' several times."
 date: 2014-06-12 11:10:00
 amazon: true
 ---

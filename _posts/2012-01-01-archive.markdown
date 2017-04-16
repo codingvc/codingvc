@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Archive of posts
+summary: "A list of all posts on http://codingvc.com."
 ---
 
 <div class="page">

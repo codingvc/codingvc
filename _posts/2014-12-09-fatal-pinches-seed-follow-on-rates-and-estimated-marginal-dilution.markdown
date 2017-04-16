@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fatal Pinches, Seed Follow-On Rates, and Estimated Marginal Dilution"
+summary: "How to think about fundraising and marginal dilution in order to avoid situations where your growth and burn rate make it hard to raise follow-on funding."
 date: 2014-12-09 03:05:00
 tags:
 - "Fundraising"

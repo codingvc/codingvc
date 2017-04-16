@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fundraising Logistics Talk"
+summary: "Slides from a talk on fundraising tips and logistics that I gave to Caltech alumni."
 date: 2015-02-19 11:45:00
 ---
 I just gave a short talk on fundraising logistics at a Caltech alumni lunch. The talk was loosely inspired by my recent post on <a href="http://codingvc.com/ten-tips-for-raising-money-from-vcs/">raising money from VCs</a>

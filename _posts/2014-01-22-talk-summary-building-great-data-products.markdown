@@ -2,6 +2,7 @@
 layout: post
 date: 2014-01-22 05:00:00
 title: "Talk Summary: Building Great Data Products"
+summary: "Key points from DJ Patil's talk on building data products."
 tags:
 - "Notes"
 - "Talk Notes"

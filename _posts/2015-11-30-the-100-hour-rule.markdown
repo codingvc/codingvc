@@ -2,6 +2,7 @@
 layout: post
 date: 2015-11-30 15:30:00
 title: "The 100-Hour Rule"
+summary: "It takes 10,000 hours of practice to master a field, but only 100 hours to know it better than almost everyone else."
 ---
 
 A recently popularized meme is the <a href="http://www.wisdomgroup.com/blog/10000-hours-of-practice/" target="_blank">10,000-Hour Rule</a>, which describes the amount of time required to achieve mastery of a field. This rule has several implications:

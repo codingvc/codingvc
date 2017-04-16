@@ -2,6 +2,7 @@
 layout: post
 date: 2015-11-05 06:00:00
 title: "Respect the Other Players"
+summary: "People are too quick to dismiss competition. However, it's unlikely that your competitors are being run by idiots. Respecting your competitors will help you avoid being blindsighted by their moves."
 ---
 
 There are many articles these days about young startups raising tons of money. There is also an increasing number of articles about well-funded startups suddenly struggling or shutting down. Every time a new story comes out, there's a chorus of comments about how a failing company was doomed from the start, or how the VCs investing at huge valuations are dumb, or how the founders of a company don't know what they're doing. Sometimes these comments are accurate, but much of the time they're ill-informed. These comments also reveal two common biases: the tendency to underestimate others (and overestimate oneself), and the tendency to draw conclusions from present data without considering what data might be missing. These are dangerous biases -- especially when used by founders to hastily dismiss the quality of their competition.

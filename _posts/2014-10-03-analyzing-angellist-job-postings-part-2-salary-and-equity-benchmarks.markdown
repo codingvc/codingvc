@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Analyzing AngelList Job Postings, Part 2: Salary and Equity Benchmarks"
+summary: "Stats and graphs about equity and salary offers at <100-person startups."
 date: 2014-10-03 12:37:00
 tags:
 - "Data Analysis"
