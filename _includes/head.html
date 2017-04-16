@@ -37,10 +37,11 @@
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@lpolovets" />
-    <meta name="twitter:title" content="{{ page.title }}" />
     {% if page.title == "Home" %}
-    <meta name="twitter:description" content="Posts on startups and startup investing from the perspective of a software engineer turned VC." />
+        <meta name="twitter:title" content="Coding VC blog by Leo Polovets of Susa Ventures" />
+        <meta name="twitter:description" content="Posts on startups and startup investing from the perspective of a software engineer turned VC." />
     {% else %}
+       <meta name="twitter:title" content="{{ page.title }}" />
         {% if page.summary %}
         <meta name="twitter:description" content="{{page.summary}}" />
         {% else %}
