@@ -2,6 +2,7 @@
 layout: post
 date: 2014-06-04 01:56:00
 title: "Analyzing Product Hunt Data"
+summary: "test summary product hunt"
 tags:
 - "Data Analysis"
 ---
