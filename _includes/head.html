@@ -35,18 +35,6 @@
     <!-- RSS -->
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
 
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@lpolovets" />
-    <meta name="twitter:title" content="{{ page.title }}" />
-    {% if page.title == "Home" %}
-    <meta name="twitter:description" content="Posts on startups and startup investing from the perspective of a software engineer turned VC." />
-    {% else %}
-        {% if page.summary %}
-        <meta name="twitter:description" content="{{page.summary}}" />
-        {% else %}
-        <meta name="twitter:description" content="Test description" />
-        {% endif %}
-    {% endif %}
 
 
     <script src="//load.sumome.com/" data-sumo-site-id="d0c77515bce902c4a61f24709ed197999cfc3e9d23c9f8034465f8dca56a31d5" async="async"></script>
