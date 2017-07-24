@@ -117,4 +117,4 @@ I've started to do more talks, podcasts, panels, etc. Here are a few recent ones
 
 <br><br><br>Finally, this somehow became my most popular tweet of all time ¯\\\_(ツ)\_/¯
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Wrigley Field. Sold out crowd.<br><br>Warren Buffet walks in.<br><br>Avg person in the stadium is now a millionaire.<br><br>Averages &amp; power laws don&#39;t mix.</p>&mdash; Leo Polovets (@lpolovets) <a href="https://twitter.com/lpolovets/status/879898598246240256">June 28, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
