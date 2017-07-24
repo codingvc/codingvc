@@ -34,10 +34,10 @@ Other posts I'm working on for the next 6 months:
 
 * A long, thorough series on building a pitch deck.
 
-I've been collecting notes for the last two topics for several years, and at this point the perfect is becoming the enemy of the good.
+I've been collecting notes for the last two topics for several years, and at this point the perfect is becoming the enemy of the good. It's time to publish.
 
 ## <a name="talks"></a>Recent podcast interviews & talks
-In the meantime, I've been starting to do more talks, podcasts, panels, etc. Here are a few recent ones:
+I've started to do more talks, podcasts, panels, etc. Here are a few recent ones:
 
 * <a href="http://www.thetwentyminutevc.com/leopolovets/" target="_blank">20 Minute VC</a> (Topics: valuation sensitivity, piecemeal seed rounds, runway planning, the value of tech due diligence, and more.)
 
