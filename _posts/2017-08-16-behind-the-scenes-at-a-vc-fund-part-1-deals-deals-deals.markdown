@@ -17,7 +17,7 @@ VCs have 3 principal jobs: picking startups to invest in, helping startups after
 * <a href="#evaluating">The Due Diligence Process</a>
 * <a href="#pitch-meetings">Pitch Meeting Structure</a>
 * <a href="#partner-meetings">Partner Meeting Structure</a>
-* <a href="#decide">Making Investment Decisions</a>
+* <a href="#deciding">Making Investment Decisions</a>
 
 **Part 2**: Portfolio Company Support and Time Allocation
 
@@ -96,7 +96,7 @@ Partner meetings are weekly multi-hour meetings where the bulk of a fund's decis
 * **Industry analysis**. Partners often talk about trends they're noticing, observations about the funding climate, and other macro topics that are worth discussing with the entire group.
 * **Decisions on startups that are being diligenced**. Partners will go one-by-one through the active companies in their deal-tracking tool (e.g. <a href="https://affinity.co" target="_blank">Affinity</a>). For each company, there's a decision made about whether to invest, continue doing diligence, or pass. This is the longest, most important part of partner meetings, and it will be discussed next.
  
-### <a name="decide"></a>Making Investment Decisions
+### <a name="deciding"></a>Making Investment Decisions
 
 A typical seed VC that's exposed to 1000-2000 companies per year might only make 10-20 investments. As you might expect from these numbers, picking companies to invest in is probably the hardest part of being a VC. 
 
