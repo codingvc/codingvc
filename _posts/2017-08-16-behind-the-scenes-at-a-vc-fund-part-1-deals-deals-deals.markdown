@@ -91,7 +91,7 @@ Finally, pitch meetings usually end with the founders having a chance to ask the
 
 Partner meetings are weekly multi-hour meetings where the bulk of a fund's decision-making occurs. A typical partner meeting agenda could include:
 
-* **Updates on portfolio companies**. Each partner discusses updates on companies they've met with or emailed with since the last partnering meeting.
+* **Updates on portfolio companies**. Each partner discusses updates on companies they've met with or emailed with since the last partner meeting.
 * **Back office discussions**. Partner meetings are a good venue for discussing upcoming hiring decisions, accounting or legal TODOs, fundraising plans, and so on.
 * **Industry analysis**. Partners often talk about trends they're noticing, observations about the funding climate, and other macro topics that are worth discussing with the entire group.
 * **Decisions on startups that are being diligenced**. Partners will go one-by-one through the active companies in their deal-tracking tool (e.g. <a href="https://affinity.co" target="_blank">Affinity</a>). For each company, there's a decision made about whether to invest, continue doing diligence, or pass. This is the longest, most important part of partner meetings, and it will be discussed next.
