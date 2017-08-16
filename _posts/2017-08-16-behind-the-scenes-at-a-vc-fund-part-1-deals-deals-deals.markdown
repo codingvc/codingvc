@@ -121,3 +121,5 @@ If the partners decide to invest, one of them will reach out to the founder and 
 
 ### Conclusion
 This post talked about how funds source, analyze, and choose companies to invest in. The next post in this series will cover how investors try to help their portfolio companies and how they spend their time in general. To give a sense of the latter, the post will include a numeric breakdown of where I spent my time over a 2-month period where I tracked and categorized every meeting.
+
+Please check back in a few days for Part 2 (or <a href="http://eepurl.com/csSezP" target="_blank">subscribe</a> to have future posts emailed to you).
