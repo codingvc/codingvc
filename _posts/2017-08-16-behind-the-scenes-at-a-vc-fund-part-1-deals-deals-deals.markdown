@@ -37,7 +37,7 @@ VCs have 3 principal jobs: picking startups to invest in, helping startups after
 
 When looking for startups to invest in, most funds rely on many different sources:
 
-* **Accelerators and Incubators** (Y Combinator, TechStars, Alchemist, Acceleprise, etc). Most of these accelerators have demo days every 3-6 months, and a typical demo day features 10-30 companies. Y Combinator is an exception, typically showcasing 100+ companies over two days.
+* **Accelerators and Incubators** (Y Combinator, Techstars, Alchemist, Acceleprise, etc). Most of these accelerators have demo days every 3-6 months, and a typical demo day features 10-30 companies. Y Combinator is an exception, typically showcasing 100+ companies over two days.
 * **Earlier stage investors**, like angels or pre-seed funds. These investors might get involved with a company 3-6 months before its seed round. Once the company makes a little bit of progress, its early investors will introduce it to seed funds.
 * **Other seed funds**. A typical seed round in Silicon Valley might include 2-5 seed funds. Because no seed fund takes up the whole round, whenever one fund invests, they will usually introduce the founder to other good seed funds.
 * **Series A funds**. Sometimes later stage funds see companies that are too early for them, so they forward those companies to seed funds that they like working with.
