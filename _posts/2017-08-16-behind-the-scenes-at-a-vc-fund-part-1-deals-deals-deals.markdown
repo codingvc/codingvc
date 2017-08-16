@@ -104,7 +104,7 @@ Most Silicon Valley investors aspire to find companies that have the potential t
 
 To help make these <del>educated guesses</del> decisions, investors usually think about three attributes: the quality of the founding team, the size of the market, and the product itself. Each investor tends to weigh these attributes differently -- i.e. would they prefer to invest in a stellar team with a good product or a good team with a stellar product? A stellar team *and* a stellar product would be ideal, but that's (unsurprisingly) rare.
 
-If a fund has multiple partners -- and most do -- then all of partners' votes for each investing decision need to be weighted. Here are different vote-weighting strategies that I've heard of:
+If a fund has multiple partners -- and most do -- then all of the partners' votes for each investing decision need to be weighted. Here are different vote-weighting strategies that I've heard of:
 
 * Every partner has to love a deal.
 * Most partners have to love a deal.
