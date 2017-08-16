@@ -4,12 +4,6 @@ title: "Behind the Scenes at a VC Fund, Part 1: Deals, Deals, Deals"
 summary: "A look at how VC funds source, analyze, and choose companies to invest in."
 date: 2017-08-16 05:10:00
 ---
-<style>
-  tr, th, td {
-  vertical-align: text-top;
-  }
-</style>
-
 My fund, Susa Ventures, <a href="https://medium.com/@SusaVentures/welcoming-natalie-dillon-to-susa-ventures-5e3038e86f28" target="_blank">just added Natalie Dillon to our team</a>. She's our first-ever investment team hire and we're very excited to work with her. While speaking with dozens of wonderful candidates for the role, I was reminded of how opaque venture capital is as a profession. Many of the candidates asked what a typical day and a typical month are like for a VC. Is it schmoozing at parties for 40 hours a week? Taking back-to-back investment calls while lounging on some tropical beach? Making million-dollar decisions using coin flips? Reading technical research papers? (Answers: no, no, no, and hardly ever.) Now that I've been doing this job for a while, I thought it might be useful to document what working in venture capital is like for anyone who may be curious. This 3-part series is a summary of my experience being one of three partners at <a href="http://www.susaventures.com/" target="_blank">Susa Ventures</a>, a seed stage fund. Single-partner funds and later stage funds might operate a little differently. YMMV.
 
 ## Table of Contents
@@ -63,6 +57,11 @@ In order to figure out which companies to invest in, most seed funds have a stan
 1. **Customer and founder references**. For companies that do very well during a group meeting, the partners will do customer and founder reference calls. The purpose of customer calls is to get more insight into how customers view a product, how much they value it, how they've liked working with the startup in question, how they discovered the product in the first place, and so on.
 
 The investment funnel for a single calendar year might look like this:<br>
+<style>
+  tr, th, td {
+  vertical-align: text-top;
+  }
+</style>
 <table>
 <tr><td style="text-align:right">*2000*&nbsp;</td><td>screened companies -></td></tr>
 <tr><td style="text-align:right">*500*&nbsp;</td><td>1:1 partner meetings -></td></tr>
