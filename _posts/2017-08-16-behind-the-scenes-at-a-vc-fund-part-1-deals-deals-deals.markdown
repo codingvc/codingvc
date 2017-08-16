@@ -70,7 +70,7 @@ The investment funnel for a single calendar year might look like this:<br>
 <tr><td style="text-align:right">*25*&nbsp;</td><td>further diligence (customer/founder calls) -></td></tr>
 <tr><td style="text-align:right">*12*&nbsp;</td><td>investments</td></tr>
 </table>
-
+ 
 ### <a name="pitch-meetings"></a>Pitch Meeting Structure
 Pitch meetings are usually 30-60 minutes. They tend to be shorter during the early phases of diligence and longer in later stages where more partners are involved.
 
