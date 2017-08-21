@@ -8,7 +8,7 @@ My fund, Susa Ventures, <a href="https://medium.com/@SusaVentures/welcoming-nata
 
 ## Table of Contents
 
-VCs have 3 principal jobs: picking startups to invest in, helping startups after investing, and raising capital for the fund. Each of these jobs will covered in its own post. (Part 2 will be posted on Friday. Part 3 will be posted next week.)
+VCs have 3 principal jobs: picking startups to invest in, helping startups after investing, and raising capital for the fund. Each of these jobs will be covered in its own post. (Part 2 will be posted next Friday. Part 3 will be posted the following week.)
 
 **Part 1**: Deals, Deals, Deals
 
