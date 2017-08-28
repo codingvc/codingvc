@@ -8,9 +8,9 @@ My fund, Susa Ventures, <a href="https://medium.com/@SusaVentures/welcoming-nata
 
 ## Table of Contents
 
-VCs have 3 principal jobs: picking startups to invest in, helping startups after investing, and raising capital for the fund. Each of these jobs will be covered in its own post. (Part 2 will be posted next Friday. Part 3 will be posted the following week.)
+VCs have 3 principal jobs: picking startups to invest in, helping startups after investing, and raising capital for the fund. Each of these jobs will be covered in its own post.
 
-**Part 1**: Deals, Deals, Deals
+**Part 1**: Deals, Deals, Deals [this post]
 
 * <a href="#terminology">Basic Terms</a>
 * <a href="#finding">Finding Startup Investments</a>
@@ -19,7 +19,7 @@ VCs have 3 principal jobs: picking startups to invest in, helping startups after
 * <a href="#partner-meetings">Partner Meeting Structure</a>
 * <a href="#deciding">Making Investment Decisions</a>
 
-**Part 2**: Portfolio Company Support and Time Allocation
+**Part 2**: <a href="https://codingvc.com/behind-the-scenes-at-a-vc-fund-part-2-helping-founders-and-time-allocation">Helping Founders and Time Allocation</a>
 
 *This will be a post on how investors interact with companies after investing, and how they allocate their time on a day-by-day basis.*
 
@@ -33,7 +33,7 @@ VCs have 3 principal jobs: picking startups to invest in, helping startups after
 
 **Deal** -- a startup investment opportunity. Common usages: "we did a drone deal last month" and "did you see that autonomous car deal from Boston?"
 
-### <a name="finding"></a>Finding Startup Investments
+## <a name="finding"></a>Finding Startup Investments
 
 When looking for startups to invest in, most funds rely on many different sources:
 
@@ -46,7 +46,7 @@ When looking for startups to invest in, most funds rely on many different source
 * **Cold inbound emails** from founders. Investors often receive dozens or even hundreds of inbound pitches every month.
 * **Cold outbound emails** to founders. Many VCs will actively reach out to founders. This commonly happens if an investor lacks a warm intro to a company that they've heard about, or if an investor is doing a deep dive into a sector and trying to talk to as many promising companies in that sector as they can.
 
-### <a name="evaluating"></a>The Due Diligence Process
+## <a name="evaluating"></a>The Due Diligence Process
 
 In order to figure out which companies to invest in, most seed funds have a standard diligence process. A typical process will contain the following steps:
 
@@ -71,7 +71,7 @@ The investment funnel for a single calendar year might look like this:<br>
 <tr><td style="text-align:right">*12*&nbsp;</td><td>investments</td></tr>
 </table>
  
-### <a name="pitch-meetings"></a>Pitch Meeting Structure
+## <a name="pitch-meetings"></a>Pitch Meeting Structure
 Pitch meetings are usually 30-60 minutes. They tend to be shorter during the early phases of diligence and longer in later stages where more partners are involved.
 
 A typical meeting might start with a few minutes of friendly chit-chat. After that, everyone introduces themselves, and then the founder walks through their pitch. Sometimes the walkthrough is a few minutes because everyone around the table has been doing homework and research for a while, and sometimes it's 15-30 minutes when the material is new to everyone.
@@ -87,7 +87,7 @@ After the pitch, investors will ask a lot of questions about the startup. Their 
 
 Finally, pitch meetings usually end with the founders having a chance to ask the VC questions. (The two most common questions that founders ask, *by far*: "How can you help beyond capital?" and "What's your decision-making process and what are the next steps?")
 
-### <a name="partner-meetings"></a>Partner Meeting Structure
+## <a name="partner-meetings"></a>Partner Meeting Structure
 
 Partner meetings are weekly multi-hour meetings where the bulk of a fund's decision-making occurs. A typical partner meeting agenda could include:
 
@@ -96,7 +96,7 @@ Partner meetings are weekly multi-hour meetings where the bulk of a fund's decis
 * **Industry analysis**. Partners often talk about trends they're noticing, observations about the funding climate, and other macro topics that are worth discussing with the entire group.
 * **Decisions on startups that are being diligenced**. Partners will go one-by-one through the active companies in their deal-tracking tool (e.g. <a href="https://affinity.co" target="_blank">Affinity</a>). For each company, there's a decision made about whether to invest, continue doing diligence, or pass. This is the longest, most important part of partner meetings, and it will be discussed next.
  
-### <a name="deciding"></a>Making Investment Decisions
+## <a name="deciding"></a>Making Investment Decisions
 
 A typical seed VC that's exposed to 1000-2000 companies per year might only make 10-20 investments. As you might expect from these numbers, picking companies to invest in is probably the hardest part of being a VC. 
 
@@ -119,7 +119,5 @@ If the partners decide to pass, one of them will notify the founder over a phone
 If the partners decide to invest, one of them will reach out to the founder and make an offer. Sometimes the founder might negotiate the terms, or ask to speak to a few of the VC's portfolio founders as a reference check. After that's done, the deal enters the legal paperwork phase, which can take anywhere from a day or two to a month or two.
 
 
-### Conclusion
+## Conclusion
 This post talked about how funds source, analyze, and choose companies to invest in. The next post in this series will cover how investors try to help their portfolio companies and how they spend their time in general. To give a sense of the latter, the post will include a numeric breakdown of where I spent my time over a 2-month period where I tracked and categorized every meeting.
-
-Please check back in a few days for Part 2 (or <a href="http://eepurl.com/csSezP" target="_blank">subscribe</a> to have future posts emailed to you).
