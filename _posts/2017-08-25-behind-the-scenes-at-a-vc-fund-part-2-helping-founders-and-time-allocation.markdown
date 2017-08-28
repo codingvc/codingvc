@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Behind the Scenes at a VC Fund, Part 2: Helping Founders and Time Allocation"
-summary: "A look at how venture capitalists work with startps and how they spend their days."
+summary: "A look at how venture capitalists work with startups and how they spend their days."
 twitter_image: "schedule-categories.jpg"
 date: 2017-08-27 22:18:00
 ---
