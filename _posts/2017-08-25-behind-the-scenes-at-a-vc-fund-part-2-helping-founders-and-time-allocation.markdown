@@ -3,7 +3,7 @@ layout: post
 title: "Behind the Scenes at a VC Fund, Part 2: Helping Founders and Time Allocation"
 summary: "A look at how venture capitalists work with startps and how they spend their days."
 twitter_image: "schedule-categories.jpg"
-date: 2017-08-24 00:10:00
+date: 2017-08-27 22:18:00
 ---
 VCs have 3 principal jobs: picking startups to invest in, helping startups after investing, and raising capital for investing. Each of these jobs will be covered in its own post. This post, the second in the series, focuses on how VCs spend their time (charts and graphs included!), and how they help the companies they invest in. The final post, which covers how VC funds are structured and raised, will be published next week.
 
