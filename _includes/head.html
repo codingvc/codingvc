@@ -47,6 +47,9 @@
         {% else %}
         <meta name="twitter:description" content="" />
         {% endif %}
+        {% if page.twitter_image %}
+          <meta name="twitter:image" content="{{ site.url }}public/img/{{page.twitter_image}}" />
+        {% endif %}
     {% endif %}
 
 
