@@ -474,3 +474,11 @@ input:-ms-input-placeholder {
     font-weight: bold;
     border-bottom: 1px solid gray;
 }
+
+@media only screen and (max-width: 480px){
+  .emailImage{
+    height:auto !important;
+    max-width:600px !important;
+    width: 100% !important;
+  }
+}
