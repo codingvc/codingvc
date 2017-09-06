@@ -5,13 +5,13 @@ summary: "A look at how venture capitalists work with startups and how they spen
 twitter_image: "schedule-categories.jpg"
 date: 2017-08-27 22:18:00
 ---
-VCs have 3 principal jobs: picking startups to invest in, helping startups after investing, and raising capital for investing. Each of these jobs will be covered in its own post. This post, the second in the series, focuses on how VCs spend their time (charts and graphs included!), and how they help the companies they invest in. The final post, which covers how VC funds are structured and raised, will be published next week.
+VCs have 3 principal jobs: picking startups to invest in, helping startups after investing, and raising capital for investing. Each of these jobs will be covered in its own post. This post, the second in the series, focuses on how VCs spend their time (charts and graphs included!), and how they help the companies they invest in.
 
 ## Table of Contents
 
 **Part 1**: <a href="https://codingvc.com/behind-the-scenes-at-a-vc-fund-part-1-deals-deals-deals/">Deals, Deals, Deals</a>
 
-*This is a post on how VC funds source, analyze, and choose companies to invest in.*
+*A post on how VC funds source, analyze, and choose companies to invest in.*
 
 **Part 2**: Helping Founders and Time Allocation [this post]
 
@@ -25,9 +25,9 @@ VCs have 3 principal jobs: picking startups to invest in, helping startups after
     * <a href="#research">Research</a>
     * <a href="#events">Events</a>
 
-**Part 3**: Starting a VC Fund, LP Relations, and Miscellaneous FAQs
+**Part 3**: <a href="https://codingvc.com/behind-the-scenes-at-a-vc-fund-part-3-fund-structure-fundraising-investor-relations-and-faqs/"></a>Fund Structure, Fundraising, Investor Relations, and FAQs</a>
 
-*This will be a post on the basic mechanics of how VC funds are structured, and on how VCs interact with their own investors.*
+*A post on the basic mechanics of how VC funds are structured and raised, how VCs interact with their own investors, and venture capital FAQs.*
 
 ## <a name="terminology"></a>Basic Terms
 
@@ -120,7 +120,5 @@ My fund also puts together an annual LP day for our own investors, and an annual
 
 ## Conclusion
 This post talked about how investors engage with portfolio companies and how VCs† spend their time. The next and final post in this series will talk about how venture funds are structured and how VCs work with their own investors.
-
-Please check back in a few days for Part 3 (or <a href="http://eepurl.com/csSezP" target="_blank">subscribe</a> to have future posts emailed to you every few weeks).
 
 † By "VCs" I mean "me," because that's the only VC that I have lots of data for.

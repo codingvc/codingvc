@@ -21,11 +21,11 @@ VCs have 3 principal jobs: picking startups to invest in, helping startups after
 
 **Part 2**: <a href="https://codingvc.com/behind-the-scenes-at-a-vc-fund-part-2-helping-founders-and-time-allocation">Helping Founders and Time Allocation</a>
 
-*This will be a post on how investors interact with companies after investing, and how they allocate their time on a day-by-day basis.*
+*A post on how investors interact with companies after investing, and how they allocate their time on a day-by-day basis.*
 
-**Part 3**: Starting a VC Fund, LP Relations, and Miscellaneous FAQs
+**Part 3**: <a href="https://codingvc.com/behind-the-scenes-at-a-vc-fund-part-3-fund-structure-fundraising-investor-relations-and-faqs/"></a>Fund Structure, Fundraising, Investor Relations, and FAQs</a>
 
-*This will be a post on the basic mechanics of how VC funds are structured, and on how VCs interact with their own investors.*
+*A post on the basic mechanics of how VC funds are structured and raised, how VCs interact with their own investors, and venture capital FAQs.*
 
 ## <a name="terminology"></a>Basic Terms
 
