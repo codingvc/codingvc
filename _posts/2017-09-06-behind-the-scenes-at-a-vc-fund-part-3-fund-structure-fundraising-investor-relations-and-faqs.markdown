@@ -98,7 +98,7 @@ Before writing this post, I <a href="https://twitter.com/lpolovets/status/844962
 
 
 <a name="opportunistic"></a>**Q: How frequently do VCs stick to their investing theses vs. investing opportunistically?**<br>
-**A**: Not every VC has an investing thesis -- some invest opportunistically in any startup that they like. For the ones that have a thesis, most investments will fall into that thesis. The reason for this is perception. Let's say a fund's thesis is that SaaS companies are the most promising startup category, and half of the fund's investments are SaaS companies while half are not. If all of the best investments over time turn out to be non-SaaS, future LPs will question the fund managers' judgment.
+**A**: Not every VC has an investing thesis -- some invest opportunistically in any startup that they like. For the ones that have a thesis, most investments will fall into that thesis. The reason for this is perception. Let's say a fund's thesis is that SaaS companies are the most promising startup category, and half of the fund's investments are SaaS companies while half are not. If all of the fund's best investments over time turn out to be non-SaaS, future LPs will question the fund managers' judgment.
 
 That said, if a fund meets the next Facebook, they won't want to pass on it just because it's out-of-thesis. Putting all of this together, most investors will stick to their thesis "most" of the time (i.e. 75%-100%).
 
