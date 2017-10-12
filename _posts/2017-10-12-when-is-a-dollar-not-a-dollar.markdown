@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When is a Dollar not a Dollar?"
-summary: "An exploration about how the business value of a dollar varies depending on the context."
+summary: "An exploration of how the business value of a dollar varies depending on the context."
 date: 2017-10-12 02:40:00
 ---
 <center><img src="{{ site.url }}public/img/dollar.jpg" alt="" height="" width="" class="emailImage" /></center>

@@ -8,6 +8,12 @@ figure out how to push new version to S3
 
 improve structure of tags/archives/ways i can help/etc
 
+WATERMARKS https://www.watermarquee.com/watermark
+ text: https://codingvc.com
+ font: verdana
+ size: 15px
+ opacity: 34%
+ black font, transparent background
 migrate!!
 
  cd /home/leo/programming/codingvc; \
@@ -16,3 +22,57 @@ migrate!!
     cd _site; \
     s3cmd del -r --force s3://codingvc; \
     s3cmd  put --recursive * s3://codingvc
+
+RENAME SASSTR TALK TO RIGHT DATE
+add twitter card images when possible?
+2) add opengraph attributes like tomasz
+view-source:http://tomtunguz.com/diagrams/?utm_content=buffer057ff&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+    <meta content="How to Analyze Your Startup Like A VC in 15 Minutes Or Less" property="og:site_name">
+
+      <meta content="How to Analyze Your Startup Like A VC in 15 Minutes Or Less" property="og:title">
+
+
+      <meta content="&lt;p&gt;When I first started in venture capital five years ago, I wanted to create a programmatic way to analyze companies well. My goal was to be able to step into a meeting with an entrepreneur with some kind of form that I would fill out throughout the meeting, so that by the end of the meeting I might have an understanding how the startup fits into its ecosystem.&lt;/p&gt; &lt;p&gt;It took quite a while to devise this framework and to revise it until it became useful, practical and insightful. I spoke ..." property="og:description">
+
+
+      <meta content="http://www.tomtunguz.com/diagrams/" property="og:url">
+
+
+      <meta content="2013-06-24 00:00:00 &#43;0000 UTC" property="article:published_time">
+
+
+      <meta content="http://www.tomtunguz.com/images/rocket.png" property="og:image">
+
+
+      <meta content="Fundraising" property="article:section">
+
+
+1) BRING EMAIL LINK TO HEADER AND FOOTER OF WEBPAGE
+2) STRUCTURAL ADVANTAGES:
+all things being equal, these are freebie advantages outside of product innovation:
+- prepayment
+- better pricing http://tomtunguz.com/three-part-tariffs/ etc
+- mission?
+
+
+
+
+
+
+
+One of my fave mathematical techniques is "reduction to absurdity."
+
+Survivor Bias:
+ex1:
+Person 1: Hey it looks like all gold medal winners in archery are human, so being human is the key to winning gold.
+P2: Thats stupid -- all of the non-record holders are human, too.
+
+ex2:
+P1: Hey it looks like all of our best customers are Series C startups, we should purse more customers like that
+P2: Great idea! [oops -- turns out all of the worst, most painful customers are Series C, too]
+
+flying-cars-twitter-and-50-reasons-to-be-excited-about-tech
+
+
+Tough business models
