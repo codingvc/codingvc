@@ -12,7 +12,7 @@ tags:
 
 It's very hard, maybe impossible, to create a mathematical model that describes how to build a successful company. Still, there's value in trying to come up with different models and thinking about their implications. This post describe three possible models for calculating a startup's value and the lessons that each model offers.
 
-## Model #1: A Product of Risk Multipliers
+## <a name="model1"></a>Model #1: A Product of Risk Multipliers
 In <a href="https://codingvc.com/how-to-de-risk-a-startup/" target="_blank">How to De-Risk A Startup</a>, I described nine major risks that most startups face, as well as how investors might evaluate each of those risks:
 
 1. **Product/Market Fit Risk** (is your product something that people want?)
@@ -36,7 +36,7 @@ Combining these multipliers, the expected value of a startup might be something 
 
 According to this model, the expected value of a company is largely determined by its biggest weaknesses.
 
-## Model #1: Implications
+## <a name="model1-implications"></a>Model #1: Implications
 
 ### 1) Startups are like triathlons
 
@@ -56,7 +56,7 @@ It doesn't matter how high or low your risk multipliers are, if you're going aft
 ### 5) Early stage startup valuations are based on potential
 This model explains how two founders can raise money at a $5m valuation on the day their company is founded. While a late stage company's valuation is based on revenue and growth rate, an early stage company's valuation is based on its potential best-case long-term valuation multiplied by the best-case scenario's likelihood. So while the two founders haven't built anything before incorporating, the combination of their idea, skills, and target market might suggest they have a 1% shot of building a $3b company over 10 years. That means the company has an expected value of $30m, and that justifies a $5m valuation today.
 
-## Model #2: A product of categorized risk multipliers
+## <a name="model2"></a>Model #2: A product of categorized risk multipliers
 
 A small tweak to the first model is to group the risks into categories and to treat each category a little differently. The nine risks mentioned at the beginning of this post can be divided into three groups:
 
@@ -73,7 +73,7 @@ Why is execution ability given more weight than a company's current state? Becau
 
 In mathematical terms, it's better to have a CurrentState of 0.3 and a team that can improve that by 0.04 every month, than to have a CurrentState of 0.5 and a team that can improve that by 0.01 every month. The model reflects this.
 
-## Model #2: Implications
+## <a name="model2-implications"></a>Model #2: Implications
 
 ### 1) You should pursue a monopoly, a large market, or both.
 The best way to maximize the rightmost term in this model is to find a market where MarketSize is large or CompetitionFactor is small. Ideally both. If you're pursuing a small or mid sized market with a lot of competition then your chances of building a huge company are slim to none. On the other hand, heavy competition makes it very hard to stand out to customers, even if your company has a superior product and team. 
@@ -89,12 +89,12 @@ There are four ways to make your company more valuable:
 3. *Look for adjacent markets that increase market size*: other customers who would buy the same software as your existing customers, other software that your existing customers would buy, etc.
 4. *Improve your differentiation*: the better you can differentiate yourself the lower your CompetitorFactor drops. For example, the car industry is very competitive and there are many car manufacturers vying for market share. However, Telsa has managed to differentiate itself so much that it has very little direct competition while still having a chance to capture a large chunk of the entire auto market. Companies that reach this level of differentiation have a lot more potential value and can effectively operate like monopolies.
 
-## Model #3: Achieving success one milestone at a time
+## <a name="model3"></a>Model #3: Achieving success one milestone at a time
 <img src="{{ site.url }}public/img/risk_formula3.png" style="margin-left:2em;">
 
 In this model, the key focus is on reaching a progression of major company milestones. These milestones might be things like building an MVP, achieving product/market fit, hitting your first $1m in revenue, or finding a scalable customer acquisition channel. Each milestone increases the value of the company, and each depends on previous milestones -- that is, you can't find product/market fit without building a product, and you can't find a scalable marketing channel until you have product/market fit.
 
-## Model #3: Implications
+## <a name="model3-implications"></a>Model #3: Implications
 
 ### 1) Most of your focus should be on the next milestone
 If you just reached Milestone #3, you should start focusing on Milestone #4, not Milestone #7. For example, if you just built an MVP, don't worry about hiring the CFO that you'll need if you go public some day, focus on finding a good user acquisition channel instead.
