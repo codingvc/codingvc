@@ -47,9 +47,19 @@
         {% else %}
         <meta name="twitter:description" content="" />
         {% endif %}
-        {% if page.twitter_image %}
-          <meta name="twitter:image" content="{{ site.url }}public/img/{{page.twitter_image}}" />
+        {% if page.preview_image %}
+          <meta name="twitter:image" content="{{ site.url }}public/img/{{page.preview_image}}" />
+          <meta property="og:image" content="{{ site.url }}public/img/{{page.preview_image}}" />
         {% endif %}
+    {% endif %}
+
+    <meta property="og:url"                content="{{ site.url }}{{page.url}}" />
+    <meta property="og:type"               content="article" />
+    <meta property="og:title"              content="{{page.title}}" />
+    {% if page.summary %}
+    <meta property="og:description" content="{{page.summary}}" />
+    {% else %}
+    <meta property="og:description" content="" />
     {% endif %}
 
 
