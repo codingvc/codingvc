@@ -4,7 +4,7 @@ date: 2015-06-29 08:00:00
 title: "Bubbles and Unicorns"
 summary: "For the last 20 years, great startups were founded in all kinds of economic environments. Don't let the current climate keep you from pursuing success."
 ---
-![Unicorns]({{ site.url }}public/img/unicorns-and-bubbles.png)
+![Unicorns]({{ site.url }}/public/img/unicorns-and-bubbles.png)
 
 <span style="font-size: 0.7em">(Image sources: <a href="http://zutheskunk.deviantart.com/art/MLP-Resource-Twilight-Sparkle-001-245173904" target="_blank">1</a>, <a href="https://pixabay.com/en/circle-ball-blue-bubble-3d-sphere-576797/" target="_blank">2</a>)</span>
 
@@ -14,7 +14,7 @@ Recently, there has been a lot of talk about a possible bubble in startup valuat
 
 Most VC funds have somewhere between 15 and 50 portfolio companies. It turns out that almost all of a fund's returns will come from its best 1-3 investments. Here's a chart of outcomes for a typical individual investment:
 
-![Angel investing returns]({{ site.url }}public/img/employee-options-angel-returns.png)
+![Angel investing returns]({{ site.url }}/public/img/employee-options-angel-returns.png)
 
 (Source: <a href="http://www.angelcapitalassociation.org/data/Documents/Resources/AngelGroupResarch/1d%20-%20Resources%20-%20Research/ACEF%20Angel%20Performance%20Project%2004.28.09.pdf" target="_blank">Returns to Angel Investors in Groups</a>)
 

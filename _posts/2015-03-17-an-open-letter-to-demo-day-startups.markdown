@@ -62,7 +62,7 @@ I hope you have fun during demo day, as it's a once-in-a-lifetime experience. Ju
 Good luck!  
 <br>
 <br>
-<a name="note1">[1]</a> I know, I know, some people will read this and think, "well, of course a VC would ask founders not to raise at high valuations." I'm not advocating for lower valuations, I'm advocating for valuations that are **fair**. Those are better for VCs *and* for founders. I am against exorbitant valuations, but again unreasonably low valuations, too (e.g. step #3 of <a href="http://{{site.url}}minimum-viable-everything" target="_blank">this post</a>)
+<a name="note1">[1]</a> I know, I know, some people will read this and think, "well, of course a VC would ask founders not to raise at high valuations." I'm not advocating for lower valuations, I'm advocating for valuations that are **fair**. Those are better for VCs *and* for founders. I am against exorbitant valuations, but again unreasonably low valuations, too (e.g. step #3 of <a href="http://{{site.url}}/minimum-viable-everything" target="_blank">this post</a>)
 
 <a name="note2">[2]</a> For an excellent (and sobering) look at post-seed fundraising, check out: <a href="http://firstround.com/review/what-the-seed-funding-boom-means-for-raising-a-series-a/" target="_blank">"What the Seed Funding Boom Means for Raising a Series A"</a> by First Round Capital's <a href="https://twitter.com/joshk" target="_blank">Josh Kopelman</a>. Every seed stage founder should read that article. Twice.  
 

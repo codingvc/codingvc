@@ -47,4 +47,4 @@ Advice for...
 - Which vendors to use for PR, SEO, Health/Dental benefits, etc.
 - General company strategy: product roadmaps, expansion plans, customer segments to target, etc.
 
-So next time you write an <a href="{{site.url}}investor-update-email-template" target="_blank">investor update email</a> (and you should be writing those monthly!), list out 5-10 things that you'd like help with. It takes very little effort, and you might be surprised by the results.
+So next time you write an <a href="{{site.url}}/investor-update-email-template" target="_blank">investor update email</a> (and you should be writing those monthly!), list out 5-10 things that you'd like help with. It takes very little effort, and you might be surprised by the results.

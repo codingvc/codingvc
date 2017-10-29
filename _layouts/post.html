@@ -15,8 +15,7 @@ layout: default
     <a href="/tag/{{t | downcase | replace:" ","-" }}">{{t}}</a>
     {% endfor %}
 
-    {% capture share_url %}{{ site.url }}123!@#{{ page.url | append: 'asdasdasd' | remove_first: '/asdasdasd'}}{% endcapture %}
-    {% assign share_url = share_url  | replace: '/123!@#/', '/' %}
+    {% capture share_url %}{{ site.url }}{{ page.url | append: 'asdasdasd' | remove_first: '/asdasdasd'}}{% endcapture %}
 
     <div style="text-align: center; font-style: normal; color: #00aa88">If you enjoyed this post, please share it with your friends!</div>
     <div style="text-align: center">

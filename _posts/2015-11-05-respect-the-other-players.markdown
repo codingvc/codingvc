@@ -22,7 +22,7 @@ Here are two thought experiments that demonstrate how not having enough data can
 ### Thought Experiment #1
 Let's say a company has the following revenue trend. Would you invest in it?
 <center>
-<img src="{{ site.url }}public/img/rev-down.png" alt="Revenue down">
+<img src="{{ site.url }}/public/img/rev-down.png" alt="Revenue down">
 </center>
 
 Looks pretty bad, right? It seems like business is declining steadily.
@@ -30,7 +30,7 @@ Looks pretty bad, right? It seems like business is declining steadily.
 Well, what if the actual revenue breaks down as follows?
 
 <center>
-<img src="{{ site.url }}public/img/rev-down-recur-up.png" alt="Revenue down">
+<img src="{{ site.url }}/public/img/rev-down-recur-up.png" alt="Revenue down">
 </center>
 
 This is actually pretty great! It's indicative of a business that was largely based on consulting services and is now transitioning to a SaaS recurring revenue model. This is a healthy transition because SaaS revenue is easier to scale and often higher margin. A company with this revenue trend could be a great investment, even though it looks bad on the surface.
@@ -40,13 +40,13 @@ This is actually pretty great! It's indicative of a business that was largely ba
 How about the following revenue trend? Is this company doing well?
 
 <center>
-<img src="{{ site.url }}public/img/rev-up.png" alt="Revenue up, profit down">
+<img src="{{ site.url }}/public/img/rev-up.png" alt="Revenue up, profit down">
 </center>
 
 It sure looks like it! But the data becomes worrisome if you show profit along with revenue.
 
 <center>
-<img src="{{ site.url }}public/img/rev-up-profit-down.png" alt="Revenue up, profit down">
+<img src="{{ site.url }}/public/img/rev-up-profit-down.png" alt="Revenue up, profit down">
 </center>
 
 Now the business looks less healthy: it's growing quickly, but profit margins are shrinking just as quickly. That doesn't bode well.

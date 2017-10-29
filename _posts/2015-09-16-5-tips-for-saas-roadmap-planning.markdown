@@ -30,7 +30,7 @@ If you have some initial contracts right now and you're at $10k in monthly recur
 
 Every week, I see some variant of this chart: 
 
-![Unbelievable Inflection]({{ site.url }}public/img/unbelievable-inflection.png)
+![Unbelievable Inflection]({{ site.url }}/public/img/unbelievable-inflection.png)
 
 This chart shows 10% monthly growth for the past 8 months, followed by a projected 25% growth rate for the next 6 months. Conveniently, the inflection point always seems to be next month. Charts like this raise eyebrows because if everything you've been doing so far hasn't taken you past 10% monthly growth, then it's very hard to justify an immediate jump to 25 percent. That's usually just wishful thinking. If you believe your revenue (or any other KPI) will accelerate, that acceleration will likely be gradual, and your plans should reflect that.
 

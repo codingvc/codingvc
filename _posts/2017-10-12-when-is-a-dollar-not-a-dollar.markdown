@@ -4,7 +4,7 @@ title: "When is a Dollar not a Dollar?"
 summary: "An exploration of how the business value of a dollar varies depending on the context."
 date: 2017-10-12 02:40:00
 ---
-<center><img src="{{ site.url }}public/img/dollar.jpg" alt="" height="" width="" class="emailImage" /></center>
+<center><img src="{{ site.url }}/public/img/dollar.jpg" alt="" height="" width="" class="emailImage" /></center>
 
 > "All dollars are equal, but some dollars are more equal than others."
 > 

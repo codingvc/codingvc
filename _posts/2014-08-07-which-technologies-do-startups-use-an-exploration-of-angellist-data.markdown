@@ -30,7 +30,7 @@ Limitations aside, I calculated the number of startups with low, medium, and hig
 In each chart, blue represents 'okay' startups, red represents 'good' startups, and orange represents 'great' startups. Within each color, the bars show relative frequencies of technology mentions. For example, let's say we're looking at technologies A and B. If 'okay' companies use B 3x as often as A, 'good' companies use A and B equally often, and 'great' companies use A twice as often as B, then the chart would look like this:
 
 <center>
-<a href="{{ site.url }}public/img/angellist-tech-example.png" target="_blank"><img src="{{ site.url }}public/img/angellist-tech-example.png" alt="Example"></a>
+<a href="{{ site.url }}/public/img/angellist-tech-example.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-tech-example.png" alt="Example"></a>
 </center>
 
 (Note: the ratios of the lengths of blue/orange/red bars are 1:3, 1:1, and 2:1.)
@@ -38,7 +38,7 @@ In each chart, blue represents 'okay' startups, red represents 'good' startups, 
 ## Programming Languages  
 
 <center>
-<a href="{{ site.url }}public/img/angellist-tech-prog-lang.png" target="_blank"><img src="{{ site.url }}public/img/angellist-tech-prog-lang.png" alt="Programming Languages"></a>
+<a href="{{ site.url }}/public/img/angellist-tech-prog-lang.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-tech-prog-lang.png" alt="Programming Languages"></a>
 </center>
 
 Observations:
@@ -51,7 +51,7 @@ Observations:
 ## Front-end Tech
 
 <center>
-<a href="{{ site.url }}public/img/angellist-tech-front-end.png" target="_blank"><img src="{{ site.url }}public/img/angellist-tech-front-end.png" alt="Front-end Tech"></a>
+<a href="{{ site.url }}/public/img/angellist-tech-front-end.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-tech-front-end.png" alt="Front-end Tech"></a>
 </center>
 
 This chart shows a combination of web frameworks (Rails, Django), Javascript Libraries, and HTML/CSS.  
@@ -66,7 +66,7 @@ Observations:
 ## Databases/Storage/Caching
 
 <center>
-<a href="{{ site.url }}public/img/angellist-tech-db.png" target="_blank"><img src="{{ site.url }}public/img/angellist-tech-db.png" alt="DBs"></a>
+<a href="{{ site.url }}/public/img/angellist-tech-db.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-tech-db.png" alt="DBs"></a>
 </center>
 
 Observations:
@@ -78,7 +78,7 @@ Observations:
 ## Mobile
 
 <center>
-<a href="{{ site.url }}public/img/angellist-tech-android.png" target="_blank"><img src="{{ site.url }}public/img/angellist-tech-android.png" alt="Mobile"></a>
+<a href="{{ site.url }}/public/img/angellist-tech-android.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-tech-android.png" alt="Mobile"></a>
 </center>
 
 Observations:
@@ -90,7 +90,7 @@ Observations:
 ## Infrastructure/Hosting
 
 <center>
-<a href="{{ site.url }}public/img/angellist-tech-infra.png" target="_blank"><img src="{{ site.url }}public/img/angellist-tech-infra.png" alt="Infrastructure"></a>
+<a href="{{ site.url }}/public/img/angellist-tech-infra.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-tech-infra.png" alt="Infrastructure"></a>
 </center>
 
 Observations:
@@ -102,7 +102,7 @@ Observations:
 ## DevOps Tools
 
 <center>
-<a href="{{ site.url }}public/img/angellist-tech-devops.png" target="_blank"><img src="{{ site.url }}public/img/angellist-tech-devops.png" alt="DevOps"></a>
+<a href="{{ site.url }}/public/img/angellist-tech-devops.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-tech-devops.png" alt="DevOps"></a>
 </center>
 
 (Note: the sample size here was small because DevOps tools were rarely mentioned on AngelList profiles)
@@ -110,7 +110,7 @@ Observations:
 ## Search
 
 <center>
-<a href="{{ site.url }}public/img/angellist-tech-search.png" target="_blank"><img src="{{ site.url }}public/img/angellist-tech-search.png" alt="Search"></a>
+<a href="{{ site.url }}/public/img/angellist-tech-search.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-tech-search.png" alt="Search"></a>
 </center>
 
 Observations:
@@ -120,7 +120,7 @@ Observations:
 ## API Integrations
 
 <center>
-<a href="{{ site.url }}public/img/angellist-tech-api.png" target="_blank"><img src="{{ site.url }}public/img/angellist-tech-api.png" alt="APIs"></a>
+<a href="{{ site.url }}/public/img/angellist-tech-api.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-tech-api.png" alt="APIs"></a>
 </center>
 
 (Note: the sample size here was small because APIs were rarely mentioned on AngelList profiles -- especially for good/great companies.)
@@ -128,7 +128,7 @@ Observations:
 ## Advanced Tech
 
 <center>
-<a href="{{ site.url }}public/img/angellist-tech-advanced.png" target="_blank"><img src="{{ site.url }}public/img/angellist-tech-advanced.png" alt="Advanced Tech"></a>
+<a href="{{ site.url }}/public/img/angellist-tech-advanced.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-tech-advanced.png" alt="Advanced Tech"></a>
 </center>
 
 Observations:
@@ -138,7 +138,7 @@ Observations:
 ## Big Data Software
 
 <center>
-<a href="{{ site.url }}public/img/angellist-tech-big-data.png" target="_blank"><img src="{{ site.url }}public/img/angellist-tech-big-data.png" alt="Big Data"></a>
+<a href="{{ site.url }}/public/img/angellist-tech-big-data.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-tech-big-data.png" alt="Big Data"></a>
 </center>
 
 (Note: small sample size)

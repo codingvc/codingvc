@@ -6,7 +6,7 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>{{ site.title }}</title>
- <link href="{{ site.url }}atom.xml" rel="self"/>
+ <link href="{{ site.url }}/atom.xml" rel="self"/>
  <link href="{{ site.url }}"/>
  {% assign unprinted = true %}   
  {% for post in site.posts %}{% if unprinted %}<updated>{{ post.date | date_to_xmlschema }}</updated> {% assign unprinted = false %}{% endif %}{% endfor %}
@@ -19,8 +19,8 @@ layout: null
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-     {% capture share_url %}{{ site.url }}123!@#{{ post.url | append: 'asdasdasd' | remove_first: '/asdasdasd'}}{% endcapture %}
-   <link href="{{ share_url | replace: '/123!@#/', '/'}}"/>
+     {% capture share_url %}{{ site.url }}{{ post.url | append: 'asdasdasd' | remove_first: '/asdasdasd'}}{% endcapture %}
+   <link href="{{ share_url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ share_url | replace: '/123!@#/', '/'}}</id>
    <content type="html">{{ post.content | xml_escape }}</content>

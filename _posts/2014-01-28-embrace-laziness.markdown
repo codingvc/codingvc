@@ -17,7 +17,7 @@ summary: "Instead of looking for a clever or thorough solution to a tough proble
 
 Hard work is necessary for a company to succeed, but it's not sufficient. The obvious, frustrating problem with hard work is that it can be misdirected. If you work hard on something that has no value, you're left frustrated, burnt out, and unsuccessful.  
 
-Over the past decade, many companies have embraced the "minimum viable product" (MVP) philosophy. The basic idea behind MVPs is that startups have very limited time and resources, so they need to discover what customers want as quickly as possible. As a result, entrepreneurs should build the most basic features required to start getting feedback from customers, then use that feedback to guide subsequent development. This minimalist approach is very useful for product development, but it can also be applied to areas like <a href="{{site.url}}minimum-viable-everything" target="_blank">hiring and marketing</a>.
+Over the past decade, many companies have embraced the "minimum viable product" (MVP) philosophy. The basic idea behind MVPs is that startups have very limited time and resources, so they need to discover what customers want as quickly as possible. As a result, entrepreneurs should build the most basic features required to start getting feedback from customers, then use that feedback to guide subsequent development. This minimalist approach is very useful for product development, but it can also be applied to areas like <a href="{{site.url}}/minimum-viable-everything" target="_blank">hiring and marketing</a>.
 
 While MVPs encourage you to be lazy with adding features so that you can discover what you should be working on, it's often wise to be lazy even if you already know what you should work on. When I was at LinkedIn 10 years ago, one of our core challenges was how to determine whether two people were connected to each other. I had an insight about how to do this efficiently and ended up rewriting the existing algorithm so that it was almost 200x faster. Shortly thereafter, the product team decided to limit users' networks to 3 degrees instead of 4 degrees, and my speed-up was no longer necessary because the old algorithm was fast enough for 3 degrees. I had spent a lot of time thinking about how to improve performance with technology, but that turned out to be a waste of time because limiting network sizes was a much simpler, lazier approach.
 
@@ -32,6 +32,6 @@ Next time you're faced with a problem, forget being clever. Figure out the simpl
 In short, embrace laziness.  
 
 <center>
-![Sleeping Kitten]({{ site.url }}public/img/embrace-laziness-kitten.jpg)
+![Sleeping Kitten]({{ site.url }}/public/img/embrace-laziness-kitten.jpg)
 Photo credit: http://www.flickr.com/photos/mistyanddavid
 </center>

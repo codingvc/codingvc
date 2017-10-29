@@ -12,7 +12,7 @@ date: 2016-09-28 03:52:00
 The passage above may as well be describing the world of startups. While Silicon Valley is a magical place that brims with ambition and innovation, it's also full of Cargo Cult behaviors. Famous founders and investors are idolized and mimicked by their colleagues, who put on wooden headphones and are surprised when that doesn't lead to success.
 
 <center>
-<img src="{{ site.url }}public/img/segway.jpg" alt="Cargo Cult Segway made out of branches">
+<img src="{{ site.url }}/public/img/segway.jpg" alt="Cargo Cult Segway made out of branches">
 <a href="https://www.flickr.com/photos/arselectronica/20456462706/" target="_blank">Cargo Cult Segway</a> by Peter Moosgaard
 </center>
 

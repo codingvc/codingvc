@@ -8,7 +8,7 @@ tags:
 - "Runway"
 ---
 
-Your nascent startup is progressing well, and you've decided you want to raise $X at a <a href="{{site.url}}startup-valuations" target="_blank">pre-money valuation</a> of $Y. How do you figure out what X and Y should be? 
+Your nascent startup is progressing well, and you've decided you want to raise $X at a <a href="{{site.url}}/startup-valuations" target="_blank">pre-money valuation</a> of $Y. How do you figure out what X and Y should be? 
 
 In this post, I'm going to outline a potential algorithm for calculating X and Y. Note that valuations are part science, part art, so this algorithm is meant to serve as a good starting point, not as a set of unbreakable rules.
 
@@ -65,7 +65,7 @@ What do you do if you're facing too much dilution? First, you can try to reduce 
 
 ### Additional resources
 
-- <a href="{{site.url}}how-do-investors-value-pre-revenue-companies" target="_blank">How investors value pre-revenue companies</a>
+- <a href="{{site.url}}/how-do-investors-value-pre-revenue-companies" target="_blank">How investors value pre-revenue companies</a>
 - <a href="http://seanonstartups.co/2014/05/16/what-investors-see-when-they-look-at-you/" target="_blank">What investors see when they look at you</a>
 
 Thank you to <a href="https://twitter.com/CAustinB" target="_blank">Chad Byers</a>, <a href="https://angel.co/dsanka" target="_blank">Dheeraj Sanka</a>, and <a href="http://seanonstartups.co/" target="_blank">Sean Byrnes</a> for giving me feedback on this post.

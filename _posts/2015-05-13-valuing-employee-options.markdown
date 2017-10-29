@@ -32,7 +32,7 @@ I haven't seen great data on typical outcomes for employee stock options, but I 
 
 Here's the key chart:  
 
-![Angel investing returns]({{ site.url }}public/img/employee-options-angel-returns.png)
+![Angel investing returns]({{ site.url }}/public/img/employee-options-angel-returns.png)
 
 Basically, more than half of investments fail, 1/3 are small successes (1x-5X returns), 1/8th are big successes (5x-30x), and 1/20th are huge success (30x+). One thing to note is that for huge successes, employees and founders will get diluted over time, so your 1% stake might be more like 0.6% or 0.4% after 2-3 more rounds of funding. In that case, a 50x exit from when you joined will actually be more like 20x or 30x for you. (Which is still an awesome outcome.)  
   

@@ -74,23 +74,23 @@ As a meta-observation, founders have knowledge that's deep but narrow while inve
 As a VC, I spend most of my time on meetings, email, and research. I analyzed data from Google Calendar and Gmail on where my time went over the last few months, and the results are described in the remainder of this post.
 
 ### <a name="meetings"></a>Meetings
-<img src="{{ site.url }}public/img/30-rock-meetings.jpg" alt="" height="" width="" class="emailImage" />
+<img src="{{ site.url }}/public/img/30-rock-meetings.jpg" alt="" height="" width="" class="emailImage" />
 
 VCs meet with founders, service providers, LPs, other VCs, job candidates for portfolio companies, and many other parties. To give a sense of how those meetings break down, I categorized and logged all of my meetings for May, June, and July of this year.
 
 #### Here's how most of the days feel:
-<img src="{{ site.url }}public/img/schedule-feels.jpg" alt="" height="" width="" class="emailImage" />
+<img src="{{ site.url }}/public/img/schedule-feels.jpg" alt="" height="" width="" class="emailImage" />
 
 #### Here's the average number of hours of meetings I had by weekday:
-<img src="{{ site.url }}public/img/schedule-by-day.jpg" alt="" height="" width="" class="emailImage" />
+<img src="{{ site.url }}/public/img/schedule-by-day.jpg" alt="" height="" width="" class="emailImage" />
 My office is in San Francisco, but I live 25 miles south in Redwood City. If you're wondering about why Tuesdays and Fridays seem so much busier than others days, it's because those are the days I usually spend in SF. Somewhere in here is an observation about how most Silicon Valley startups are moving out of the peninsula and into SF.
 
 #### Here's the distribution of hours of meetings per day:
-<img src="{{ site.url }}public/img/schedule-histogram.jpg" alt="" height="" width="" class="emailImage" />
+<img src="{{ site.url }}/public/img/schedule-histogram.jpg" alt="" height="" width="" class="emailImage" />
 Most days had 3-6 hours of meetings, although there were outliers on both sides.
 
 #### Here are the types of meetings I had:
-<img src="{{ site.url }}public/img/schedule-categories.jpg" alt="" height="" width="" class="emailImage" />
+<img src="{{ site.url }}/public/img/schedule-categories.jpg" alt="" height="" width="" class="emailImage" />
 
 Clockwise from the top right, the categories are:
 

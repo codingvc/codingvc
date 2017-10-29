@@ -10,7 +10,7 @@ A few weeks ago, I wrote about the <a href="http://codingvc.com/the-100-hour-rul
  
 The downside of achieving basic competence is that it often leads to overconfidence. This is called the <a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect" target="_blank">Dunning-Kruger effect</a>. In a <a href="http://psych.colorado.edu/~vanboven/teaching/p7536_heurbias/p7536_readings/kruger_dunning.pdf" target="_blank">study</a> published in 1999, David Dunning and Justin Kruger found that unskilled individuals greatly overestimated their abilities, while highly skilled individuals underestimated their abilities. Here's an illustrative figure from the study:
 
-<center>![Dunning-Kruger Effect]({{ site.url }}public/img/dunning.png)</center>
+<center>![Dunning-Kruger Effect]({{ site.url }}/public/img/dunning.png)</center>
 
 The figure above shows that regardless of actual skill level, most people consistently perceived themselves as slightly above average. This is a gross underestimate for an expert, and a gross overestimate for a newbie.
 

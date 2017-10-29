@@ -53,13 +53,13 @@ In essence, a company's valuation is based on its ideal outcome, weighed by the 
 #### Mistake #1: Using up resources to address minor risks
 If investors are not worried about X, then seed capital should not be spent proving that they're right not to worry. One common example of this mistake is a very strong technical founder spending all of their seed capital on writing code and building a product, but not launching or getting any customer feedback. From an investor's perspective, a strong technical founder has a >95% chance of building whatever they set out to build, but maybe a 25% chance of being able to find product/market fit or being able to generate meaningful sales. Proving out the engineering side will bump up the .95 multiplier to 1.0, but proving out the sales side will bump up the .25 multiplier to 1.0 -- a much bigger impact on a startup's valuation. See the diagram below:
 
-<center>![Addressing the wrong risk]({{ site.url }}public/img/risk-bundles.png)</center>
+<center>![Addressing the wrong risk]({{ site.url }}/public/img/risk-bundles.png)</center>
 
 #### Mistake #2: Fundraising just after a major initiative fails
 
 The best times to fundraise are 1) when your traction is great or 2) when you're about to do something that might make your traction great. The worst time to raise is when you just tried something major and failed. The diagram below shows a product that's about to undergo a revamp. There's a 75% chance the revamp will boost revenue and a 25% chance it will hurt revenue. The best time to fundraise would be just before launch, or just after a successful launch. Raising after an unsuccessful launch is a terrible idea because your startup's valuation will be much lower. (It's ultimately up to the founder whether to raise pre-revamp at a slightly lower valuation, or to launch the revamp and risk a major valuation drop in exchange for a good shot at a higher valuation.)
 
-<center>![Raising at the right time]({{ site.url }}public/img/risk-bundles2.png)</center>
+<center>![Raising at the right time]({{ site.url }}/public/img/risk-bundles2.png)</center>
 
 
 ## Making progress can still lead to failure

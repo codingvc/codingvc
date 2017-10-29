@@ -30,7 +30,7 @@ For each of these categories, we can assign a 'risk multiplier' between 0.0 and 
 Combining these multipliers, the expected value of a startup might be something like:
 <br>
 <br>
-<img src="{{ site.url }}public/img/risk_formula1.png" style="margin-left:2em;">
+<img src="{{ site.url }}/public/img/risk_formula1.png" style="margin-left:2em;">
 
 (The **∝** sign means 'is proportional to.' This formula is not an equality because it ignores factors like the role of luck, the revenue multiples that companies trade at for a given sector, etc.)
 
@@ -67,7 +67,7 @@ A small tweak to the first model is to group the risks into categories and to tr
 Here's a (somewhat arbitrary) alternative model that reflects how these groupings might determine a startup's value:
 <br>
 <br>
-<img src="{{ site.url }}public/img/risk_formula2.png" style="margin-left:2em;">
+<img src="{{ site.url }}/public/img/risk_formula2.png" style="margin-left:2em;">
 
 Why is execution ability given more weight than a company's current state? Because a company's current state is significantly easier to change than its execution ability. A strong team can quickly iterate on an okay product and make it great, but a weak team will have a hard time even if they start with an initially better product -- and they'll also have a hard time making the team stronger through recruiting because strong players don't like joining teams full of weak players.
 
@@ -90,7 +90,7 @@ There are four ways to make your company more valuable:
 4. *Improve your differentiation*: the better you can differentiate yourself the lower your CompetitorFactor drops. For example, the car industry is very competitive and there are many car manufacturers vying for market share. However, Telsa has managed to differentiate itself so much that it has very little direct competition while still having a chance to capture a large chunk of the entire auto market. Companies that reach this level of differentiation have a lot more potential value and can effectively operate like monopolies.
 
 ## <a name="model3"></a>Model #3: Achieving success one milestone at a time
-<img src="{{ site.url }}public/img/risk_formula3.png" style="margin-left:2em;">
+<img src="{{ site.url }}/public/img/risk_formula3.png" style="margin-left:2em;">
 
 In this model, the key focus is on reaching a progression of major company milestones. These milestones might be things like building an MVP, achieving product/market fit, hitting your first $1m in revenue, or finding a scalable customer acquisition channel. Each milestone increases the value of the company, and each depends on previous milestones -- that is, you can't find product/market fit without building a product, and you can't find a scalable marketing channel until you have product/market fit.
 

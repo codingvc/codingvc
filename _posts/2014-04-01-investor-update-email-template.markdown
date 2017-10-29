@@ -31,7 +31,7 @@ Once a month is a good frequency for investor updates. About 80% of the startups
 
 - Asks  
 
-    - Tell investors what you want, whether it's an introduction to a specific person, customer referrals, hiring referrals, product feedback, or anything else. (You can ask for <a href="{{site.url}}extracting-more-value-from-investors">just about anything</a>).
+    - Tell investors what you want, whether it's an introduction to a specific person, customer referrals, hiring referrals, product feedback, or anything else. (You can ask for <a href="{{site.url}}/extracting-more-value-from-investors">just about anything</a>).
 
 ## The Rationale
 

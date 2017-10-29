@@ -6,7 +6,7 @@ summary: "A summary of ways that Leo Polovets can (and cannot) help founders of 
 ---
 (This page is intended for current/prospective portfolio companies.) 
 
-I often tell people, "let me know if I can help with anything," but what does that really mean? In general, I think <a href="{{site.url}}extracting-more-value-from-investors" target="_blank">founders should ask investors for anything they can think of</a>. That said, here's my attempt at an exhaustive list of things I'm good at and things I'm not so good at.
+I often tell people, "let me know if I can help with anything," but what does that really mean? In general, I think <a href="{{site.url}}/extracting-more-value-from-investors" target="_blank">founders should ask investors for anything they can think of</a>. That said, here's my attempt at an exhaustive list of things I'm good at and things I'm not so good at.
 
 **Overall philosophy...**
 

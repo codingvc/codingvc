@@ -25,7 +25,7 @@ Decelerating advantages are great for new entrants because most of the benefits 
 
 Here's a graph that illustrates accelerating and decelerating competitive advantages:
 
-![Accelerating vs. Decelerating]({{ site.url }}public/img/accelerating-vs-decelerating-competitive-advantages.png)
+![Accelerating vs. Decelerating]({{ site.url }}/public/img/accelerating-vs-decelerating-competitive-advantages.png)
 
 Some concrete examples:
 

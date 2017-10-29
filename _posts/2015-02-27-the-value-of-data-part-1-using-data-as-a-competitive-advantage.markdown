@@ -11,8 +11,8 @@ Data is incredibly valuable. It helps create superior products, it forms a barri
 
 ### 3-Part Series
 **Part 1**: An explanation of why data is becoming increasingly valuable + a catalog of ways in which data creates competitive advantages. [this post]  
-<a href="{{site.url}}the-value-of-data-part-2-building-valuable-datasets" target="_blank">**Part 2**</a>: How to accumulate data + pitfalls to be aware of.  
-<a href="{{site.url}}the-value-of-data-part-3-data-business-models" target="_blank">**Part 3**</a>: A catalog of business models where data plays a key role.
+<a href="{{site.url}}/the-value-of-data-part-2-building-valuable-datasets" target="_blank">**Part 2**</a>: How to accumulate data + pitfalls to be aware of.  
+<a href="{{site.url}}/the-value-of-data-part-3-data-business-models" target="_blank">**Part 3**</a>: A catalog of business models where data plays a key role.
 
 In this post, I'm going to talk about how the increasing commoditization of software and hardware makes data more valuable, and how data can be used to create competitive <a href="http://www.investopedia.com/terms/e/economicmoat.asp" target="_blank">moats</a>.
 

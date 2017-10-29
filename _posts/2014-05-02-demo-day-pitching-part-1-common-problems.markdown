@@ -10,7 +10,7 @@ tags:
 
 Last week, I went to a pitch feedback session where I met with about 15 companies that are presenting at upcoming demo days. I usually listen to demo day pitches from the investing angle ("Is this company a good fit for my fund?") rather than the feedback angle ("How could this pitch be better?"), so this was a great opportunity to think about how these pitches can be more compelling.
 
-After listening to over a dozen presentations, I noticed that the same issues kept coming up. This post will cover some of the most common problems in demo day pitches. Next week, I'm going to post <a href="{{site.url}}demo-day-pitching-part-2-telling-a-story" target="_blank">a recipe</a> for a great pitch.
+After listening to over a dozen presentations, I noticed that the same issues kept coming up. This post will cover some of the most common problems in demo day pitches. Next week, I'm going to post <a href="{{site.url}}/demo-day-pitching-part-2-telling-a-story" target="_blank">a recipe</a> for a great pitch.
 
 ## What problem are you solving?  
 

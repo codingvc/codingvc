@@ -10,8 +10,8 @@ tags:
 Data is incredibly valuable. It helps create superior products, it forms a barrier to entry, and it can be directly monetized. This post is the third in a 3-part series about making data a core part of a startup's business plan.
 
 ### 3-Part Series
-<a href="{{site.url}}the-value-of-data-part-1-using-data-as-a-competitive-advantage" target="_blank">**Part 1**</a>: An explanation of why data is becoming increasingly valuable + a catalog of ways in which data creates competitive advantages.  
-<a href="{{site.url}}the-value-of-data-part-2-building-valuable-datasets" target="_blank">**Part 2**</a>: How to accumulate data + pitfalls to be aware of.  
+<a href="{{site.url}}/the-value-of-data-part-1-using-data-as-a-competitive-advantage" target="_blank">**Part 1**</a>: An explanation of why data is becoming increasingly valuable + a catalog of ways in which data creates competitive advantages.  
+<a href="{{site.url}}/the-value-of-data-part-2-building-valuable-datasets" target="_blank">**Part 2**</a>: How to accumulate data + pitfalls to be aware of.  
 **Part 3**:  A catalog of business models where data plays a key role. [this post]
 
 In this post, I'm going to talk about the key ways in which data can be monetized. I will then provide a list of concrete business models whose foundations lie in datasets. The list will be expanded over time so that it can serve as a comprehensive resource.

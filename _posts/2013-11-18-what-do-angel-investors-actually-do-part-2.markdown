@@ -7,7 +7,7 @@ tags:
 - "Angel Investing"
 ---
 
-In my <a href="{{site.url}}what-do-angel-investors-actually-do-part-1" target="_blank">previous post</a>, I talked about how angel investors find and screen potential investments. In this post, I'm going to discuss what happens after the screening process is over.
+In my <a href="{{site.url}}/what-do-angel-investors-actually-do-part-1" target="_blank">previous post</a>, I talked about how angel investors find and screen potential investments. In this post, I'm going to discuss what happens after the screening process is over.
 
 ### Being Able to Invest in Great Companies
 

@@ -22,7 +22,7 @@ AngelList's Signal scores are between 0 and 10. In each of the charts below, the
 The right-most bar on each each is always the same -- it's the breakdown of high/medium/low scores across _all_ startups on AngelList. It's a reference point for comparing the cities and metros covered by each chart.
 
 ## Startup Quality by Metro Area
-![Quality composition by metro]({{ site.url }}public/img/signal_metros.png)
+![Quality composition by metro]({{ site.url }}/public/img/signal_metros.png)
 
 If you look at the global averages on the right, only 1% of startups in the world have high Signal scores, 36% have medium scores, and 63% have low scores.
 
@@ -36,7 +36,7 @@ SF and Silicon Valley lead the pack in terms of high-scoring companies. In fact,
 
 ### Silicon Valley
 
-![Quality composition by metro]({{ site.url }}public/img/signal_sv_cities.png)
+![Quality composition by metro]({{ site.url }}/public/img/signal_sv_cities.png)
 
 The two most interesting observations are:
 
@@ -45,7 +45,7 @@ The two most interesting observations are:
 
 ### East Bay
 
-![Quality composition by metro]({{ site.url }}public/img/signal_east_bay_cities.png)
+![Quality composition by metro]({{ site.url }}/public/img/signal_east_bay_cities.png)
 
 If you leave SF and go to the East Bay, the average quality decreases substantially. The percentage of startups with high Signal scores drops from 15-20% (in SF/Silicon Valley) to 5-10%.
 
@@ -55,19 +55,19 @@ There's a small tech hub in Oakland, and once you start going further out, like 
 
 ### Los Angeles
 
-![Quality composition by metro]({{ site.url }}public/img/signal_LA_cities.png)
+![Quality composition by metro]({{ site.url }}/public/img/signal_LA_cities.png)
 
 Los Angeles shows a similar pattern: Santa Monica (the tech epicenter of LA) has the strongest startups, then the distribution gets weaker as one travels further away.
 
 ### Washington DC
 
-![Quality composition by metro]({{ site.url }}public/img/signal_dc_cities.png)
+![Quality composition by metro]({{ site.url }}/public/img/signal_dc_cities.png)
 
 Washington DC and Baltimore are two nearby tech hubs with similar quality distributions. Cities between the hubs, like Rockville, Maryland, have a lower quality distribution.
 
 ### Seattle
 
-![Quality composition by metro]({{ site.url }}public/img/signal_seattle_cities.png)
+![Quality composition by metro]({{ site.url }}/public/img/signal_seattle_cities.png)
 
 The last example is Seattle. While Seattle has many more startups than surrounding suburbs, the pattern of decreasing average quality with increasing distance is not as strong. This is probably because cities like Redmond and Kirkland house the offices of tech giants like Microsoft and Google.
 

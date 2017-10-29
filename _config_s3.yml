@@ -13,7 +13,7 @@ title:            'Coding VC'
 tagline:          'A blog by Leo Polovets'
 description:      'Startups and startup investing from the perspective of a software engineer turned VC.'
 baseurl:          '/'
-url:              'http://codingvc.s3-website-us-west-1.amazonaws.com/'
+url:              'http://codingvc.s3-website-us-west-1.amazonaws.com'
 
 author:
   name:           'Leo Polovets'

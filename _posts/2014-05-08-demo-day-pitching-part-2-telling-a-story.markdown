@@ -10,7 +10,7 @@ tags:
 
 ### Inside an Investor's Mind
 
-Last week, I wrote <a href="{{site.url}}demo-day-pitching-part-1-common-problems" target="_blank">a post</a> about common problems I frequently see in demo day startup pitches. One thing that was intentionally missing from that post was _the _most common problem that I see, which I'd like to illustrate with a fictitious presentation:
+Last week, I wrote <a href="{{site.url}}/demo-day-pitching-part-1-common-problems" target="_blank">a post</a> about common problems I frequently see in demo day startup pitches. One thing that was intentionally missing from that post was _the _most common problem that I see, which I'd like to illustrate with a fictitious presentation:
 
 > "Hi, I'm Joe and I'm the founder and CEO of Foobar. Foobar is killing it! We already have 8 pilot customers, and thirty more -- including Yahoo and Dropbox -- are in the pipeline. Our team is amazing. We've worked at huge tech companies like Facebook and Google, and two of us have built and sold HR startups in the past. My cofounders and I are building software that streamlines the performance review process. Our tool is extremely easy to use and cuts review times by 80%. It also allows employees to submit feedback whenever they want instead of during a magical once-a-year period. Research indicates that employees spend 3% of their year on performance reviews, which results in $15B of wasted productivity every year. Everyone hates performance reviews because they take up so much time and because it's hard to remember what each of your dozen coworkers accomplished last year. If you're interested, please talk to me, Joe, after the demo."
 

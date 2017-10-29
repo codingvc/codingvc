@@ -6,7 +6,7 @@ date: 2016-06-14 05:24:00
 ---
 I was lucky enough to be one of LinkedIn's earliest employees in 2003. I joined the company when it was just over a dozen people and was the 2nd non-founding engineer hire.
 
-![LinkedIn's team at 2 million members]({{ site.url }}public/img/2million.jpg)
+![LinkedIn's team at 2 million members]({{ site.url }}/public/img/2million.jpg)
 <center>_Team photo from 2005, when we reached 2,000,000 users_</center>
 
 Yesterday, I woke up to the news that Microsoft is acquiring LinkedIn for $26b in cash. It was a surreal story to read because when I left Microsoft to join LinkedIn in 2003, I never imagined that one day that tiny startup would be acquired for almost 7% of Microsoft's market cap.

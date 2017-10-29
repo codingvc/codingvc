@@ -8,7 +8,7 @@ tags:
 - "AngelList"
 ---
 
-A few weeks ago, I did <a href="{{site.url}}analyzing-angellist-job-postings-part-1-basic-stats" target="_blank">a basic analysis of AngelList job postings</a>. That analysis looked at attributes like job locations, vesting schedules, and commonly requested skills.
+A few weeks ago, I did <a href="{{site.url}}/analyzing-angellist-job-postings-part-1-basic-stats" target="_blank">a basic analysis of AngelList job postings</a>. That analysis looked at attributes like job locations, vesting schedules, and commonly requested skills.
 
 In this post, I'll look at salary and equity numbers based on startup size. In my experience, founders frequently give out equity grants that are too generous or too stingy. The dangers of stinginess are that candidates will choose to work somewhere else and that you will waste a lot of time interviewing people who definitely won't take your offer. The danger of generosity is that, especially for the first few hires, you are giving away much more equity than you need to. That equity could be used to give stronger offers to multiple candidates later on, to raise more money from investors, or to retain more decision-making power for founders.
 
@@ -72,11 +72,11 @@ After employee #1, salaries for employees were relatively close together, with o
 Here are graphs of min/max engineering salaries:
 
 <center>
-<a href="{{ site.url }}public/img/angellist-salary-eng-min.png" target="_blank"><img src="{{ site.url }}public/img/angellist-salary-eng-min.png" alt="Min Eng Salaries"></a>
+<a href="{{ site.url }}/public/img/angellist-salary-eng-min.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-salary-eng-min.png" alt="Min Eng Salaries"></a>
 </center>
 
 <center>
-<a href="{{ site.url }}public/img/angellist-salary-eng-max.png" target="_blank"><img src="{{ site.url }}public/img/angellist-salary-eng-max.png" alt="Max Eng Salaries"></a>
+<a href="{{ site.url }}/public/img/angellist-salary-eng-max.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-salary-eng-max.png" alt="Max Eng Salaries"></a>
 </center>
 
 The way to interpret these graphs is that the horizontal axis is the salary's percentile among all other salaries. For example, if a company is offering a salary range of $90k - $140k for an engineer who will be the 8th employee, then we can see that $90k and $140k are each at the 60th-70th percentile on their respective graphs, so the salary offer is pretty good (better than 2/3 of startups).
@@ -86,23 +86,23 @@ The way to interpret these graphs is that the horizontal axis is the salary's pe
 The following graphs are histograms for max equity stakes of different job offers. Each bar represents a single startup's offer. For example, the first graph shows that for hire #1, 6 startups offered up to 2% equity, 4 startups offered up to 3%, and 3 startups offered up to 5%.
 
 <center>
-<a href="{{ site.url }}public/img/angellist-salary-equity-1.png" target="_blank"><img src="{{ site.url }}public/img/angellist-salary-equity-1.png" alt="Equity Employee #1"></a>
+<a href="{{ site.url }}/public/img/angellist-salary-equity-1.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-salary-equity-1.png" alt="Equity Employee #1"></a>
 </center>
 
 <center>
-<a href="{{ site.url }}public/img/angellist-salary-equity-2-5.png" target="_blank"><img src="{{ site.url }}public/img/angellist-salary-equity-2-5.png" alt="Equity Employees #2 - #5"></a>
+<a href="{{ site.url }}/public/img/angellist-salary-equity-2-5.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-salary-equity-2-5.png" alt="Equity Employees #2 - #5"></a>
 </center>
 
 <center>
-<a href="{{ site.url }}public/img/angellist-salary-equity-6-11.png" target="_blank"><img src="{{ site.url }}public/img/angellist-salary-equity-6-11.png" alt="Equity Employees #6 - #11"></a>
+<a href="{{ site.url }}/public/img/angellist-salary-equity-6-11.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-salary-equity-6-11.png" alt="Equity Employees #6 - #11"></a>
 </center>
 
 <center>
-<a href="{{ site.url }}public/img/angellist-salary-equity-12-21.png" target="_blank"><img src="{{ site.url }}public/img/angellist-salary-equity-12-21.png" alt="Equity Employees #12 - #21"></a>
+<a href="{{ site.url }}/public/img/angellist-salary-equity-12-21.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-salary-equity-12-21.png" alt="Equity Employees #12 - #21"></a>
 </center>
 
 <center>
-<a href="{{ site.url }}public/img/angellist-salary-equity-22-35.png" target="_blank"><img src="{{ site.url }}public/img/angellist-salary-equity-22-35.png" alt="Equity Employees #22 - #35"></a>
+<a href="{{ site.url }}/public/img/angellist-salary-equity-22-35.png" target="_blank"><img src="{{ site.url }}/public/img/angellist-salary-equity-22-35.png" alt="Equity Employees #22 - #35"></a>
 </center>
 
 I expected to see a consistent drop for each additional employee, but was surprised to find that offers remained consistently high for many employees at a time. For example, the equity for Hire #5 is often similar to the equity for Hire #2. This feels like a market inefficiency, as Hire #5 is taking on much less risk than Hire #2.  

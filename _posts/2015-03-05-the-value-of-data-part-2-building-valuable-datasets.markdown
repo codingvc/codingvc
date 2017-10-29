@@ -10,9 +10,9 @@ tags:
 Data is incredibly valuable. It helps create superior products, it forms a barrier to entry, and it can be directly monetized. This post is the second in a 3-part series about making data a core part of a startup's business plan.
 
 ### 3-Part Series
-<a href="{{site.url}}the-value-of-data-part-1-using-data-as-a-competitive-advantage" target="_blank">**Part 1**</a>: An explanation of why data is becoming increasingly valuable + a catalog of ways in which data creates competitive advantages.  
+<a href="{{site.url}}/the-value-of-data-part-1-using-data-as-a-competitive-advantage" target="_blank">**Part 1**</a>: An explanation of why data is becoming increasingly valuable + a catalog of ways in which data creates competitive advantages.  
 **Part 2**: How to accumulate data + pitfalls to be aware of. [this post]  
-<a href="{{site.url}}the-value-of-data-part-3-data-business-models" target="_blank">**Part 3**</a>:  A catalog of business models where data plays a key role.
+<a href="{{site.url}}/the-value-of-data-part-3-data-business-models" target="_blank">**Part 3**</a>:  A catalog of business models where data plays a key role.
 
 In this post, I'm going to talk about tips and strategies for building valuable datasets.
 
@@ -27,7 +27,7 @@ What should you strive for as you accumulate data? Here are the key attributes o
 
 ### Data Sources
 
-Ok, you read the <a href="{{site.url}}the-value-of-data-part-1-using-data-as-a-competitive-advantage" target="_blank">first post</a> in this series and you're convinced that data is great and that you want more of it. But how do you get it? Here are some proven approaches:
+Ok, you read the <a href="{{site.url}}/the-value-of-data-part-1-using-data-as-a-competitive-advantage" target="_blank">first post</a> in this series and you're convinced that data is great and that you want more of it. But how do you get it? Here are some proven approaches:
 
 * **Direct collection**. Sensors, web forms, surveys, interviews, etc. are all great ways to collect data directly.
 * **Crowdsourcing**. Companies like Glassdoor, Yelp, and Waze get data through user contributions. Crowdsourcing is a subset of direct collection, but deserves its own bullet point because users are often unaware that they're helping a company build a data asset. For example, Yelp users write reviews because they want to express their opinions, but those reviews also help build up Yelp's dataset.

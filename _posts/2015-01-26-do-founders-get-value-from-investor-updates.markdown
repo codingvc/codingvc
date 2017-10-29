@@ -53,4 +53,4 @@ An even more dangerous scenario is when a founder doesn't realize that something
 
 The theme here is that if an investor doesn't know what you're up to, they can't reach out to you when something seems out of whack. For that reason, updates are an amazing opportunity to learn about what "you don't know you don't know" because you can write a couple of paragraphs and include several bullet points about what happened since the last update, and proactive investors will chime in as appropriate.
 
-If you're a founder, I hope this list of benefits is compelling enough to give monthly updates a try. If you're not sure what to write, check out <a href="{{site.url}}investor-update-email-template" target="_blank">this template</a>.
+If you're a founder, I hope this list of benefits is compelling enough to give monthly updates a try. If you're not sure what to write, check out <a href="{{site.url}}/investor-update-email-template" target="_blank">this template</a>.

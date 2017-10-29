@@ -18,17 +18,17 @@ I think a great way to think about different types of pitches is to look at what
 
 Each of these products appeals to different audiences, and that's reflected in the content and the design. For example, because posters are for passersby with short attention spans, they're unlikely to include paragraphs of text or shots from many different scenes. A poster is typically just a photo of the best known-actor(s) in the movie, a one sentence tagline, a background that provides a hint about the plot, and maybe quote from a famous critic. For example, here's the poster for Total Recall:
 
-<center><a href="{{ site.url }}public/img/movies-total-recall.jpg" target="_blank"><img src="{{ site.url }}public/img/movies-total-recall.jpg" alt="Total Recall"></a></center>
+<center><a href="{{ site.url }}/public/img/movies-total-recall.jpg" target="_blank"><img src="{{ site.url }}/public/img/movies-total-recall.jpg" alt="Total Recall"></a></center>
 
 What does this poster tell you? The movie features Arnold, the tagline implies that it's an action film, and the pyramid with two planets next to it suggests that the genre is probably sci-fi. That's it. There's no mention of Mars or mutants or erased memories or Philip K. Dick or anything else. Whoever designed this poster understood the audience (teenage boys) very well.
 
 There's no single formula for what a poster should show, only that it should show the most exciting things about your movie as quickly as possible. You absolutely do not have time for anything else. For example, a poster for _The Expendables_ only highlights the action stars in its cast. It doesn't bother with a tagline or quotes from critics because those don't really matter compared to having Sly Stallone, Bruce Willis, and Jason Statham in the same movie. 
 
-<center><a href="{{ site.url }}public/img/movies-expendables.jpg" target="_blank"><img src="{{ site.url }}public/img/movies-expendables.jpg" alt="Expendables"></a></center>
+<center><a href="{{ site.url }}/public/img/movies-expendables.jpg" target="_blank"><img src="{{ site.url }}/public/img/movies-expendables.jpg" alt="Expendables"></a></center>
 
 On the other hand, _A Separation_ is a foreign film whose actors are not well known in the US, so its poster wisely focuses on awards and praise from critics. 
 
-<center><a href="{{ site.url }}public/img/movies-separation.jpg" target="_blank"><img src="{{ site.url }}public/img/movies-separation.jpg" alt="Separation"></a></center>
+<center><a href="{{ site.url }}/public/img/movies-separation.jpg" target="_blank"><img src="{{ site.url }}/public/img/movies-separation.jpg" alt="Separation"></a></center>
 
 ### The Elevator Pitch
 
@@ -36,7 +36,7 @@ Your startup's elevator pitch should mimic the brevity and information density o
 
 (Note: these are made-up elevator pitches for Robinhood and Viv.) 
 
-Don't try to jam buzzwords into your blurb. Don't use <a href="{{site.url}}pitches-by-analogy-tips-and-gotchas" target="_blank">problematic analogies</a> that create more questions than answers. Don't make your elevator pitch longer than a few sentences.
+Don't try to jam buzzwords into your blurb. Don't use <a href="{{site.url}}/pitches-by-analogy-tips-and-gotchas" target="_blank">problematic analogies</a> that create more questions than answers. Don't make your elevator pitch longer than a few sentences.
 
 ### The Demo Day Pitch
 
@@ -46,7 +46,7 @@ The key principle to remember for demo day presentations is that your mission is
 
 ### The Full Pitch
 
-The full pitch is like a behind-the-scenes featurette -- or better yet, a special edition DVD loaded with commentaries and other extras. You want to cover everything there is to cover about your startup and how it works. Prepare a nice deck that stands alone -- because as much as you want to provide in-person narration when people first read your deck, that won't always be possible. Have appendices and supporting materials prepared for common questions about financial projections and customer acquisition. Weave <a href="{{site.url}}demo-day-pitching-part-2-telling-a-story" target="_blank">a good story</a> around your pitch, which will make your presentation more compelling and more memorable.
+The full pitch is like a behind-the-scenes featurette -- or better yet, a special edition DVD loaded with commentaries and other extras. You want to cover everything there is to cover about your startup and how it works. Prepare a nice deck that stands alone -- because as much as you want to provide in-person narration when people first read your deck, that won't always be possible. Have appendices and supporting materials prepared for common questions about financial projections and customer acquisition. Weave <a href="{{site.url}}/demo-day-pitching-part-2-telling-a-story" target="_blank">a good story</a> around your pitch, which will make your presentation more compelling and more memorable.
 
 ### Common Mistakes
 

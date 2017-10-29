@@ -22,7 +22,7 @@ Initially being candid was a challenge, but it has become much easier over time.
 ### Declining party invitations ("The more I get to know people, the more I like books.")
 
 <center>
-![Party]({{ site.url }}public/img/candidness-party.gif)
+![Party]({{ site.url }}/public/img/candidness-party.gif)
 </center>
 
 Like many engineers, I'm an introvert. I like people, but I can only be social in moderation. For many years, whenever someone would invite me to a party, I'd evade by saying I was busy or wasn't sure about my schedule. This year, I decided to try being honest:
@@ -73,5 +73,5 @@ It's been one month, and I've sent my list to about a dozen different people. Fe
 In each of these cases, there's an assumption that it's better to be polite and brief, but in my experience, that assumption is wrong. Being more open with feedback has led to many benefits for me: I'm invited to fewer and fewer parties, I have good relationships with entrepreneurs that my fund didn't invest in, and I'm more helpful for my portfolio companies. I do think there are times where polite dishonesty is a good idea ("of course that outfit doesn't make you look fat"), but those times are much less common than I used to believe.
 
 <center>
-![Far Side]({{ site.url }}public/img/candidness-far-side.jpg)
+![Far Side]({{ site.url }}/public/img/candidness-far-side.jpg)
 </center>
