@@ -9,9 +9,7 @@ tags:
 - "Talk Notes"
 ---
 
-I've been a fan of <a href="https://priceonomics.com/" target="_blank">Priceonomics</a> for a long time. They publish <a href="https://priceonomics.com/which-countries-destroy-the-environment-the-most/" target="_blank">thoughtful, data-heavy content</a> and they've written some <a href="https://www.amazon.com/Everything-Bullshit-greatest-scams-revealed-ebook/dp/B00L9G96NG/" target="_blank">fun books</a>.
-
-This post is a collection of my notes from the 2017 Priceonomics Content Marketing Conference, which was held a few weeks ago. The content was very high quality -- not surprising given the theme of the conference -- and included a lot of useful advice on creating content, scaling content teams, and building an audience.
+I've been a fan of <a href="https://priceonomics.com/" target="_blank">Priceonomics</a> for a long time. They publish <a href="https://priceonomics.com/which-countries-destroy-the-environment-the-most/" target="_blank">thoughtful, data-heavy content</a> and they've written some <a href="https://www.amazon.com/Everything-Bullshit-greatest-scams-revealed-ebook/dp/B00L9G96NG/" target="_blank">fun books</a>. This post is a collection of my notes from the 2017 Priceonomics Content Marketing Conference, which was held a few weeks ago. The content was very high quality -- not surprising given the theme of the conference -- and included a lot of useful advice on creating content, scaling content teams, and building an audience.
 
 ### Table of Contents
 
