@@ -3,7 +3,7 @@ layout: post
 date: 2017-11-22 05:06:00
 title: "Notes from Priceonomics' 2017 Content Marketing Conference"
 summary: "Notes on 15 content marketing talks from speakers like Rand Fishkin, Lisa Sugar, and Kim-Mai Cutler"
-preview_image: "priceonomics.png"
+preview_image: "priceonomics.jpg"
 tags:
 - "Notes"
 - "Talk Notes"
