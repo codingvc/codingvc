@@ -22,7 +22,7 @@ The experiment was a success and a lot fun, so I'm going to repeat it this year.
 
 The time slots will be between 10am and 6pm.
 
-There won't be any online/remote sessions -- I tried that last year and it didn't work as well as in person.
+There won't be any online/remote sessions -- I tried that last year and it didn't work as well as in-person.
 
 **Who is this for?**
 
