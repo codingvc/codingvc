@@ -58,8 +58,8 @@ Here's a full example of a (fictional) investor update for a (fictional) CRM sta
 > 
 > 
 > 
-> - # of paying users: 40 (+25% compared to last month)
-> - # of logins/user/day: 1.73 (+38%)
+> - \# of paying users: 40 (+25% compared to last month)
+> - \# of logins/user/day: 1.73 (+38%)
 > - Users active after 60 days: 37.5% (-8%)
 > - Employees: 5
 > - Monthly burn: $42k
