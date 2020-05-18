@@ -20,7 +20,7 @@ During the last few months, I've become a big fan of <a href="http://www.produc
 
 Here's a plot of of the vote distribution (each bar represents a single product):
 <center>
-![Sleeping Kitten]({{ site.url }}/public/img/ph-vote-distribution.png)
+<img src="{{ site.url }}/public/img/ph-vote-distribution.png" alt="" height="" width="" class="emailImage" />
 </center>
 
 ### Common Words in Product Names

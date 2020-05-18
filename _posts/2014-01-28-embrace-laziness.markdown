@@ -32,6 +32,6 @@ Next time you're faced with a problem, forget being clever. Figure out the simpl
 In short, embrace laziness.  
 
 <center>
-![Sleeping Kitten]({{ site.url }}/public/img/embrace-laziness-kitten.jpg)
+<img src="{{ site.url }}/public/img/embrace-laziness-kitten.jpg" alt="" height="" width="" class="emailImage" />
 Photo credit: http://www.flickr.com/photos/mistyanddavid
 </center>

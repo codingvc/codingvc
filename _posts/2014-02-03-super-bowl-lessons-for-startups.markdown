@@ -36,7 +36,7 @@ I reluctantly watched the Super Bowl last night. I'm not a football fan, but the
 - **Execution and team quality are critical to success**. Over the last few years, the "idea vs. execution" debate has swung solidly in favor of execution, and for good reason. To continue with the football analogies, who do you think would win: a Super Bowl quality team with a mediocre playbook or a mediocre team with a Super Bowl quality playbook? The best game plan is useless if you don't have a great team to execute it. That's true about business plans, too. The following chart offers a great summary:
 
 <center>
-![Execution Multipler Chart]({{ site.url }}/public/img/super-bowl-multiplier.jpg)
+<img src="{{ site.url }}/public/img/super-bowl-multiplier.jpg" alt="" height="" width="" class="emailImage" />
 </center>
 
 Finally, a meta-lesson: there are lessons present in every context. Of the hundreds of founders whom I've met, the most impressive ones are often the ones who are observant and analytical, and who use their thoughtfulness to come up with unexpected, non-obvious insights. Whether you're watching a football game or in an improv class or feeling frustrated by the poor menu design at your favorite restaurant, make it a habit to stop, analyze, and generalize what you observe. It'll make you a better entrepreneur.
