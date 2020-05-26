@@ -112,7 +112,7 @@ Goal: prove that your team can sell the product effectively.
 * <span style="color: #dccd12">[3]</span> You've done a lot of sales work that's similar to what you'll be doing at your startup.
 * <span style="color: #dccd12">[3]</span> You've built and led successful sales teams in the past.
 * <span style="color: #88d017">[4]</span> You have a strong, experienced sales team.
-* <span style="color: #35c41c">[5]</span> You're successfully selling you product at a good price and with reasonable sales cycles.
+* <span style="color: #35c41c">[5]</span> You're successfully selling your product at a good price and with reasonable sales cycles.
 
 ### <a name="market-risk"></a>6. Market Risk
 Goal: prove that if you execute well, you can make enough money to become a huge company (e.g. $1b+ exit potential).
@@ -154,7 +154,7 @@ Goal: prove that as you become successful and other companies try to copy you, y
 * <span style="color: #e8720c">[2]</span> You don't have a real competitive advantage, but at least you're the first mover.
 * <span style="color: #dccd12">[3]</span> You have weak competitive advantages: a few small patents, slightly better unit economics than new entrants, etc.
 * <span style="color: #88d017">[4]</span> You have moderate competitive advantages: good brand perception among your customers, significantly better unit economics, a strong patent portfolio, etc.
-* <span style="color: #35c41c">[5]</span> You have strong competitive advantages, like network effects or a proprietary datasets, that get stronger as you grow
+* <span style="color: #35c41c">[5]</span> You have strong competitive advantages, like network effects or proprietary datasets, that get stronger as you grow.
 
 ## <a name="how-to"></a>How to De-Risk
 
