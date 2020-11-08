@@ -8,15 +8,15 @@ I'm a software engineer turned VC. The highlight of my software career was being
 
 ##### 2012-Present
 
-Founding partner at Susa Ventures. We're a $90m seed stage venture capital fund. We were seed investors in companies like Robinhood, Flexport, Andela, Policygenius, Newfront, Fast, Stedi, and many more.
+Founding partner at <a href="https://www.susaventures.com" target="_blank">Susa Ventures</a>. We're a $90m seed stage venture capital fund. We were seed investors in companies like <a href="https://robinhood.com/" target="_blank">Robinhood</a>, <a href="https://www.flexport.com/" target="_blank">Flexport</a>, <a href="https://andela.com/" target="_blank">Andela</a>, <a href="https://www.policygenius.com/" target="_blank">Policygenius</a>, <a href="https://www.newfront.com/" target="_blank">Newfront</a>, <a href="https://www.fast.co/" target="_blank">Fast</a>, <a href="https://www.stedi.com/" target="_blank">Stedi</a>, and many more.
  
 ##### 2009-2012
-I spent four years at Factual, a location data platform. While there, I built many components from the ground up including an in-memory distributed search engine; a logging and analytics service; and the bulk of the data cleaning, deduping, and normalization pipeline.
+I spent four years at <a href="https://www.factual.com" target="_blank">Factual</a>, a location data platform. While there, I built many components from the ground up including an in-memory distributed search engine; a logging and analytics service; and the bulk of the data cleaning, deduping, and normalization pipeline.
 
 ##### 2005-2009
 
-I joined Google at little after its IPO and spent most of my tenure there working on real-time payment fraud detection. I wrote a large portion of the software infrastructure for that project and also designed and implemented some algorithmically complex fraud signals.
+I joined <a href="https://www.google.com" target="_blank">Google</a> a little after its IPO and spent most of my tenure there working on real-time payment fraud detection. I wrote a large portion of the software infrastructure for that project and also designed and implemented some algorithmically complex fraud signals.
 
 ##### 2003-2005
 
-I was the second non-founding engineer at LinkedIn. The story of how I lucked into that role can be found <a href="http://qr.ae/NCQEA" target="_blank">here</a>. While at LinkedIn, I worked on the first versions of products like LinkedIn Groups and LinkedIn Jobs and also implemented some of the core graph algorithms. 
+I was the second non-founding engineer at <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>. The story of how I lucked into that role can be found <a href="http://qr.ae/NCQEA" target="_blank">here</a>. While at LinkedIn, I worked on the first versions of products like LinkedIn Groups and LinkedIn Jobs and also implemented some of the core graph algorithms. 
