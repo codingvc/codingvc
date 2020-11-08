@@ -4,12 +4,19 @@ title: About
 summary: "Leo Polovets' short bio."
 ---
 
-### 
+I'm a software engineer turned VC. The highlight of my software career was being the 2nd non-founding engineer at LinkedIn and the highlight of my venture capital career has been building Susa Ventures over the past 8 years.
 
-I've been a software engineer for most of my career. Here's a quick summary of the jobs I've been fortunate enough to have over the last 10 years:
+##### 2012-Present
 
-- I was the second non-founding engineer at <a href="http://www.linkedin.com/" target="_blank">LinkedIn</a>. The story of how I lucked into that role can be found <a href="http://qr.ae/NCQEA" target="_blank">here</a>. While at LinkedIn, I worked on the first versions of products like LinkedIn Groups and LinkedIn Jobs and also implemented some of the core graph algorithms. 
-- After two years at LinkedIn, I spent 3+ years at <a href="https://www.google.com/" target="_blank">Google</a>, where I spent most of my tenure working on real-time payment fraud detection. I wrote a large portion of the software infrastructure for that project and also designed and implemented some algorithmically complex fraud signals. 
-- My most recent job involved spending 4 years at <a href="http://factual.com/" target="_blank">Factual</a>, a location data platform. While there, I built many components from the ground up including an in-memory distributed search engine; a logging and analytics service; and the bulk of the data cleaning, deduping, and normalization pipeline.
+Founding partner at Susa Ventures. We're a $90m seed stage venture capital fund. We were seed investors in companies like Robinhood, Flexport, Andela, Policygenius, Newfront, Fast, Stedi, and many more.
+ 
+##### 2009-2012
+I spent four years at Factual, a location data platform. While there, I built many components from the ground up including an in-memory distributed search engine; a logging and analytics service; and the bulk of the data cleaning, deduping, and normalization pipeline.
 
-I've been working with <a href="http://www.linkedin.com/in/chadabyers" target="_blank">three</a> <a href="http://www.linkedin.com/in/evaho1" target="_blank">great</a> <a href="http://www.linkedin.com/pub/seth-berman/1/649/31a" target="_blank">partners</a> on <a href="http://www.susaventures.com/" target="_blank">Susa Ventures</a> since late 2012.
+##### 2005-2009
+
+I joined Google at little after its IPO and spent most of my tenure there working on real-time payment fraud detection. I wrote a large portion of the software infrastructure for that project and also designed and implemented some algorithmically complex fraud signals.
+
+##### 2003-2005
+
+I was the second non-founding engineer at LinkedIn. The story of how I lucked into that role can be found <a href="http://qr.ae/NCQEA" target="_blank">here</a>. While at LinkedIn, I worked on the first versions of products like LinkedIn Groups and LinkedIn Jobs and also implemented some of the core graph algorithms. 
